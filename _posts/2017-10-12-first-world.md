@@ -18,7 +18,7 @@ introduction: 블로그 개설 관련 기념글
 - **글을 쓰고 싶었다**
 - 쓰여짐으로 나의 감정을 다른 누군가에게가 나의 감정받이가 되는걸 방지하고자 글을 써야된다고 생각했다.
 - 그리고 질리면 내가 마음대로 옷을 바꿀 수있는 <abbr title="HyperText Markup Langage">공간 </abbr> 이길 바랬다.
-- <cite>&mdash; 나만의, 나만을 위해, 나로인한,</cite>,<abbr title="HyperText Markup Langage">공간 </abbr> 여만 했기 때문.
+- <cite>&mdash; 나만의, 나만을 위해, 나로인한,</cite>,<abbr title="HyperText Markup Langage"> 공간 </abbr> 여만 했기 때문.
 - 그냥 나의 공간이 <del>누군가에게 보여지기 위한</del>이 아니라 <ins>나만의 배설적인</ins> 공간이였음 했다.
 
 정말 ... 오랜만에 구글링을 미친듯 하였고 (부족한 나의 능력때문에-)
@@ -31,4 +31,4 @@ introduction: 블로그 개설 관련 기념글
 #### 하지만,
 <del>검색이 안돼고</del> 
 <del>카테고리 분류가 안돼는건</del> ...아직 비밀...☠️
-...능력 부족이다...하아..😂
+...하아..someday 추가 예정😂
