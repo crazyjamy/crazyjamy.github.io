@@ -1,10 +1,3 @@
-
-## What is it?
-
-A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance ;)
-
-![Screenshot](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357238/jekflix-screenshot_qikqkl.jpg)
-
 ## Features
 
 - Gulp
@@ -28,17 +21,6 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 - Info Customization
 - Disqus
 - Google Analytics
-
-## Setup
-
-1. Install Jekyll (use the command `sudo gem install jekyll`)
-1. Fork the [Jekflix Template](https://github.com/thiagorossener/jekflix-template/fork)
-1. Clone the repo you just forked
-1. Edit `_config.yml` to personalize your site
-1. Check out the sample posts in `_posts` to see examples for assigning category, tags, image and other YAML data
-1. Read the documentation below for further customization pointers and documentation
-1. Remember to compile your assets files with Gulp
-
 
 ## Settings
 
