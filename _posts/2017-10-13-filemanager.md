@@ -2,7 +2,7 @@
 layout: post
 title: "File manager for PC"
 date: 2017-10-12 16:00:00
-image: 'https://user-images.githubusercontent.com/29529125/31527141-509de73a-b006-11e7-9758-9fa1c0d4f290.jpg'
+image: 'https://user-images.githubusercontent.com/29529125/31531474-53bbd3f2-b022-11e7-8d79-5e5682ed1f1b.jpg'
 description: 첫글 기념.
 category: 'Works'
 tags:
