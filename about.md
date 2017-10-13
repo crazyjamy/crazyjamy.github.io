@@ -7,7 +7,7 @@ permalink: /about/
 
 <!-- <img itemprop="image" class="img-rounded" src="#" alt="jamy"> -->
 😀 😃 😄 😁 😆
-## Hello, I,m Jamy 
+## Hello, I'm Jamy 
 
 My work includes a wide range of fields, reflecting her abilities in graphic design, UI design, motion graphic design, typography and many other fields. 
 
