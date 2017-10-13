@@ -1,0 +1,42 @@
+
+# Site Settings
+title: JAMY
+email: helllzzzooo@gmail.com
+description: blog
+baseurl:
+url: "https://crazyjamy.github.io/blog/" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: jamy
+user_description: just a designer.
+disqus_username: disqus_username
+
+# Social Media
+# Remove the item if you don't need it
+github_username: crazyjamy
+facebook_username: crazyjamy
+twitter_username: crazyJamy0
+instagram_username: crazy_life_user
+linkedin_username: linkedin_username
+medium_username: jamy_
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+#  - title: Contact url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
