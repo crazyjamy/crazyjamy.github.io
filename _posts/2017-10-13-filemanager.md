@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "File manager for PC"
-date: 2017-10-12 16:00:00
+date: 2017-10-13 19:00:00
 image: 'https://user-images.githubusercontent.com/29529125/31531474-53bbd3f2-b022-11e7-8d79-5e5682ed1f1b.jpg'
 description: File manger PC UI 제작기.
 category: 'Works'
