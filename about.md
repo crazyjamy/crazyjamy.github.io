@@ -7,8 +7,10 @@ permalink: /about/
 
 <!-- <img itemprop="image" class="img-rounded" src="#" alt="jamy"> -->
 😀 😃 😄 😁 😆
-## About
-Hello I'm a designer of Korea, Seoul.
-Thank you 
+## Hello, I,m Hyelin Bak. 
+## You can call me Jamy too.
 
-contact helllzzzooo@gmail.com
+My work includes a wide range of fields, reflecting her abilities in graphic design, UI design, motion graphic design, typography and many other fields. 
+
+### Ask me anything
+helllzzzooo@gmail.com
