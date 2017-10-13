@@ -26,15 +26,16 @@ introduction: File manger PC UI 제작기.
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31531198-8a1858a0-b020-11e7-920e-7a0c85b48fd1.jpg)
 
-<sup>File manager design for Window OS was part of the first wave of deployment of Mobile design on desktop. </sup>
+<sup>File manager design for Window OS was part of the first wave of deployment of Mobile design. </sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31532237-eb018c94-b026-11e7-9139-e670e6335c73.jpg)
 <sup>You can see the file list easily here.</sup>
 
-
 ![placeholder](https://user-images.githubusercontent.com/29529125/31533760-de6568c2-b02e-11e7-900c-d7bde53c5418.jpg)
 <sup>dropdown menu design & and detail view of file lists.</sup>
 
+![placeholder](https://user-images.githubusercontent.com/29529125/31533891-68f7b85a-b02f-11e7-922d-c27b1f4a86d0.jpg)
+<sup>You can watch the download process here.</sup>
 
 ## Used Color
 
