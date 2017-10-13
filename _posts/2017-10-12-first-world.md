@@ -6,7 +6,7 @@ image: 'https://user-images.githubusercontent.com/29529125/31527141-509de73a-b00
 description: 첫글 기념.
 category: 'life'
 tags:
-- jekyll
+- blog
 - blahblah
 twitter_text: 첫글 기념.
 introduction: 블로그 개설 관련 기념글
