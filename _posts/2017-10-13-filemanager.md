@@ -37,7 +37,7 @@ introduction: File manger PC UI 제작기.
 <sup>PC 🖥 의 파일리스트 확인은 여기서 한다.</sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31533760-de6568c2-b02e-11e7-900c-d7bde53c5418.jpg)
-<sup>드롭다운관련 및 파일 리스트 👇.</sup>
+<sup>드롭다운 👇 관련 및 파일 🗂 리스트.</sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31533891-68f7b85a-b02f-11e7-922d-c27b1f4a86d0.jpg)
 <sup>다운로드 프로세스 🔍</sup>
@@ -46,7 +46,7 @@ introduction: File manger PC UI 제작기.
 <sup>🤘툴팁으로 버튼의 용도를 확인 가능🤘</sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31534595-92bb2098-b032-11e7-8727-17726ea51b2f.jpg)
-<sup> ✔️ 설정화면 ✔️ </sup>
+<sup>⚙설정화면⚙</sup>
 
 ## Used Color
 
