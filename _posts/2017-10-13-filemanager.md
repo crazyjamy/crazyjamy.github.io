@@ -35,21 +35,21 @@ introduction: File manger PC UI 제작기.
 
 #### Primary Color
 
-`#C03D27`![#C03D27](https://placehold.it/15/C03D27/000000?text=+) RED 1
+`#C03D27` RED 1
 `#E5533B` RED 2
-![#E5533B](https://placehold.it/15/E5533B/000000?text=+)
+
 
 #### Secondary Color
 
-![#39D3D1](https://placehold.it/15/39D3D1/000000?text=+) `#39D3D1` Cyan
-![#003767](https://placehold.it/15/003767/000000?text=+) `#003767` Dark blue
-![#F5C32D](https://placehold.it/15/F5C32D/000000?text=+) `#F5C32D` Yellow
+ `#39D3D1` Cyan
+ `#003767` Dark blue
+ `#F5C32D` Yellow
 
 #### Gray Color
 
-![#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#FFFFFF` White
-![#f1f1f1](https://placehold.it/15/f2f2f2/000000?text=+) `#F1F1F1` Gray 01
-![#e1e1e1](https://placehold.it/15/e1e1e1/000000?text=+) `#969696` Gray 02
-![#969696](https://placehold.it/15/969696/000000?text=+) `#e1e1e1` Gray 03
-![#646464](https://placehold.it/15/969696/000000?text=+) `#646464` Gray 04
-![#444444](https://placehold.it/15/333333/000000?text=+) `#444444` Black
+`#FFFFFF` White
+`#F1F1F1` Gray 01
+`#969696` Gray 02
+`#e1e1e1` Gray 03
+`#646464` Gray 04
+`#444444` Black
