@@ -20,4 +20,7 @@ introduction: 제작은 되었지만 적용은 안돼었던.
 #### 아무튼,
 아래에 디자인에대한 설명을 이어 나가겠다. 
 
+
 File manager design for Window OS was part of the first wave of deployment of File manager Mobile design on desktop. 
+
+![placeholder](https://user-images.githubusercontent.com/29529125/31531198-8a1858a0-b020-11e7-920e-7a0c85b48fd1.jpg")
