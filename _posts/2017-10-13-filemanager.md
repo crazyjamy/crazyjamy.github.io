@@ -24,7 +24,7 @@ introduction: File manger PC UI 제작기.
 이프로젝트의 시작은 업그레이드 버전으로 Phone과 PC와의 파일을 동기화 해보자로 간단히 시작되었다.
 (사실은 사내에 비슷한 프로그램이 있다. [플라잉 파일](https://flying-file.com/new_index_kr.php))
 
-그러면서 **'파일센더'** 라는 기능이 추가되면서 일이 프로젝트는 시작하였다.
+그러면서 **'파일센더'** 라는 기능이 추가되면서 이 프로젝트는 시작하였다.
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31531198-8a1858a0-b020-11e7-920e-7a0c85b48fd1.jpg)
 
