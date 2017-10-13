@@ -45,7 +45,7 @@ introduction: File manger PC UI 제작기.
 ![placeholder](https://user-images.githubusercontent.com/29529125/31534241-169d0b08-b031-11e7-923b-7fd2fc769b54.jpg)
 <sup>🤘툴팁으로 버튼의 용도를 확인 가능🤘</sup>
 
-![placeholder](https://user-images.githubusercontent.com/29529125/31534595-92bb2098-b032-11e7-8727-17726ea51b2f.jpg)
+![placeholder](https://user-images.githubusercontent.com/29529125/31540951-0b021d6c-b048-11e7-89ea-5628f4a5bfac.jpg)
 <sup>⚙설정화면⚙</sup>
 
 ## Used Color
