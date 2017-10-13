@@ -4,7 +4,7 @@ title: JAMY
 email: helllzzzooo@gmail.com
 description: blog
 baseurl:
-url: "https://crazyjamy.github.io/blog/" # the base hostname & protocol for your site
+url: "https://crazyjamy.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
