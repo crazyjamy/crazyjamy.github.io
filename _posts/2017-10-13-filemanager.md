@@ -29,16 +29,16 @@ introduction: File manger PC UI 제작기.
 <sup>위에서 언급했다싶이 파일매니저 앱 업그레이드 버전으로 PC 🖥 연결이 가능해지면서 제작된 UI이다. </sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31534589-8b7ceafa-b032-11e7-9b26-fae0db2928b5.jpg)
-<sup>로그인은 최대한 깔끔하게 ⏩</sup>
+<sup>로그인 ⏩</sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31532237-eb018c94-b026-11e7-9139-e670e6335c73.jpg)
 <sup>PC 🖥 의 파일리스트 확인은 여기서 한다.</sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31533760-de6568c2-b02e-11e7-900c-d7bde53c5418.jpg)
-<sup>드롭다운은 요렇게 떨어진다👇.</sup>
+<sup>드롭다운관련 및 파일 리스트 👇.</sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31533891-68f7b85a-b02f-11e7-922d-c27b1f4a86d0.jpg)
-<sup>다운로드 프로세스 확인은 요기🔍</sup>
+<sup>다운로드 프로세스 🔍</sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31534241-169d0b08-b031-11e7-923b-7fd2fc769b54.jpg)
 <sup>🤘툴팁으로 버튼의 용도를 확인 가능🤘</sup>
