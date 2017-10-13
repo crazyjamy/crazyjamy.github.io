@@ -52,8 +52,8 @@ introduction: File manger PC UI 제작기.
 
 #### Primary Color
 
-`#C03D27` RED 1
-`#E5533B` RED 2
+`#C03D27` Red 1
+`#E5533B` Red 2
 
 #### Secondary Color
 
