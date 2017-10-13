@@ -1,27 +1,3 @@
-## Features
-
-- Gulp
-- Stylus
-- Live Search
-- Minutes to Read
-- Reading Progress Bar
- 
- ![Progress Bar](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357769/jekflix-progress-bar_he7gqf.jpg)
-- "New Post" tag
-- Load images on demand
-- Emojis 😎
-- Push Menu
-- SVG icons
-- Shell Script to create drafts and posts
-- Tags page
-- About page
-- Contact page
-- Feed RSS
-- Sitemap.xml
-- Info Customization
-- Disqus
-- Google Analytics
-
 ## Settings
 
 You have to fill some informations on `_config.yml` to customize your site.
