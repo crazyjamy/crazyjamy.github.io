@@ -11,7 +11,7 @@ twitter_text: File manager for PC.
 introduction: File manger PC UI 제작기.
 ---
 
-이번년도 여름쯤..회사 입사후 얼마 안되었을 때였던 것 같다. 
+이번년도 여름쯤..회사 입사후 얼마 안되었을 때 일이다. 
 모바일 UI 위주로 디자인 업무를 맡고 있다보니, 앱 UI만 계속 만지면서 지루하던 나에게 단비와같은 소식을 전해 받았다.
 "PC UI" 제작 할수 있게되었는데.. ㅇㅇ 하지만... 일정 및 기타 사유로 무산되었다. 🙀
 
@@ -28,7 +28,7 @@ introduction: File manger PC UI 제작기.
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31531198-8a1858a0-b020-11e7-920e-7a0c85b48fd1.jpg)
 
-<sup>위에서 말했듯이 파일매니저앱 업그레이드 버전으로 PC 🖥 연결 면능이 추가되면서 시작된 프로젝트이다. </sup>
+<sup>위에서 말했듯이 파일매니저앱 업그레이드 버전으로 PC 🖥 연결 기능이 추가되면서 시작된 프로젝트이다. </sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31534589-8b7ceafa-b032-11e7-9b26-fae0db2928b5.jpg)
 <sup>로그인 ⏩</sup>
