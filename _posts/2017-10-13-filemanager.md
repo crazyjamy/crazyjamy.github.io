@@ -3,12 +3,12 @@ layout: post
 title: "File manager for PC"
 date: 2017-10-12 16:00:00
 image: 'https://user-images.githubusercontent.com/29529125/31531474-53bbd3f2-b022-11e7-8d79-5e5682ed1f1b.jpg'
-description: 첫글 기념.
+description: File manger PC UI 제작기.
 category: 'Works'
 tags:
 - UI_PC
 twitter_text: File manager for PC.
-introduction: 제작은 되었지만 적용은 안돼었던.
+introduction: File manger PC UI 제작기.
 ---
 
 이번년도 여름쯤..회사 입사후 얼마 안되었을때 였다. 
