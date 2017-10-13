@@ -28,6 +28,9 @@ introduction: File manger PC UI 제작기.
 
 <sup>위에서 언급했다싶이 파일매니저 앱 업그레이드 버전으로 PC 🖥 연결이 가능해지면서 제작된 UI이다. </sup>
 
+![placeholder](https://user-images.githubusercontent.com/29529125/31534589-8b7ceafa-b032-11e7-9b26-fae0db2928b5.jpg)
+<sup>로그인은 최대한 깔끔하게 ⏩</sup>
+
 ![placeholder](https://user-images.githubusercontent.com/29529125/31532237-eb018c94-b026-11e7-9139-e670e6335c73.jpg)
 <sup>PC 🖥 의 파일리스트 확인은 여기서 한다.</sup>
 
@@ -39,6 +42,9 @@ introduction: File manger PC UI 제작기.
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31534241-169d0b08-b031-11e7-923b-7fd2fc769b54.jpg)
 <sup>🤘툴팁으로 버튼의 용도를 확인 가능🤘</sup>
+
+![placeholder](https://user-images.githubusercontent.com/29529125/31534595-92bb2098-b032-11e7-8727-17726ea51b2f.jpg)
+<sup> ✔️ 설정화면 ✔️ </sup>
 
 ## Used Color
 
@@ -61,3 +67,7 @@ introduction: File manger PC UI 제작기.
 `#e1e1e1` Gray 03
 `#646464` Gray 04
 `#444444` Black
+
+## 마치며,
+
+응....아무튼 지금은 해당 UI로 적용은 안돼어있고, 다른 UI로 런칭 준비 중이지만......더이상 말은 잇지 않겠다.💬
