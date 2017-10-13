@@ -35,10 +35,10 @@ introduction: File manger PC UI 제작기.
 
 #### Primary Color
 
-![#C03D27](https://placehold.it/15/C03D27/000000?text=+)
 `#C03D27` RED 1
-![#E5533B](https://placehold.it/15/E5533B/000000?text=+)
+![#C03D27](https://placehold.it/15/C03D27/000000?text=+)
 `#E5533B` RED 2
+![#E5533B](https://placehold.it/15/E5533B/000000?text=+)
 
 #### Secondary Color
 
