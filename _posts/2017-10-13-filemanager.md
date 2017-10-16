@@ -21,10 +21,9 @@ introduction: File manger PC UI 제작기.
 파일매니저란 앱은 간단하게 설명하자면, 그냥 **안드로이드 폰내의 파일들을 관리** 하는 앱이다. 
 
 다운로드 및 자세한 설명은 [여기](https://rte4a.app.goo.gl/TYCN) 를 참고하시면 되고,
-이프로젝트의 시작은 업그레이드 버전으로 Phone과 PC와의 파일을 동기화 해보자로 간단히 시작되었다.
+이프로젝트의 시작은 업그레이드 버전으로 파일센더[^file-sender]라는 기능이 추가되면서 시작되었다.
 (사실은 사내에 비슷한 프로그램이 있다. [플라잉 파일](https://flying-file.com/new_index_kr.php))
 
-그러면서 **'파일센더'** 라는 기능이 추가되면서 이 프로젝트는 시작하였다.
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31531198-8a1858a0-b020-11e7-920e-7a0c85b48fd1.jpg)
 
@@ -75,3 +74,5 @@ introduction: File manger PC UI 제작기.
 보여진 디자인은 그저 컨셉디자인이다. 실적용을 못한 디자인임으로 개연성은 없을지도 모른다. 그래서 기타 등등 미흡한 부분이 많다.
 
 끝.
+
+ [^file-sender]: **파일센더** 란? Phone과 PC와의 파일을 데이터 사용 없이 와이파이 다이렉트로 빠르게 파일 동기화 시켜주는 기능
