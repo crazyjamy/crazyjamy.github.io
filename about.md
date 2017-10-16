@@ -25,9 +25,7 @@ permalink: /about/
 
 #### Exhibition
 - New York, gallery MC, [I-Ya-Gi](http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/), 2014. 07. 13 - 2014. 08. 06
-
 - Seoul, [COEX, SEOUL ART SHOW](http://seoulartshow.com/n_sub02/2014_02_01.php), 2013. 12. 24 - 2013. 12. 29
-
 - Seoul, imazoo Gallery, [시퀀스전](http://www.imazoo.com/index.htm), 2014. 08. 02 - 2013. 08. 10
 
 
