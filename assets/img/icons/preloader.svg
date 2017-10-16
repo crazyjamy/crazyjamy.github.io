@@ -17,7 +17,7 @@
                     dur="1.9s"
                     repeatCount="indefinite" />
             </path>
-            <circle fill="#ff0a16" cx="36" cy="18" r="1">
+            <circle fill="#2196f3" cx="36" cy="18" r="1">
                 <animateTransform
                     attributeName="transform"
                     type="rotate"
