@@ -17,10 +17,10 @@ permalink: /about/
 - Designer at Jiran, J-mobile.io
 
 #### Past
-- Designer at Babosarang
+- Designer at [Babosarang](http://www.babosarang.co.kr/)
 - Designer at BESOFT
-- Designer at MOOOVR
-- Designer at SURF
+- Designer at [MOOOVR](http://mooovr.com/)
+- Designer at [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.)
 
 
 #### Exhibition
