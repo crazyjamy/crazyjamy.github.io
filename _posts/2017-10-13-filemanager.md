@@ -19,7 +19,6 @@ introduction: File manger PC UI 제작기.
 
 #### 아무튼,
 파일매니저란 앱은 간단하게 설명하자면, 그냥 **안드로이드 폰내의 파일들을 관리** 하는 앱이다. 
-
 다운로드 및 자세한 설명은 [여기](https://rte4a.app.goo.gl/TYCN) 를 참고하시면 되고,
 이프로젝트의 시작은 업그레이드 버전으로 파일센더[^file-sender]라는 기능이 추가되면서 시작되었다.
 (사실은 사내에 비슷한 프로그램이 있다. [플라잉 파일](https://flying-file.com/new_index_kr.php))
