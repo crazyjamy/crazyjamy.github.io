@@ -14,10 +14,10 @@ permalink: /about/
 한때는 순수 예술을 다루는 그림쟁이였으나 현재는 상업 예술을 다루는 디자이너로 활동하고 있습니다.
 
 #### Present 
-– Designer at Jiran, J-mobile.io
+- Designer at Jiran, J-mobile.io
 
 #### Past
-– Designer at Babosarang
+- Designer at Babosarang
 - Designer at BESOFT
 - Designer at MOOOVR
 - Designer at SURF
