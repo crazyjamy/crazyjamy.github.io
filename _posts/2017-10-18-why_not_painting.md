@@ -51,8 +51,8 @@ SNS는 가난한 이들이게 전시를 마음껏 무료로 제공해주는 마�
 
 최근에 리드 디자이너로서 디자인에 참여했던 앱들 이다.
 ![placeholder](https://user-images.githubusercontent.com/29529125/31710054-d92dcc88-b42e-11e7-9c7b-3e98e36e4ea4.gif)
-![placeholder](https://user-images.githubusercontent.com/29529125/31707826-559624f2-b428-11e7-8dbe-8561252ab4bf.png)
-![placeholder](https://user-images.githubusercontent.com/29529125/31708513-2048636c-b42a-11e7-8422-3172fd0dea72.png)
+![placeholder](https://user-images.githubusercontent.com/29529125/31710611-7a2fcfc2-b430-11e7-9ff0-1f8959e1bd25.png)
+![placeholder](https://user-images.githubusercontent.com/29529125/31710618-80aadd1a-b430-11e7-9f70-dcd30d27577a.png)
 
 <sup>HDVD 스트리밍 기반 동영상 다운로더 앱이다. 다운로드는 [여기서](https://rte4a.app.goo.gl/jdF1) </sup>
 무려 누적 1억다운로드를 당성해가고 있다.(현재는 약 8000만 다운로드)
