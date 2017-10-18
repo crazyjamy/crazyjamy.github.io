@@ -2,7 +2,7 @@
 layout: post
 title: "벼랑 끝에서 홀로 싸우기"
 date: 2017-10-13 19:00:00
-image: 'https://user-images.githubusercontent.com/29529125/31531474-53bbd3f2-b022-11e7-8d79-5e5682ed1f1b.jpg'
+image: 'https://user-images.githubusercontent.com/29529125/31705041-d344fc48-b41e-11e7-8c8a-c599a103b2e2.jpg'
 description: Why not painting?
 category: 'life'
 tags:
@@ -42,3 +42,5 @@ introduction: Why not painting?
 또한 전시 플랫폼중에 SNS라는 매개체가 생기면서 판이 많이 뒤집어졌다. 
 
 > 나는 전시를 하기위해 족히 적게는 50만원 많게는 100만원을 썼기 때문이다. 대학생인 나에게는 참으로 벅찬 금액이였다. 2달 동안 파트타임 알바를해야 벌어지는 금액이기에. 사실상 지금도 벅찬 금액이다.
+
+SNS는
