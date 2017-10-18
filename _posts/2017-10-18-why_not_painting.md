@@ -11,6 +11,8 @@ twitter_text: .
 introduction: Why not painting?
 ---
 
+<sup>타이틀 이미지는 내가 마지막으로 졸전외에 참여했던 전시[^mc-gallery] 부록이다. </sup>
+
 > 순수미술 전공하셨는데, 왜 디자인이에요? 
 
 가장 크게는 면접시, 작게는 일상 생활에서 자주 듣는 질문이다. 
@@ -83,3 +85,4 @@ SNS는 가난한 이들이게 전시를 마음껏 무료로 제공해주는 마�
 
 
 [^writer]: **작가** 란? 문학 작품, 사진, 그림, 조각 따위의 예술품을 창작하는 사람.[참고](http://krdic.naver.com/detail.nhn?docid=31904000)
+[^mc-gallery]: 전시설명? New York, gallery MC, [I-Ya-Gi](http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/), 2014. 07. 13 - 2014. 08. 06
