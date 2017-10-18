@@ -49,18 +49,19 @@ SNS는 가난한 이들이게 전시를 마음껏 무료로 제공해주는 마�
 
 나라는 사람은 관심병자라서, 나의 작품이 최대한 많은 사람들이 봐줬으면 좋겠다고 생각하고 나로인해 조금더 나은 경험을 했다고 생각하면 정말 다행이고 안녕하다.
 
-최근에 디자인에 참여했던 앱이다.
-
+최근에 리드 디자이너로서 디자인에 참여했던 앱이다.
+![placeholder](https://www.facebook.com/jmobile.io/videos/1943167449266062/)
 ![placeholder](https://user-images.githubusercontent.com/29529125/31707826-559624f2-b428-11e7-8dbe-8561252ab4bf.png)
 <sup>HDVD 스트리밍 기반 동영상 다운로더 앱이다. 다운로드는 [여기서](https://rte4a.app.goo.gl/jdF1) </sup>
 
+무려 누적 1억다운로드를 당성해가고 있다.(현재는 약 8000만 다운로드)
+여기서 말하고 싶은것은 난 늘 사용자의 커뮤니케이션 
 
 나는 누누히 말한다. 그림을 포기한 것은 아니다.
 
 
 
-
-[^writer]: **writer** 란? 문학 작품, 사진, 그림, 조각 따위의 예술품을 창작하는 사람.[참고](http://krdic.naver.com/detail.nhn?docid=31904000)
+[^writer]: **작가** 란? 문학 작품, 사진, 그림, 조각 따위의 예술품을 창작하는 사람.[참고](http://krdic.naver.com/detail.nhn?docid=31904000)
 
 
 
