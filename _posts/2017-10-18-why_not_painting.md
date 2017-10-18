@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "벼랑 끝에서 홀로 싸우기"
-date: 2017-10-13 19:00:00
+date: 2017-10-18 18:26:00
 image: 'https://user-images.githubusercontent.com/29529125/31705041-d344fc48-b41e-11e7-8c8a-c599a103b2e2.jpg'
 description: Why not painting?
 category: 'life'
