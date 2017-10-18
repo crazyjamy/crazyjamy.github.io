@@ -3,10 +3,10 @@ layout: post
 title: "Introduction"
 date: 2017-10-13 19:00:00
 image: 'https://user-images.githubusercontent.com/29529125/31593908-82ce7b80-b26c-11e7-9ba3-2a5decad0817.jpg'
-description: Introduction and Purpose.
+description: Purpose of this Blog.
 category: 'Topic'
 tags:
-- Introduction
+- Word
 twitter_text: Introduction and Purpose.
 introduction: Introduction and Purpose.
 ---
