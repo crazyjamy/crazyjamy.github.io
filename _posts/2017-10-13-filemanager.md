@@ -11,6 +11,8 @@ twitter_text: File manager for PC.
 introduction: File manger PC UI 제작기.
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230125585&amp;color=%232196f3&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
 이번년도 여름쯤..회사 입사후 얼마 안되었을 때 일이다. 
 모바일 UI 위주로 디자인 업무를 맡고 있다보니, 앱 UI만 계속 만지면서 지루하던 나에게 단비와같은 소식을 전해 받았다.
 "PC UI" 제작 할수 있게되었는데.. ㅇㅇ 하지만... 일정 및 기타 사유로 무산되었다. 🙀
