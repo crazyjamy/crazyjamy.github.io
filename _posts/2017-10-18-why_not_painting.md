@@ -58,12 +58,12 @@ SNS는 가난한 이들이게 전시를 마음껏 무료로 제공해주는 마�
 ![placeholder](https://user-images.githubusercontent.com/29529125/31710611-7a2fcfc2-b430-11e7-9ff0-1f8959e1bd25.png)
 ![placeholder](https://user-images.githubusercontent.com/29529125/31710618-80aadd1a-b430-11e7-9f70-dcd30d27577a.png)
 
-<sup>HDVD 스트리밍 기반 동영상 다운로더 앱이다. 다운로드는 [여기서](https://play.google.com/store/apps/details?id=com.ne.hdv) </sup>
+<sup>HDVD는 스트리밍 기반 동영상 다운로더 앱이다. [다운로드](https://play.google.com/store/apps/details?id=com.ne.hdv) </sup>
 
 ![placeholder](https://user-images.githubusercontent.com/29529125/31710008-bac359de-b42e-11e7-98af-f1f913be8310.gif)
 ![placeholder](https://user-images.githubusercontent.com/29529125/31710711-c8b026c4-b430-11e7-9e4a-e6865c73faf5.png)
 ![placeholder](https://user-images.githubusercontent.com/29529125/31710723-d4227034-b430-11e7-9ee3-de13976f5b18.png)
-<sup>JM Browser 스트리밍 기반 동영상 다운로드가 가능한 브라우징 앱이다. 다운로드는 [여기서](https://play.google.com/store/apps/details?id=io.jmobile.browser) </sup>
+<sup>JM Browser는 스트리밍 기반 동영상 다운로드가 가능한 브라우징 앱이다. [다운로드](https://play.google.com/store/apps/details?id=io.jmobile.browser) </sup>
 
 나는 누누히 말한다. 창작을 포기한 것은 아니다. 현재도 창작을 하고 사용자(관람자)들과 커뮤니케이션을 하고 사용자들의 `피드백`에 관심이 깊다.
 
