@@ -122,7 +122,7 @@ template{
   -webkit-tap-highlight-color:rgba(0,0,0,0)
 }
 h1,h2,h3,h4{
-  font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:700;font-style:normal
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:700;font-style:normal
 }
 .text-center{
   text-align:center
@@ -205,7 +205,7 @@ aside.open{
   left:0
 }
 aside h2{
-  margin:0 1.25rem 0;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;color:#141414;border-bottom:1px solid #141414;line-height:50px;}@media only screen and (min-width:37.5rem){
+  margin:0 1.25rem 0;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;color:#141414;border-bottom:1px solid #141414;line-height:50px;}@media only screen and (min-width:37.5rem){
     aside h2{
       font-size:1.25rem
     }
@@ -222,7 +222,7 @@ aside nav li{
   margin:0;list-style-type:none;
 }
 aside nav li a{
-  width:100%;display:block;padding:.938rem 1.25rem;text-decoration:none;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;color:#000;
+  width:100%;display:block;padding:.938rem 1.25rem;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;color:#000;
 }
 aside nav li a:hover{
   color:#fff;background:#000
@@ -237,7 +237,7 @@ aside nav li a:hover{
   position:relative;top:0;width:100%;-webkit-transform:translateX(-200px);transform:translateX(-200px);-webkit-transition:all 200ms 100ms cubic-bezier(0,.6,.4,1);transition:all 200ms 100ms cubic-bezier(0,.6,.4,1);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);opacity:0;z-index:19;
 }
 .search-form .search-field{
-  width:100%;height:2.5rem;line-height:1.875rem;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;font-size:1.25rem;color:#141414;background-color:#fff;border:0;border-radius:1.25rem;padding:.313rem 1.563rem;outline:0;
+  width:100%;height:2.5rem;line-height:1.875rem;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:1.25rem;color:#141414;background-color:#fff;border:0;border-radius:1.25rem;padding:.313rem 1.563rem;outline:0;
 }
 .search-form .search-field:focus{
   outline:0
@@ -246,7 +246,7 @@ aside nav li a:hover{
   top:0;-webkit-transform:translateX(0);transform:translateX(0);-ms-filter:none;-webkit-filter:none;filter:none;opacity:1
 }
 .search-form .search-list{
-  position:absolute;width:100%;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;display:none;padding:0 1.25rem;margin:1.25rem 0;list-style-type:none;
+  position:absolute;width:100%;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;display:none;padding:0 1.25rem;margin:1.25rem 0;list-style-type:none;
 }
 .active .search-form .search-list{
   display:block
@@ -334,7 +334,7 @@ body.main-page .bar-header{
   pointer-events:auto;-ms-filter:none;-webkit-filter:none;filter:none;opacity:1
 }
 main{
-  font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:400;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-top:5rem;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-top:5rem;
 }
 @media only screen and (min-width:37.5rem){
   main{padding-top:6.25rem
@@ -388,7 +388,7 @@ main{
   font-weight:300;font-size:1rem;color:#797979;pointer-events:none
 }
 .box-item .box-body h2{
-  margin:.625rem 0;font-size:1.5rem;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:800;font-style:normal;color:#000;line-height:1.875rem;
+  margin:.625rem 0;font-size:1.5rem;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:800;font-style:normal;color:#000;line-height:1.875rem;
 }
 .box-item .box-body p{
   margin:0 0 1.875rem;color:#c2c2c2;font-size:1.063rem;line-height:1.625rem
@@ -434,7 +434,7 @@ main{
   }
 }
 .post-content img + em{
-  display:block;color:#a9a9a9;text-align:center;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal
+  display:block;color:#a9a9a9;text-align:center;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal
 }
 .post-content p,.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content ul,.post-content ol,.post-content iframe{
   width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;line-height:2.188rem;padding:0 1.25rem;margin:0 auto 1.25rem;letter-spacing:.05rem;
@@ -484,7 +484,7 @@ main{
 .post-content iframe{
   margin-top:1.875rem;width:100%
 }
-.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content h5{font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:700;font-style:normal
+.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content h5{font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:700;font-style:normal
 }
 .post-content h1{
   font-size:2rem;line-height:1.4;
@@ -576,7 +576,7 @@ main{
   width:.938rem;height:.938rem;fill:#a9a9a9;vertical-align:middle;margin-right:.188rem
 }
 .post-content .tags{
-  width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;margin:0 auto 1.813rem;margin-top:1.875rem;letter-spacing:.01rem;line-height:2.5rem;
+  width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;margin:0 auto 1.813rem;margin-top:1.875rem;letter-spacing:.01rem;line-height:2.5rem;
 }
 .post-content .tags::after{
   content:'';display:table;clear:both}@media only screen and (min-width:37.5rem){.post-content .tags{font-size:1.25rem;letter-spacing:.05rem
@@ -589,7 +589,7 @@ main{
     color:#fff;border:1px solid #141414;background-color:#141414
 }
 .post-content .tag-title{
-  font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;font-size:2.375rem;margin-top:3.75rem;width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:2.375rem;margin-top:3.75rem;width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;
 }
 .post-content .tag-title::after{
     content:'';display:table;clear:both
@@ -674,7 +674,7 @@ pre code::after{
   color:#a6e22e
 }
 .contact-form{
-  font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:700;font-style:normal;padding:.625rem;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:700;font-style:normal;padding:.625rem;
 }
 .contact-form fieldset{
   border:none;font-weight:normal
@@ -730,7 +730,7 @@ pre code::after{
   }
 }
 .author .def{
-  color:#808080;font-size:1.125rem;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;margin:.625rem;
+  color:#808080;font-size:1.125rem;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;margin:.625rem;
 }
 @media only screen and (min-width:37.5rem){
   .author .def{
@@ -741,7 +741,7 @@ pre code::after{
   margin:0;
 }
 .author .name a{
-  font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:700;font-style:normal;text-decoration:none;color:#000;font-size:1.875rem;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:700;font-style:normal;text-decoration:none;color:#000;font-size:1.875rem;
 }
 .author .name a:hover{
   color:#333
@@ -752,7 +752,7 @@ pre code::after{
   }
 }
 .author .desc{
-  font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;margin:.625rem;font-size:1rem;line-height:1.563rem;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;margin:.625rem;font-size:1rem;line-height:1.563rem;
 }
 @media only screen and (min-width:37.5rem){
   .author .desc{font-size:1.125rem
