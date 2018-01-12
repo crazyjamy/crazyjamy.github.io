@@ -1,4 +1,4 @@
-## 설정 관련 문서
+## 사이트 설정 관련
 
 아래의 문서에서  사이트 설정이 가능하다.`_config.yml`
 
@@ -28,7 +28,7 @@ medium_username: medium_username
 
 ## 색상 설정 관련 
 
-All color variables are in [src/styl/_variables.styl](src/styl/_variables.styl).
+아래의 문서에서  사이트 설정이 가능하다. [src/styl/_variables.styl](src/styl/_variables.styl).
 
 Default colors:
 
@@ -64,14 +64,14 @@ The new file will be created at `_posts` with this format `date-title.md`.
 
 ## Front-matter 
 
-When you create a new post, you need to fill the post information in the front-matter, follow this example:
+새로운 포스트 작성시 포스트 관련 정보는 front-matter 에 적는다, 아래의 예시를 따라한다.:
 
 ```
 ---
 layout: post
 title: "Welcome"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
+image: 'https://placehold.it/600x315'
 category: 'blog'
 tags:
 - blog
@@ -81,7 +81,7 @@ introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e
 ---
 ```
 
-**Your image size should have the proportion of a 600x315 image to look good on home page.**
+**이사이즈는 600x315 image를 지켜야 이미지가 예쁘게 보인다.**
 
 ## Run locally
 
@@ -281,7 +281,8 @@ Link: [Google](https://google.com, "google link")
 <http://example.com/>
 <address@example.com>
 
-##강조
+##강조 문구 관련 
+
 *single asterisks*
 _single underscores_
 **double asterisks**
@@ -302,14 +303,13 @@ __double underscores__
 
 Most of these elements are styled by browsers with few modifications on our part.
 
-## Images
-이미지 테스트 구관입니다.
+## 이미지 관련 
 
 ![placeholder](https://placehold.it/800x400 "Large example image")
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 ![placeholder](https://placehold.it/200x200 "Small example image")
 
-## Tables
+## Tables 관련
 
 표 사용 방법 입니다.
 
