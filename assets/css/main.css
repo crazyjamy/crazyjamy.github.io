@@ -752,10 +752,10 @@ pre code::after{
   }
 }
 .author .desc{
-  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;margin:.625rem;font-size:1rem;line-height:1.563rem;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:1rem;line-height:1.563rem;
 }
 @media only screen and (min-width:37.5rem){
-  .author .desc{font-size:1.125rem
+  .author .desc{font-size:0.8rem
   }
 }
 .comments{
