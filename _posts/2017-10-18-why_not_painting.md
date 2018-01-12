@@ -3,11 +3,11 @@ layout: post
 title: "Why not painting?"
 date: 2017-10-18 18:26:00
 image: 'https://user-images.githubusercontent.com/29529125/31705041-d344fc48-b41e-11e7-8c8a-c599a103b2e2.jpg'
-description:벼랑 끝에서 홀로 싸우기
+description: 벼랑 끝에서 홀로 싸우기
 category: 'life'
 tags:
 - Word
-twitter_text: .
+twitter_text: 벼랑 끝에서 홀로 싸우기
 introduction: 벼랑 끝에서 홀로 싸우기
 ---
 <sup>타이틀 이미지는 내가 마지막으로 참여했던 초대 전시[^mc-gallery]의 부록이다. </sup>
