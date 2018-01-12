@@ -1,6 +1,6 @@
-## Settings
+## 설정 관련 문서
 
-You have to fill some informations on `_config.yml` to customize your site.
+아래의 문서에서  사이트 설정이 가능하다.`_config.yml`
 
 ```
 # Site Settings
@@ -26,7 +26,7 @@ linkedin_username: linkedin_username
 medium_username: medium_username
 ```
 
-## Color customization
+## 색상 설정 관련 
 
 All color variables are in [src/styl/_variables.styl](src/styl/_variables.styl).
 
@@ -52,7 +52,7 @@ You can use the `initdraft.sh` to create your new drafts. Just follow the comman
 
 The new file will be created at `_drafts` with this format `date-title.md`.
 
-## Creating posts
+## 포스트 작성 관련 
 
 You can use the `initpost.sh` to create your new posts. Just follow the command:
 
@@ -92,7 +92,11 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `sudo npm install -g gulp gulp-cli`
 - Run `sudo gulp`
 
+## 마크 다운 관련 
+**[Markdown](http://whatismarkdown.com/)**은 텍스트 기반의 마크업언어로 2004년 존그루버에 의해 만들어졌으며 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능하다. 특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 웹에서도 보다 빠르게 컨텐츠를 작성하고 보다 직관적으로 인식할 수 있다.
+마크다운이 최근 각광받기 시작한 이유는 깃헙([https://github.com](https://github.com)) 덕분이다. 깃헙의 저장소Repository에 관한 정보를 기록하는 README.md는 깃헙을 사용하는 사람이라면 누구나 가장 먼저 접하게 되는 마크다운 문서였다. 마크다운을 통해서 설치방법, 소스코드 설명, 이슈 등을 간단하게 기록하고 가독성을 높일 수 있다는 강점이 부각되면서 점점 여러 곳으로 퍼져가게 된다.
 
+## 마크 다운 사용법 
 해당 공간은 문장을 적는공간입니다. 😆
 
 > 인용구 적을 일 있으면 사용하세요. 🤗
