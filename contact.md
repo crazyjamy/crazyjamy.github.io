@@ -31,11 +31,11 @@ permalink: /contact/
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="하시고 싶은 말을 적어주세요. " v-validate="'required'"
+        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="하시고 싶은 말을 적어주세요. 📝 보내기 후 확인 메일이 전송됩니다. 메일 확인 후 확인 버튼 클릭 하셔야 최종 전송됩니다. " v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
-        <button type="submit">보내기 후 확인 메일이 전송됩니다. 메일 확인후 최종 메일이 보내집니다!</button>
+        <button type="submit">보내기</button>
       </fieldset>
     </form>
   </div>
