@@ -730,7 +730,7 @@ pre code::after{
   }
 }
 .author .def{
-  color:#808080;font-size:1.125rem;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;margin:.625rem;
+  color:#444;font-size:1rem;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;margin:.625rem;
 }
 @media only screen and (min-width:37.5rem){
   .author .def{
@@ -741,7 +741,7 @@ pre code::after{
   margin:0;
 }
 .author .name a{
-  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:700;font-style:normal;text-decoration:none;color:#000;font-size:1.875rem;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-style:normal;text-decoration:none;color:#000;font-size:1rem;
 }
 .author .name a:hover{
   color:#333
