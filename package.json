@@ -1,14 +1,14 @@
 {
-  "name": "thiagorossener.github.io",
+  "name": "crazyjamy.github.io",
   "version": "1.0.0",
-  "description": "Blog pessoal de Thiago Rossener.",
+  "description": "Jamy Blog.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiagorossener/thiagorossener.github.io.git"
+    "url": "https://github.com/crazyjamy/crazyjamy.github.io"
   },
   "keywords": [
     "jekyll",
@@ -18,12 +18,12 @@
     "gulp",
     "stylus"
   ],
-  "author": "Thiago Rossener",
-  "license": "ISC",
+  "author": "Jamy",
+  "license": "MIC",
   "bugs": {
-    "url": "https://github.com/thiagorossener/thiagorossener.github.io/issues"
+    "url": "https://github.com/crazyjamy/crazyjamy.github.io/issues"
   },
-  "homepage": "https://github.com/thiagorossener/thiagorossener.github.io#readme",
+  "homepage": "https://github.com/crazyjamy/crazyjamy.github.io",
   "devDependencies": {
     "autoprefixer-stylus": "^0.14.0",
     "browser-sync": "^2.18.13",
