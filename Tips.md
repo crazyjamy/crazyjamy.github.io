@@ -288,7 +288,6 @@ _single underscores_
 __double underscores__
 ++underline++
 ~~cancelline~~
-```
 *single asterisks*
 _single underscores_
 **double asterisks**
