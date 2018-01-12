@@ -35,7 +35,7 @@ permalink: /contact/
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
-        <button type="submit">Send</button>
+        <button type="submit">보내기 후 확인 메일이 전송됩니다. 메일 확인후 최종 메일이 보내집니다!</button>
       </fieldset>
     </form>
   </div>
