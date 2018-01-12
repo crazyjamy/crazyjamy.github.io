@@ -748,7 +748,7 @@ pre code::after{
 }
 @media only screen and (min-width:37.5rem){
   .author .name a{
-    font-size:2.813rem
+    font-size:1.5rem
   }
 }
 .author .desc{
