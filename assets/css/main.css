@@ -459,7 +459,7 @@ main{
   font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:.813rem;letter-spacing:0;color:#a9a9a9;margin:0 auto;
 }
 @media only screen and (min-width:37.5rem){
-  .post-content p.post-info{font-size:0.7rem
+  .post-content p.post-info{font-size:0.8rem
   }
 }
 .post-content p.post-info span,.post-content p.post-info time{vertical-align:middle}.post-content p.post-info time{margin-right:.625rem;
