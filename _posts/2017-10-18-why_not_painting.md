@@ -54,18 +54,6 @@ SNS는 가난한 이들이게 전시를 마음껏 무료로 제공해주는 마�
 
 나라는 사람은 `관심병자`라서, 나의 작품이 최대한 많은 사람들이 봐줬으면 좋겠다고 생각하고 나로인해 조금 더 나은 경험을 했다고 생각하면 정말 다행이고 안녕하다.
 
-아래는 최근에 리드 디자이너로서 디자인에 참여했던 앱이다.
-![placeholder](https://user-images.githubusercontent.com/29529125/31710054-d92dcc88-b42e-11e7-9c7b-3e98e36e4ea4.gif)
-![placeholder](https://user-images.githubusercontent.com/29529125/31710611-7a2fcfc2-b430-11e7-9ff0-1f8959e1bd25.png)
-![placeholder](https://user-images.githubusercontent.com/29529125/31710618-80aadd1a-b430-11e7-9f70-dcd30d27577a.png)
-
-<sup>HDVD는 스트리밍 기반 동영상 다운로더 앱이다. [다운로드](https://play.google.com/store/apps/details?id=com.ne.hdv) </sup>
-
-![placeholder](https://user-images.githubusercontent.com/29529125/31710008-bac359de-b42e-11e7-98af-f1f913be8310.gif)
-![placeholder](https://user-images.githubusercontent.com/29529125/31710711-c8b026c4-b430-11e7-9e4a-e6865c73faf5.png)
-![placeholder](https://user-images.githubusercontent.com/29529125/31710723-d4227034-b430-11e7-9ee3-de13976f5b18.png)
-<sup>JM Browser는 스트리밍 기반 동영상 다운로드가 가능한 브라우징 앱이다. [다운로드](https://play.google.com/store/apps/details?id=io.jmobile.browser) </sup>
-
 나는 누누히 말한다. 창작을 포기한 것은 아니다. 현재도 창작을 진행하고 사용자(관람자)들과 커뮤니케이션을 하고 있다. 또한 사용자들의 `피드백`에 관심이 깊다.
 
 #### 상단의 물음에 답변을 정정하자면, 
@@ -73,9 +61,6 @@ SNS는 가난한 이들이게 전시를 마음껏 무료로 제공해주는 마�
 
 내 인생의 큰 그림을 보자면, 현재의 삶의 방식이 내가 나아가고자 했던 방식이 아닐까 한다.
 
-글 마무리 되는 시점에서 이야기하는 것 이지만, 신입 때는 회의 선상에 내 이름이 매일 매번 거론되곤 했었다. (안 좋은 쪽으로 말이다. 돌이켜 생각해보면 그냥 신입의 쓰디쓴 고배가 아니였나 싶다.) 요즘은 그래도 쓸모 있는 사람이 된것 같아서 괜스레, 다운로드 수며 리뷰 수를 해당 글에 언급했던 것 같다.
-
-`그래, 노력하니 되잖아` 라면서 스스로에게 뿌듯함 +1을 획득함에 정말 기분 좋은 요즘이다.
 
 
 [^writer]: **작가** 란? 문학 작품, 사진, 그림, 조각 따위의 예술품을 창작하는 사람.[참고](http://krdic.naver.com/detail.nhn?docid=31904000)
