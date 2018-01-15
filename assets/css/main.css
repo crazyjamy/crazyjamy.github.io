@@ -836,6 +836,7 @@ footer ul a:hover{
   width: 200px;
   height: 200px;
   background-repeat: no-repeat;
+  repeatCount: indefinite;
 }
 .shapeshifter.play {
   animation-name: play180;
