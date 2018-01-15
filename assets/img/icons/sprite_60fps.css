@@ -7,7 +7,7 @@
   }
 }
 .shapeshifter {
-  animation-duration: 3000ms infinite;
+  animation-duration: 3000ms;
   animation-timing-function: steps(180);
   width: 200px;
   height: 200px;
