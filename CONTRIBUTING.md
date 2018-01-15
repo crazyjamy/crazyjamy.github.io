@@ -32,7 +32,7 @@ medium_username: medium_username
 
 Default colors:
 
-![#ff0a16](https://placehold.it/15/ff0a16/000000?text=+) `#FF0A16` Theme Color
+![#2196f3](https://placehold.it/15/2196f3/000000?text=+) `#2196f3` Theme Color
 
 ![#141414](https://placehold.it/15/141414/000000?text=+) `#141414` Primary Dark
 
