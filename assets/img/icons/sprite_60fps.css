@@ -12,7 +12,7 @@
   width: 200px;
   height: 200px;
   background-repeat: no-repeat;
-  -webkit-animation: mymove 3s infinite;
+  -webkit-animation: 3s infinite;
 }
 .shapeshifter.play {
   animation-name: play180;
