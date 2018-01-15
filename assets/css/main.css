@@ -717,10 +717,10 @@ pre code::after{
   width:25px;height:25px;margin-right:.625rem
 }
 .author a{
-  fill:#a9a9a9;text-decoration:none;border:none;-webkit-transition:all .3s;transition:all .3s;
+  fill:#969696;text-decoration:none;border:none;-webkit-transition:all .3s;transition:all .3s;
 }
 .author a:hover{
-  fill:#ff0a16
+  fill:#2196f3
 }
 .author img{
   width:11.25rem;border-radius:50%;display:block;margin:auto;
