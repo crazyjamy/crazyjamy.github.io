@@ -7,12 +7,11 @@
   }
 }
 .shapeshifter {
-  animation-duration: 3000ms;
+  animation-duration: 3000ms infinite;
   animation-timing-function: steps(180);
   width: 200px;
   height: 200px;
   background-repeat: no-repeat;
-  -webkit-animation: 3s infinite;
 }
 .shapeshifter.play {
   animation-name: play180;
