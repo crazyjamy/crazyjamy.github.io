@@ -5,10 +5,10 @@
 ```
 # Site Settings
 title: Jamy | Designer
-email: youremail@gmail.com
+email: helllzzzooo@gmail.com
 description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+url: "https://crazyjamy.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User settings
