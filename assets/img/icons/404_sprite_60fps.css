@@ -12,6 +12,7 @@
   width: 200px;
   height: 200px;
   background-repeat: no-repeat;
+  animation-iteration-count: infinite;
 }
 .shapeshifter.play {
   animation-name: play180;
