@@ -11,7 +11,7 @@
 #### 2. 작성 규칙
 + 문서 생성은 [GFM (Github Flavored Markdown)](https://help.github.com/articles/github-flavored-markdown/) 을 사용한다. (확장자 `.md`)
 + 파일명은 영어로.
-+ 문서 작성은 이곳에서 한다.[crazyjamy.github.io/_posts/](crazyjamy.github.io/_posts/)
++ 문서 작성은 이곳에서 한다. [/_posts/](/_posts/)
 
 
 다시 한번 방문에주신 여러분께 감사드리며, 
