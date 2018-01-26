@@ -21,6 +21,9 @@ permalink: /motions/
 
 #### Motions List 
 
-🗓 18.01.16
+<sup> 🗓 18.01.16 </sup>
 ✍️ JMbrowser 로고를 활용한 test splash.
+
 [appsplash](https://crazyjamy.github.io/assets/html/jmdemo1a)
+
+***
