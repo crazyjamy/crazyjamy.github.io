@@ -22,6 +22,6 @@ permalink: /motions/
 #### Motions List 
 
 + [180116](https://crazyjamy.github.io/assets/html/jmdemo1a) ✍️ JMbrowser 로고를 활용한 test splash. 
-
++ [180117](https://crazyjamy.github.io/assets/html/videodemo1a.html) ✍️ JM VideoBrowser splash 가시안
 
 ***
