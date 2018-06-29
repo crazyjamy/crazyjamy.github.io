@@ -13,9 +13,8 @@ permalink: /motions/
 </style>
 
 
-## This Week I make 
+## What I make 
 
-+ ☝️ 1주일에 1 모션을 제작하여 업로드 한다.
 + ✌️ 1줄 설명 & 제작 날짜 & 모션이 담긴 url 을 공유.
 
 
