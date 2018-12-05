@@ -12,7 +12,7 @@ permalink: /about/
 
 
 #### Present 
-- Designer at [Jiran](http://jiran.com/), [jmobile.io](http://jmobile.io/)
+- Designer at Somewhere
 
 #### Past
 - Designer at [Babosarang](http://www.babosarang.co.kr/)
