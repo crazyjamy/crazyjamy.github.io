@@ -49,7 +49,7 @@ Mono가 붙은 폰트명은 고정 폭(monospaced typeface) 글꼴이다.(한 �
 
 HTML에서는 ```<b>```와 ```<i>```태그가 있고, 프로그램에서는 옵션만 키면 볼드와 이탤릭체로 표시가 된다고 한다. 아래의 예시처럼 가짜 볼드와 가짜 이탤릭이다. 글꼴이 라기보단 옵션으로 기울이고 두껍게 만든거라고 생각하면된다. (제대로 된 볼드와 이탤릭 글꼴이 따로 있다.) 
 
-+The quick brown fox jumps over the lazy dog.
++ The quick brown fox jumps over the lazy dog.
 + _The quick brown fox jumps over the lazy dog._
 + **The quick brown fox jumps over the lazy dog.**
 
