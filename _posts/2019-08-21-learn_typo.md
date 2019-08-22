@@ -11,7 +11,8 @@ twitter_text: 예전에 배웠지만, 다시 알아보자
 introduction: 예전에 배웠지만, 다시 알아보자
 ---
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@foxfox?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Natalia Y"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Natalia Y</span></a>
-<sup>위 이미지를 찍어주셔서 감사합니다. 위 이미지에서 참고하여 보면 영어의 대문자(upper case)와 소문자(lower case)는 활자 인쇄 시대에 식자공분들이 대문자는 위쪽 칸 소문자는 아래 칸에 보관했던 것에서 유래 되었다.<sup>
+
+<sup>위 이미지에서 참고하여 보면 영어의 대문자(upper case)와 소문자(lower case)는 활자 인쇄 시대에 식자공분들이 대문자는 위쪽 칸 소문자는 아래 칸에 보관했던 것에서 유래 되었다.<sup>
  
 #### 0.글의 목적  
 타이포에 대한 상식을 많이 까먹어서 다시 기억하려고 씁니다. 제가 다시 기억하고 싶은 부분 위주로 노트한다는 개념으로 쓰는 용도 입니다.
