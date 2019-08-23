@@ -452,7 +452,7 @@ main{
 .post-content p.subtitle{
   color:#2196f3;font-size:1.125rem;margin:0 auto .625rem;line-height:1.875rem;}@media only screen and (min-width:37.5rem){
       .post-content p.subtitle{
-        font-size:1rem;line-height:2.5rem
+        font-size:0.8rem;line-height:2.5rem
       }
 }
 .post-content p.post-info{
