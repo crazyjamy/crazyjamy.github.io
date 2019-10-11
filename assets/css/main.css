@@ -38,7 +38,7 @@ b,strong{
   font-weight:bolder
 }
 code,kbd,samp{
-  font-family:monospace,monospace;font-size:1em
+  font-family:monospace,monospace;font-size:0.8em
 }
 dfn{
   font-style:italic
