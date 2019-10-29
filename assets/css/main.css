@@ -539,6 +539,7 @@ main{
 }
 .post-content > table{
   margin:3.125rem auto;
+  max-width: 50rem;
 }
 @media only screen and (max-width:37.5rem){
   .post-content > table{
