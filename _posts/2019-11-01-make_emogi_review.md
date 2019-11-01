@@ -50,7 +50,7 @@ introduction: Emogi 제작기
 + ✅ 레이어 이름이 한글인 경우
 + ✅ 너무 많은 모션이 한 화면에 사용된 경우 
 
-## 이모지 애니메이션 
+## Lottie 활용
 
 ☝️만들었던 애니메이션을 정리하고 다듬었다.
 ![과정](https://user-images.githubusercontent.com/29529125/67750187-13634780-fa72-11e9-9146-ea10959f2936.png)
