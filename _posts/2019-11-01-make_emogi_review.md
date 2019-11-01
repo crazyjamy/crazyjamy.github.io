@@ -27,7 +27,7 @@ introduction: Emogi 제작기
 때는 바야흐로 페북의 이모지가 한창 나오고 움직이는 이모티콘들이 쏟아져 나오는 시기 였다. 가장 충격을 주었던 페이스북 이모지, 당연히 파보고 싶고 똑같이 만들어보고 싶었다. 
 
 👉 레퍼런스
-![Facebook Emogi](https://user-images.githubusercontent.com/29529125/66620115-51f7a600-ec1a-11e9-8b7c-f1d1cc32b814.png)
+![Facebook Emogi](https://user-images.githubusercontent.com/29529125/67752723-d3eb2a00-fa76-11e9-8c94-bf500485531a.jpg)
 
 ☝️스케치부터 시작하고,
 ![스케치](https://user-images.githubusercontent.com/29529125/67752728-db123800-fa76-11e9-8d4f-31d7ec7feb1c.png)
