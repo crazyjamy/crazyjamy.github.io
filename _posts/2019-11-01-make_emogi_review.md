@@ -53,20 +53,17 @@ introduction: Emogi 제작기
 ## 몽글 거리는 것에 대한 애착
 나라는 사람은 완벽한 원 보단 그냥 그... 아래에 무게중심이 생기면서 생기는 출렁임에 더 끌렸던 것 같다. 그래서 아래와 같은 캐릭터를 예전부터 추구했던 것 같다.
 
-움직이는 것에 흥미를 느껴서 한땀한땀 그려서 만들었던 캐릭터였다. 
+움직이는 것에 흥미를 느껴서 한땀, 한땀 그려서 만들었던 캐릭터였다. 
 ![과정](https://user-images.githubusercontent.com/29529125/68014438-f4172500-fcd2-11e9-8f28-c1d77a01ab86.jpg)
 
-하나 하나 그려서 만들었던지라 개발하시는 분께도 노가다로 slice 도 하나,하나씩 저장해가며 파일도 드렸었다. 
+그려서 만들었던지라 개발하시는 분께도 노가다로 slice 도 하나,하나씩 저장해가며 파일도 드렸었다. 
 ![SLICES](https://user-images.githubusercontent.com/29529125/68014325-89fe8000-fcd2-11e9-9a1c-f67c595b8652.png)
 
-사내 시스템 관리 앱이여서 그냥 테스트용으로 막 이런 것도 적용하는 기회가 생겨 그것도 나름 기쁨이였다. 진짜 뒷단에 보이는 디자인은 말도 안돼는 아이콘과 UI 이긴 하지만, 신입의 패기 & 무지함 이었다고 생각한다. (변명은 없기에, 하지 않게습니다.)
+사내 시스템 관리 앱이여서 그냥 테스트용으로 막 이런 것도 적용하는 기회가 생겨 그것도 나름 기쁨이였다. 진짜 뒷단에 보이는 디자인은 말도 안돼는 아이콘과 UI 이긴 하지만, 신입의 패기 & 무지함 이었다고 생각한다. (변명은 없기에, 하지 않겠다.)
 
 
 + ✅ TEST FINAL
-![TESTFINAL](https://user-images.githubusercontent.com/29529125/68014895-1b222680-fcd4-11e9-8ab9-0cfbffd6f1c0.gif)
-
-+ ✅ FINAL 
-![FINAL](https://user-images.githubusercontent.com/29529125/68014925-33924100-fcd4-11e9-8d74-dee5fe799ed1.gif)
+![TESTFINAL](https://user-images.githubusercontent.com/29529125/68016006-e4014480-fcd6-11e9-850a-c326419ad19f.gif)
 
 ## Lottie 활용
 
