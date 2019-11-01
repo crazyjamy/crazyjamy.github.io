@@ -1,10 +1,10 @@
 ---
 layout: post
-title: “Emogi 제작기”
-date: 2019-11-01 12:24:00
-image: 'https://user-images.githubusercontent.com/29529125/67750261-38f05100-fa72-11e9-9c59-d39cfaaff881.png'
-description: Feat. Facebook
-category: 'Today I Make’
+title: "Emogi 제작기"
+date: 2019-11-01 17:24:00
+image: 'https://user-images.githubusercontent.com/29529125/34928119-c27999f2-f9fe-11e7-8294-b0dedb0e29e2.jpg'
+description: emogi 
+category: 'Today I Make'
 tags:
 - TIM
 twitter_text: Emogi 제작기
