@@ -55,22 +55,35 @@ QR 제작시에는 특별한 문자 제한은 없지만, 과부하나 기타 오
 
 ## QR Scanner -> Barcode Scanner 
 초기버전에는 단순히 QR제작과 스캔만 되는 버전이였지만, 바코드를 더 추가하여 발전시켜보려고 노력하여 보았다. 
-개선하고자 하는 2가지
-- ✅바코드의 종류 증가
+개선하고자 하는 3가지
+
+- ✅스캔 가능한 바코드의 종류 추가
+- ✅제작 가능한 QR의 종류 추가
 - ✅입력창 UI 개선
 
 ### 바코드의 종류 
 공부하면서 느낀 것은 바코드의 종류는 생각보다 많았다. 추가해 볼 만한 바코드와 데이터 타입을 엑셀로 정리하여 보았다. 많은 종류 중에 몇 개만 더 추가해볼까? 하면서 프로젝트는 조금 씩 커져갔다.
 👉[바코드의종류](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing)
 
-#### 추가 되는 바코드
+#### 추가 되는 QR 데이터의 종류
 - ✅이메일
 - ✅URL
 - ✅전화번호
 - ✅연락처
 - ✅와이파이
-![바코드 종류](https://user-images.githubusercontent.com/29529125/77994274-a75c7680-7364-11ea-9092-9494d36215e2.png)
+
+#### 추가되는 기능에 아이콘들도 한번씩 손을 보게 되었다.
+
 ![추가되는 바코드 종류에 따른 Icons](https://user-images.githubusercontent.com/29529125/77995525-e986b780-7366-11ea-8872-8ec16e1dc849.png)
+
+### 입력창 UI 개선 
+추가되는 바코드 종류에 따른 현재 적용된 입력창의 한계가 있어서 변경 하게 되었다.
+
+#### 👉입력창이 1개인 경우
+![Prototype_textInsert](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
+#### 👉입력창이 다수인 경우
+![Prototype_textInsert](https://user-images.githubusercontent.com/29529125/77997819-058c5800-736b-11ea-9290-9ff1ed7c604a.gif)
+
 
 #### 8.참고 문서 
 - [나무위키-바코드](https://namu.wiki/w/%EB%B0%94%EC%BD%94%EB%93%9C)
