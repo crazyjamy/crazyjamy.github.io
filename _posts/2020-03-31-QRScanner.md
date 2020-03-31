@@ -2,7 +2,7 @@
 layout: post
 title: "Barcode Scanner 제작기"
 date: 2020-03-31 17:24:00
-image: 'https://user-images.githubusercontent.com/29529125/77984406-6a848580-734c-11ea-8482-3da99ac1a5b3.jpg'
+image: 'https://user-images.githubusercontent.com/29529125/77985224-ce0fb280-734e-11ea-9807-9eaa2bd8bb2e.png'
 description: Wi-Fi 비밀번호는 QR로
 category: 'Today I Make'
 tags:
