@@ -22,6 +22,16 @@ introduction: Wi-Fi 비밀번호는 QR로
 그 당시 나는 QR 정보를 입력하면서 실시간에 QR의 모양이 바뀌어 나간다면 사용자들이 흔하지만 낫설게 느낀 QR을 조금 더 재밌게 만들지 않을까에 꽂혔던것 같다.
 그 때는 와 나 천재네? 이랬지만, 지금은 여래개의 QR을 입력해야하는 경우라면 사실 웹이나 다른 UI가 나을지도 모른다는 생각은 2년이 지난 지금 들긴한다. 🤡
 
+#### 텍스트 입력창의 간단한 Prototype
+가장 고민을 많이 했던 부분 중 하나는 입력창을 위에 두느냐 아래에 두느냐였다. 테스트 결과 텍스트가 넘칠시에 뒷단에서 보이는 QR 이미지 생성하는 부분을 실시간으로 보기에는 힘들 것 같다는 결론으로 아래에 두었다.
+👉Prototype1
+![Prototype1](https://user-images.githubusercontent.com/29529125/77986816-00231380-7353-11ea-83c8-47a591ec18d2.gif)
+👉Prototype2
+![Prototype2](https://user-images.githubusercontent.com/29529125/77986163-63ac4180-7351-11ea-93fc-ca484fe5d82c.gif)
+
+
+#### 최종 
+
 👉QR 스캔
 ![QR Scan](https://user-images.githubusercontent.com/29529125/77983272-86d2f300-7349-11ea-8fa3-9ac7868f25ab.gif)
 
@@ -31,7 +41,9 @@ QR 제작시에는 특별한 문자 제한은 없지만, 과부하나 기타 오
 ![Qr Create](https://user-images.githubusercontent.com/29529125/77982474-63a74400-7347-11ea-957b-bcd08cb808a2.gif)
 
 👉스캔시 사용된 애니메이션 
-![Scanning Animation]()
+QR의 사각형 모양을 본따 스캔이 잘되고 있는 사용자의 심리적인 인식을 심어주기 위한 소소한 애니메이션이다.
+![Scanning Animation](https://user-images.githubusercontent.com/29529125/77986947-6a3bb880-7353-11ea-9a5b-8c4c641b0d6b.gif)
+[Scanning Animation](https://lottiefiles.com/18169-simple-scan-animation)
 
 ## 바코드의 종류 
 초기버전에는 단순히 QR제작과 스캔만 되는 버전이였지만, 바코드를 더 추가하여 발전시켜보려고 노력하여 보았다. 바코드의 종류는 생각보다 많았다. 
