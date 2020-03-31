@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emogi 제작기"
+title: "Emogi"
 date: 2019-11-01 17:24:00
 image: 'https://user-images.githubusercontent.com/29529125/67750261-38f05100-fa72-11e9-9c59-d39cfaaff881.png'
 description: 꿀렁이는 몽글이와의 인연
