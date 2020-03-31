@@ -22,7 +22,7 @@ introduction: Wi-Fi 비밀번호는 QR로
 그 당시 나는 QR 정보를 입력하면서 실시간에 QR의 모양이 바뀌어 나간다면 사용자들이 흔하지만 낫설게 느낀 QR을 조금 더 재밌게 만들지 않을까에 꽂혔던것 같다. 
 
 
-![Qr Scanner](https://user-images.githubusercontent.com/29529125/77982178-a583ba80-7346-11ea-80d7-96f75f888432.gif)
+![Qr Scanner](https://user-images.githubusercontent.com/29529125/77982474-63a74400-7347-11ea-957b-bcd08cb808a2.gif)
 
 
 #### 8.참고 문서 
