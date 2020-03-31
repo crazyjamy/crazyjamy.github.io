@@ -34,6 +34,7 @@ introduction: Wi-Fi 비밀번호는 QR로
 
 #### 👉스캔시 사용된 애니메이션 
 ℹ︎[lottie 경로](https://lottiefiles.com/18169-simple-scan-animation)
+
 QR의 사각형 모양을 본따 스캔이 잘되고 있는 사용자의 심리적인 인식을 심어주기 위한 소소한 애니메이션이다.
 ![Scanning Animation](https://user-images.githubusercontent.com/29529125/77987124-ec2be180-7353-11ea-97c4-a6fbae1284a5.gif)
 
