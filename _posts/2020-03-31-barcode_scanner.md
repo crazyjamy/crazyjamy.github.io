@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Barcode Scanner 제작기"
+title: "Barcode Scanner"
 date: 2020-03-31 17:24:00
 image: 'https://user-images.githubusercontent.com/29529125/77985224-ce0fb280-734e-11ea-9807-9eaa2bd8bb2e.png'
 description: Wi-Fi 비밀번호는 QR로
@@ -26,14 +26,16 @@ introduction: Wi-Fi 비밀번호는 QR로
 ![QR Scan](https://user-images.githubusercontent.com/29529125/77983272-86d2f300-7349-11ea-8fa3-9ac7868f25ab.gif)
 
 👉QR 제작
+QR 제작시에는 특별한 문자 제한은 없지만, 과부하나 기타 오류를 제한하기 위해서 1000자로 제한하여 진행하였었다.
+
 ![Qr Create](https://user-images.githubusercontent.com/29529125/77982474-63a74400-7347-11ea-957b-bcd08cb808a2.gif)
 
 👉스캔시 사용된 애니메이션 
 ![Scanning Animation]()
 
-## 바코드의 종류
+## 바코드의 종류 
 초기버전에는 단순히 QR제작과 스캔만 되는 버전이였지만, 바코드를 더 추가하여 발전시켜보려고 노력하여 보았다. 바코드의 종류는 생각보다 많았다. 
-추가해볼만한 바코드를 엑셀로 정리하여 보았다. 
+추가해볼만한 바코드와 데이터 타입을 엑셀로 정리하여 보았다. 
 👉[바코드의종류](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing)
 
 
