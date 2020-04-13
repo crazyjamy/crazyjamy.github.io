@@ -4,9 +4,9 @@ title: "Typography"
 date: 2019-08-21 12:03:00
 image: 'https://user-images.githubusercontent.com/29529125/63407386-562bf200-c427-11e9-80b3-6131f6ca7857.jpg'
 description: 예전에 배웠지만, 다시 알아보자
-category: 'Today I Learned'
+category: '배움'
 tags:
-- TIL
+- 배움
 twitter_text: 예전에 배웠지만, 다시 알아보자
 introduction: 예전에 배웠지만, 다시 알아보자
 ---
