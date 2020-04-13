@@ -21,6 +21,25 @@ permalink: /about/
 - Designer at [MOOOVR](http://mooovr.com/)
 - Designer at [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.)
 
+#### Project
++ ANDROID APP
+  +[SmamoriLauncher](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori)
+  +[HDVD](https://play.google.com/store/apps/details?id=com.ne.hdv)
+  +[Streamy](https://play.google.com/store/apps/details?id=com.fms.streamy)
+  +[VideoStream](https://play.google.com/store/apps/details?id=io.jmobile.video.browser)
+  +[INSTANT](https://play.google.com/store/apps/details?id=io.jmobile.instant)
+  +[TeamCalendar](https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar)
+  +[TeamFilemanager](https://play.google.com/store/apps/details?id=jiran.com.tmfilemanager)
+  +[TeamBrowser](https://play.google.com/store/apps/details?id=io.jmobile.tm.browser)
+  +[FileManager](https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager)
+  +[QRScanner](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
+  +[JMBrowser](https://play.google.com/store/apps/details?id=io.jmobile.browser)
+  +[바보사랑](https://play.google.com/store/apps/details?id=com.mbabo.android)
+  +[SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.)
+  
++ WEB
+  +[StoreBom](https://store.bom.co.kr/)
+  +[Babosarang](http://babosarang.co.kr/)
 
 #### Exhibition
 - New York, gallery MC, [I-Ya-Gi](http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/), 2014. 07. 13 - 2014. 08. 06
