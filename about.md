@@ -34,7 +34,7 @@ permalink: /about/
   + [FileManager](https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager)
   + [QRScanner](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
   + [JMBrowser](https://play.google.com/store/apps/details?id=io.jmobile.browser)
-  + [바보사랑](https://play.google.com/store/apps/details?id=com.mbabo.android)
+  + [Baobosarang](https://play.google.com/store/apps/details?id=com.mbabo.android)
   + [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.)
   
 + WEB
