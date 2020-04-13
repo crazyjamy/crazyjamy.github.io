@@ -4,7 +4,7 @@ title: "Barcode Scanner"
 date: 2020-03-31 17:24:00
 image: 'https://user-images.githubusercontent.com/29529125/77985224-ce0fb280-734e-11ea-9807-9eaa2bd8bb2e.png'
 description: 제작기 (부제:Wi-Fi 비밀번호는 QR로 전달해보면 어떨까?)
-category: '제작기'
+category: 'Project'
 tags:
 - 제작기
 twitter_text: Barcode Scanner 제작기
