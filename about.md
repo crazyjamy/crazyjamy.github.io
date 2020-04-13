@@ -49,11 +49,18 @@ permalink: /about/
   + [Babosarang](http://babosarang.co.kr/)
   + [KKaKKungNoriter](http://kkakkungnoriter.com/)
 
+#### Award
+- [72시간 도시 생생 프로젝트, 모즐디팀](http://www.lafent.com/sns/news_view.html?news_id=110411)
+  - 서울특별시, "참가상"
+- A Foundation Item Competitive Exhibition
+  - 충북대학교, "우수상"
+- 청렴공모전, 어플리케이션 부문
+  - 국민권익위원회, "우수상"
+
 #### Exhibition
 - New York, gallery MC, [I-Ya-Gi](http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/), 2014. 07. 13 - 2014. 08. 06
 - Seoul, COEX, [SEOUL ART SHOW](http://seoulartshow.com/n_sub02/2014_02_01.php), 2013. 12. 24 - 2013. 12. 29
 - Seoul, imazoo Gallery, [시퀀스전](http://www.imazoo.com/index.htm), 2014. 08. 02 - 2013. 08. 10
-
 
 #### Ask me anything
 helllzzzooo@gmail.com
