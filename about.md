@@ -40,9 +40,7 @@ permalink: /about/
   
 +iOS 
   + [Smamori](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028)
-  + 
   
-
 + WEB
   + [StoreBom](https://store.bom.co.kr/)
   + [Babosarang](http://babosarang.co.kr/)
