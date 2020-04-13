@@ -38,7 +38,7 @@ permalink: /about/
   + [Baobosarang](https://play.google.com/store/apps/details?id=com.mbabo.android)
   + [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.)
   
-+iOS 
++ iOS 
   + [Smamori](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028)
   
 + WEB
