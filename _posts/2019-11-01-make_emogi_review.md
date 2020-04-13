@@ -4,7 +4,7 @@ title: "Emogi"
 date: 2019-11-01 17:24:00
 image: 'https://user-images.githubusercontent.com/29529125/67750261-38f05100-fa72-11e9-9c59-d39cfaaff881.png'
 description: 꿀렁이는 몽글이와의 인연
-category: '제작기'
+category: 'Personal works'
 tags:
 - 제작기
 twitter_text: Emogi 제작기
@@ -73,13 +73,8 @@ introduction: 꿀렁이는 몽글이와의 인연
 + ✅ 다듬어진 이모지
 ![아웃풋](https://user-images.githubusercontent.com/29529125/67749362-59b7a700-fa70-11e9-9ca3-556860b40a2d.gif)
 
-+ 👉Love
-https://lottiefiles.com/10844-love-emogi
-+ 👉Fun
-https://lottiefiles.com/10889-fun-emogi
-+ 👉Wow
-https://lottiefiles.com/10888-wow-emogi
-+ 👉Sad
-https://lottiefiles.com/10843-sad-emogi
-+ 👉Angry
-https://lottiefiles.com/11006-angry-emogi
++ 👉[Love](https://lottiefiles.com/10844-love-emogi)
++ 👉[Fun](https://lottiefiles.com/10889-fun-emogi)
++ 👉[Wow](https://lottiefiles.com/10888-wow-emogi)
++ 👉[Sad](https://lottiefiles.com/10843-sad-emogi)
++ 👉[Angry](https://lottiefiles.com/11006-angry-emogi)
