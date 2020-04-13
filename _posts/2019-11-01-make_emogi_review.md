@@ -4,9 +4,9 @@ title: "Emogi"
 date: 2019-11-01 17:24:00
 image: 'https://user-images.githubusercontent.com/29529125/67750261-38f05100-fa72-11e9-9c59-d39cfaaff881.png'
 description: 꿀렁이는 몽글이와의 인연
-category: 'Today I Make'
+category: '제작기'
 tags:
-- TIM
+- 제작기
 twitter_text: Emogi 제작기
 introduction: 꿀렁이는 몽글이와의 인연
 ---
