@@ -41,9 +41,9 @@ permalink: /about/
 + iOS 
   + [Smamori](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028)
   + [INSTANT](https://apps.apple.com/us/app/repost-via-instant/id1343046782)
-  + [Babosarang](https://apps.apple.com/kr/app/%EB%B0%94%EB%B3%B4%EC%82%AC%EB%9E%91-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-babosarang/id786401379?mt=8&ign-mpt=uo%3D4)
   + [StoreBom](https://apps.apple.com/kr/app/%EC%8A%A4%ED%86%A0%EC%96%B4%EB%B4%84/id1196248800)
-  
+  + [Babosarang](https://apps.apple.com/kr/app/%EB%B0%94%EB%B3%B4%EC%82%AC%EB%9E%91-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-babosarang/id786401379?mt=8&ign-mpt=uo%3D4)
+
 + WEB
   + [StoreBom](https://store.bom.co.kr/)
   + [Babosarang](http://babosarang.co.kr/)
