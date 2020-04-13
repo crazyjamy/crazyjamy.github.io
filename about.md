@@ -47,6 +47,7 @@ permalink: /about/
 + WEB
   + [StoreBom](https://store.bom.co.kr/)
   + [Babosarang](http://babosarang.co.kr/)
+  + [KKaKKungNoriter](http://kkakkungnoriter.com/)
 
 #### Exhibition
 - New York, gallery MC, [I-Ya-Gi](http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/), 2014. 07. 13 - 2014. 08. 06
