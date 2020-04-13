@@ -6,7 +6,7 @@ image: 'https://user-images.githubusercontent.com/29529125/63407386-562bf200-c42
 description: 예전에 배웠지만, 다시 알아보자
 category: '배움'
 tags:
-- 배움
+- 기록
 twitter_text: 예전에 배웠지만, 다시 알아보자
 introduction: 예전에 배웠지만, 다시 알아보자
 ---
