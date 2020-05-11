@@ -8,7 +8,7 @@ permalink: /about/
 <!-- <img itemprop="image" class="img-rounded" src="#" alt="jamy"> -->
 😀 😃 😄 😁 😆
 ## Hello, 
-저는 새로운 것도 좋아하고요. 먹는거 좋아하고요. 게임도 좋아합니다. 
+저는 새로운 것도 좋아하고요. 맛있는 거 먹는 것도 좋아하고요. 게임도 좋아합니다. 
 최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
 
@@ -23,6 +23,7 @@ permalink: /about/
 
 #### Project
 + ANDROID APP
+  + [KLAK](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak)
   + [SmamoriLauncher](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori)
   + [HDVD](https://play.google.com/store/apps/details?id=com.ne.hdv)
   + [Streamy](https://play.google.com/store/apps/details?id=com.fms.streamy)
