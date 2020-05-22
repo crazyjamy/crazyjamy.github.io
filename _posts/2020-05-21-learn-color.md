@@ -4,7 +4,7 @@ title: "Color"
 date: 2020-05-21 19:00:00
 image: 'https://user-images.githubusercontent.com/29529125/82540892-9113af80-9b8a-11ea-93d6-a54ccc730909.jpg'
 description: 색상에 대한 이해 
-category: '배움'
+category: 'learn'
 tags:
 - 기록
 twitter_text: 색상에 대한 이해
