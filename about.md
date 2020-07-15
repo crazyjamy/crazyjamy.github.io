@@ -23,6 +23,7 @@ permalink: /about/
 
 #### Project
 + ANDROID APP
+  + [KidStream](https://play.google.com/store/apps/details?id=io.tm.kids.vstream)
   + [KLAK](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak)
   + [SmamoriLauncher](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori)
   + [HDVD](https://play.google.com/store/apps/details?id=com.ne.hdv)
