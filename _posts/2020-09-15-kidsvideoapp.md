@@ -28,7 +28,6 @@ introduction: 아이들의 영상 시청 통제가 가능할까?
 
 ### Character
 4명의 캐릭터 들을 제작하였다. 캐릭터들은 앱에 스며 들어 자연스럽게 앱의 이곳저곳에서 만나게끔 하였다.
-
 ![Character](https://user-images.githubusercontent.com/29529125/93155538-4b828000-f741-11ea-822f-585f9d3a8c4f.gif)
 
 ### Splash
@@ -45,6 +44,7 @@ introduction: 아이들의 영상 시청 통제가 가능할까?
 ![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93155756-bfbd2380-f741-11ea-92d2-52ae89657cea.gif)
 
 ## Behavior
+
 ### Channel List
 자연스럽게 5개의 컨텐츠가 지난 뒤에 캐릭터를 배치하여 지루하지 않게끔 하려고 노력하였다. (캐릭터의 애니메이션은 캐릭터 위에 알려드린 캐릭터들을 랜덤으로 노출 시켰다.)
 ![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93156560-4cb4ac80-f743-11ea-8119-fb23e3c85fa2.gif)
@@ -56,6 +56,10 @@ introduction: 아이들의 영상 시청 통제가 가능할까?
 ### History
 아이들이 어떤 영상을 얼마나 보았는지 궁금해할 보호자 분들께 알려주는 페이지이다. 얼마만큼 시청했으며, 어떤 영상을 관심있게 보았는지 알려준다.
 ![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93160698-d9636880-f74b-11ea-8699-6ef7fc2067f3.gif)
+
+### Search Result
+보호자가 직접 채널을 추가하여 채널을 차단시킬 수도 있고 커스터마이징된 영상이 부족하다면 따로 검색하여 추가시킬 수도 있는 페이지이다.
+![Prototype_SearchResult](https://user-images.githubusercontent.com/29529125/93162372-9efbca80-f74f-11ea-8a42-db33e5af4ce0.gif)
 
 ## Final
 실제 개발이 완료된 실제 앱은 [여기서](https://play.google.com/store/apps/details?id=io.tm.kpop.stream) 만나보시면 된다.
