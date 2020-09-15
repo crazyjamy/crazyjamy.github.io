@@ -33,7 +33,7 @@ introduction: Kids Customizing Video Contents App 제작기
 ![Character](https://user-images.githubusercontent.com/29529125/93155538-4b828000-f741-11ea-822f-585f9d3a8c4f.gif)
 
 #### Splash
-![Prototype2](https://user-images.githubusercontent.com/29529125/77986163-63ac4180-7351-11ea-93fc-ca484fe5d82c.gif)
+![Prototype_splash](https://user-images.githubusercontent.com/29529125/93064014-006d5c00-f6b2-11ea-822e-9e274a6436b4.gif)
 
 #### Tab Bar
 ![Prototype2](https://user-images.githubusercontent.com/29529125/77986163-63ac4180-7351-11ea-93fc-ca484fe5d82c.gif)
@@ -45,8 +45,6 @@ introduction: Kids Customizing Video Contents App 제작기
 #### Channel List
 자연스럽게 5개의 컨텐츠가 지난 뒤에 캐릭터를 배치하여 지루하지 않게끔 하려고 노력하였다. (캐릭터의 애니메이션은 캐릭터 위에 알려드린 캐릭터들을 랜덤으로 노출 시켰다.)
 ![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93156560-4cb4ac80-f743-11ea-8119-fb23e3c85fa2.gif)
-![Prototype_All](https://user-images.githubusercontent.com/29529125/93158797-d6ff0f80-f747-11ea-8d72-e57f2562db88.gif)
-
 
 #### Time out
 정해진 시간이 지나면 아래와 같은 화면을 노출 시켜서 아이와의 약속한 영상 시청시간이 끝났음을 알리게끔 진행하였다.
