@@ -35,7 +35,7 @@ introduction: 아이들의 영상 시청 통제가 가능할까?
 #### 시안 1
 ![Prototype_splash1](https://user-images.githubusercontent.com/29529125/93064014-006d5c00-f6b2-11ea-822e-9e274a6436b4.gif)
 #### 시안 2
-![Prototype_splash2](https://user-images.githubusercontent.com/29529125/93161134-de74e780-f74c-11ea-8e47-26ff5dc9b4d7.gif)
+![Prototype_splash2](https://user-images.githubusercontent.com/29529125/93184366-1bee6a80-f777-11ea-8314-5a3656b838f2.gif)
 
 ### Tab Bar
 ![Prototype2](https://user-images.githubusercontent.com/29529125/93155372-e75fbc00-f740-11ea-82e8-4bed41f69a2f.gif)
