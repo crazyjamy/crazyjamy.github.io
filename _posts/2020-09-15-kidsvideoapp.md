@@ -8,7 +8,7 @@ category: 'Project'
 tags:
 - 제작기
 twitter_text: Kids Customizing Video Contents App 제작기
-introduction: Kids Customizing Video Contents App 제작기
+introduction: 아이들의 영상 시청 통제가 가능할까?
 ---
 
 ## Intro
