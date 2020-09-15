@@ -19,7 +19,7 @@ introduction: 아이들의 영상 시청 통제가 가능할까?
 - ✅ 영상 시청시간을 제한하자
 
 ### Story Board
-![StoryBoard_KidsStream](https://user-images.githubusercontent.com/29529125/93044256-39e0a000-f68f-11ea-97e1-d42b27ecb785.png)
+![StoryBoard_KidsStream](https://user-images.githubusercontent.com/29529125/93167963-c311d880-f75c-11ea-9e4c-badfe481f02a.png)
 
 간단한 스토리보드는 최소한의 커뮤니케이션의 오류를 방지하기 위해 제작 되었었다. 디자인이 나온 이 후에 제작된 점은 회사 인원이 3명밖에 안 되기도 하고 2주 밖에 제작 기간이 없었기 때문에 따로 와이어프레임으로 제작 되지 않었다. 
 
