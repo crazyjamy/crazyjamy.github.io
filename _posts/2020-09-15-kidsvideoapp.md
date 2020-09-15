@@ -2,7 +2,7 @@
 layout: post
 title: Kids Customizing Video Contents App
 date: 2020-09-15 17:24:00
-image: 'https://user-images.githubusercontent.com/29529125/93156269-c4360c00-f742-11ea-8917-67d65c107916.png'
+image: 'https://user-images.githubusercontent.com/29529125/93159692-bdf75e00-f749-11ea-858e-2f52b556c8e8.png'
 description: 제작기
 category: 'Project'
 tags:
