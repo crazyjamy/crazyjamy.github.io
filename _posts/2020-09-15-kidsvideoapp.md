@@ -36,7 +36,7 @@ introduction: Kids Customizing Video Contents App 제작기
 ![Prototype_splash](https://user-images.githubusercontent.com/29529125/93064014-006d5c00-f6b2-11ea-822e-9e274a6436b4.gif)
 
 #### Tab Bar
-![Prototype2](https://user-images.githubusercontent.com/29529125/77986163-63ac4180-7351-11ea-93fc-ca484fe5d82c.gif)
+![Prototype2](https://user-images.githubusercontent.com/29529125/93155372-e75fbc00-f740-11ea-82e8-4bed41f69a2f.gif)
 
 #### Loading
 ![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93155756-bfbd2380-f741-11ea-92d2-52ae89657cea.gif)
