@@ -32,7 +32,11 @@ introduction: Kids Customizing Video Contents App 제작기
 ![Character](https://user-images.githubusercontent.com/29529125/93155538-4b828000-f741-11ea-822f-585f9d3a8c4f.gif)
 
 ### Splash
-![Prototype_splash](https://user-images.githubusercontent.com/29529125/93064014-006d5c00-f6b2-11ea-822e-9e274a6436b4.gif)
+해당 Spash를 제작하면서 360*640외의 해상도를 못 맞추었다는 슬픈 썰이 있다. 변명이겠지만 모든 해상도를 맞추는건 포기하자라는 결론이 나왔다. 시안 2는 모든 해상도를 맞추는 시안도 있었지만, 시안 1이 조금더 역동적이다 라는 의견에서 1로 굳혀졌다. 여하튼 가장 대중적인 해상도 360*640 에만 맞추기로 합의 했다. 
+#### 시안 1
+![Prototype_splash1](https://user-images.githubusercontent.com/29529125/93064014-006d5c00-f6b2-11ea-822e-9e274a6436b4.gif)
+#### 시안 2
+[Prototype_splash2](https://user-images.githubusercontent.com/29529125/93161134-de74e780-f74c-11ea-8e47-26ff5dc9b4d7.gif)
 
 ### Tab Bar
 ![Prototype2](https://user-images.githubusercontent.com/29529125/93155372-e75fbc00-f740-11ea-82e8-4bed41f69a2f.gif)
