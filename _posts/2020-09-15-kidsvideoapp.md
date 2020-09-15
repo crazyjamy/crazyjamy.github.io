@@ -62,4 +62,4 @@ introduction: 아이들의 영상 시청 통제가 가능할까?
 ![Prototype_SearchResult](https://user-images.githubusercontent.com/29529125/93162372-9efbca80-f74f-11ea-8a42-db33e5af4ce0.gif)
 
 ## Final
-[Android](https://play.google.com/store/apps/details?id=io.tm.kpop.stream) 만나보시면 된다.
+[Android](https://play.google.com/store/apps/details?id=io.tm.kpop.stream)
