@@ -3,8 +3,8 @@ layout: post
 title: "My First Loading Animation"
 date: 2015-05-01 00:00:00
 image: 'https://private-user-images.githubusercontent.com/29529125/329156398-ec7ff351-4a63-42dc-87a4-1ba0bacd6324.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMzg0NDMsIm5iZiI6MTcxNTIzODE0MywicGF0aCI6Ii8yOTUyOTEyNS8zMjkxNTYzOTgtZWM3ZmYzNTEtNGE2My00MmRjLTg3YTQtMWJhMGJhY2Q2MzI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA5VDA3MDIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiNjU1NjMxNzgzZDFjZjViMmUwMTJlYjBlZDlkYzk0ZDQwODQ2MmNlYjczNzYxZGQ3MGY3MmVjMTIxZmZjMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.haMT5zD5VTj2HsEfozZRhLucWP-l_OvscZMPi926fSQ'
-description: Emogi 아이콘 제작
-category: 'Icons'
+description: My First Loading Animation
+category: 'Personal Projects'
 tags:
 - Personal Projects
 twitter_text: My First Loading Animation
@@ -13,10 +13,11 @@ introduction: My First Loading Animation
 
 
 ## DESCRIPTION
-벡터 이미지 기반의 애니메이션 툴(ex: Lottie)이 나오기 전에 제작한 로딩 애니메이션입니다.
+벡터 이미지 기반의 애니메이션 툴(ex: Lottie)이 나오기 전에 제작한 로딩 애니메이션입니다. 
+당시 다니던 회사의 관리자 앱(알파버전)의 로딩 애니메이션으로 사용 되었었다.
 
 #### SKETCH
-![과정](https://user-images.githubusercontent.com/29529125/68014438-f4172500-fcd2-11e9-8f28-c1d77a01ab86.jpg)
+![과정](https://private-user-images.githubusercontent.com/29529125/329157590-635e9f08-1466-4c27-a590-7bf05d7e3d4b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMzg3NzIsIm5iZiI6MTcxNTIzODQ3MiwicGF0aCI6Ii8yOTUyOTEyNS8zMjkxNTc1OTAtNjM1ZTlmMDgtMTQ2Ni00YzI3LWE1OTAtN2JmMDVkN2UzZDRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA5VDA3MDc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2MzMyODNkOGM0MmUwZTQxNmJmMTc4NWFkYTExNGIyZWRhNDg0OWY2Yjg0NzNlMTYyNmEyOWQ0ZDczNWMwNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TOnLgziDYbwflCDucBRZHMxodhL1F0ay5AwRzC2rv6I)
 
 #### MOTIONS
 ![SLICES](https://user-images.githubusercontent.com/29529125/68014325-89fe8000-fcd2-11e9-9a1c-f67c595b8652.png)
