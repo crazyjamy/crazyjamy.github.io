@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Loading Animation"
+title: "Marshmello"
 date: 2015-05-01 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/marshmello.gif?raw=true'
 description: My First Loading Animation
@@ -17,7 +17,7 @@ introduction: My First Loading Animation
 당시 다니던 회사의 관리자 앱(알파버전)의 로딩 애니메이션으로 사용 되었었다.
 
 #### SKETCH
-![과정](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/marshmello.png?raw=true)
+![과정](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true)
 
 #### MOTIONS
 ![SLICES](https://user-images.githubusercontent.com/29529125/68014325-89fe8000-fcd2-11e9-9a1c-f67c595b8652.png)
