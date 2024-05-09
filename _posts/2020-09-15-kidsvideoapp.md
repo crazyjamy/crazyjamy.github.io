@@ -3,14 +3,13 @@ layout: post
 title: Kids Customizing Video Contents App
 date: 2020-09-15 17:24:00
 image: 'https://user-images.githubusercontent.com/29529125/93159692-bdf75e00-f749-11ea-858e-2f52b556c8e8.png'
-description: -
+description: 색상에 대한 이해 
 category: 'Projects'
 tags:
-- Projects
+- 기록
 twitter_text: Kids Customizing Video Contents App 제작기
 introduction: 아이들의 영상 시청 통제가 가능할까?
 ---
-
 ## Intro
 지난 연초에 코로나가 번지면서 집에서 하는 디지털 교육들이 유행하면서 우리 팀도 키즈 제품을 내보기로 하였다.
 
