@@ -13,8 +13,8 @@ introduction: My First Loading Animation
 
 
 ## DESCRIPTION
-벡터 이미지 기반의 애니메이션 툴(ex: Lottie)이 나오기 전에 제작한 프레임별 작업을 하였던 로딩 애니메이션입니다. 
-당시 다니던 회사의 관리자 앱(알파버전)의 로딩 애니메이션으로 사용 되었었다.
+이 애니메이션은 벡터 이미지를 기반으로 프레임별로 작업한 것으로, Lottie와 같은 애니메이션 툴이 등장하기 전에 제작되었습니다. 
+이는 당시 다니던 회사의 관리자 앱(알파 버전)에서 사용되었던 로딩 애니메이션입니다.
 
 #### SKETCH
 ![과정](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true)
