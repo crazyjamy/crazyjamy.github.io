@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Barcode Scanner"
+title: "Barcode Scanner App"
 date: 2020-03-31 17:24:00
 image: 'https://user-images.githubusercontent.com/29529125/77985224-ce0fb280-734e-11ea-9807-9eaa2bd8bb2e.png'
-description: 제작기 (부제:Wi-Fi 비밀번호는 QR로 전달해보면 어떨까?)
-category: 'Project'
+description: Wi-Fi 비밀번호를 QR 코드로 전달해보는 건 어떨까요?
+category: '2023.03'
 tags:
 - 제작기
-twitter_text: Barcode Scanner 제작기
-introduction: Wi-Fi 비밀번호는 QR로
+twitter_text: QR 스캐너 애플리케이션
+introduction: QR 스캐너 애플리케이션
 ---
 
 ## 들어가면서..
