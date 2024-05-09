@@ -14,7 +14,8 @@ introduction: My First Loading Animation
 
 ## DESCRIPTION
 이 애니메이션은 벡터 이미지를 기반으로 프레임별로 작업한 것으로, Lottie와 같은 애니메이션 툴이 등장하기 전에 제작되었습니다. 
-이는 당시 다니던 회사의 관리자 앱(알파 버전)에서 사용되었던 로딩 애니메이션입니다.
+몽글몽글한 젤리 형태를 닮아있어 '마시멜로'로 명명되었습니다. 
+이는 당시 다니던 회사의 관리자 앱(알파 버전)에서 사용되었던 로딩 애니메이션으로 사용되었습니다.
 
 #### SKETCH
 ![과정](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true)
