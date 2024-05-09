@@ -6,7 +6,7 @@ image: 'https://user-images.githubusercontent.com/29529125/77985224-ce0fb280-734
 description: Wi-Fi 비밀번호를 QR 코드로 전달해보는 건 어떨까요?
 category: '2023.03'
 tags:
-- 제작기
+- Projects
 twitter_text: QR 스캐너 애플리케이션
 introduction: QR 스캐너 애플리케이션
 ---
