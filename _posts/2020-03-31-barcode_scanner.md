@@ -48,7 +48,7 @@ introduction: QR 스캐너 애플리케이션
 ### ICONS
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/icons_qr_scanner.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 ### TEXTFIELD
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_textfield_states.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_textfield_states.png?raw=true" alt="Icons"  width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### UI
 #### Tutorial
