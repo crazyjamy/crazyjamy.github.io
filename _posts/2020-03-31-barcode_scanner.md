@@ -20,14 +20,15 @@ introduction: QR 스캐너 애플리케이션
 - 빠른 QR 인식 
 - 편한 UI
   
-### SCANNING A QR CODE
+### UI
+#### SCANNING A QR CODE
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_scanning_360-628.gif?raw=true" alt="QR Scan" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
-### SCAN ANIMATION
+#### SCAN ANIMATION
 <img src="https://user-images.githubusercontent.com/29529125/77987124-ec2be180-7353-11ea-97c4-a6fbae1284a5.gif" alt="QR Scan" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 ℹ[URL](https://lottiefiles.com/18169-simple-scan-animation)
 
-### QR CODE GENERATION
+#### QR CODE GENERATION
 - QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타 오류를 방지하기 위해 1000자로 제한하여 진행했습니다.
 <br>
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_create_360-628.gif?raw=true" alt="QR Scan" style="border: 1px solid #e1e1e1; border-radius: 10px;">
@@ -37,16 +38,17 @@ introduction: QR 스캐너 애플리케이션
 ## Version 2.0
 
 ### DESCRIPTION 
-2.0 버전을 고도화하기 위해 아래의 개선 사항을 목표로 0.2 버전을 개발하게 되었습니다.
+1.0 버전을 고도화하기 위해 아래의 개선 사항을 목표로 2.0 버전을 개발하게 되었습니다.
 
 ### GOALS
 - 스캔 가능한 바코드의 종류 추가
 - 제작 가능한 QR의 종류 추가
 - 입력창 UI 개선
 
-
 ### ICONS
-<img src="https://user-images.githubusercontent.com/29529125/77995525-e986b780-7366-11ea-8872-8ec16e1dc849.png" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/icons_qr_scanner.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+### TEXTFIELD
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_textfield_states.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### UI
 #### Tutorial
@@ -55,6 +57,8 @@ introduction: QR 스캐너 애플리케이션
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_createlist.png?raw=true" alt="QR Code Generation List" width="360">
 #### QR Code Generation
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QR Code Generation" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+#### Generated QR Code List
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_generated_list.png?raw=true" alt="QR Code Generation" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 #### Setting
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360">
 
