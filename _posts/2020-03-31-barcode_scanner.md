@@ -53,7 +53,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 #### QR Code Generation List
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_createlist.png?raw=true" alt="QRCodeGeneration List" width="360">
 #### QR Code Generation
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QRCodeGeneration" width="360" style="border: 1px solid black; border-radius: 30px;>
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QRCodeGeneration" width="360" style="border: 1px solid black; border-radius: 30px;">
 #### Setting
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360">
 
