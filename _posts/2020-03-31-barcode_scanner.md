@@ -7,8 +7,8 @@ description: Wi-Fi 비밀번호를 QR 코드로 전달해보는 건 어떨까요
 category: 'UI/UX'
 tags:
 - Projects
-twitter_text: QR 스캐너 애플리케이션
-introduction: QR 스캐너 애플리케이션
+twitter_text: Barcode Scanner App
+introduction: Barcode Scanner App
 ---
 
 ## Version 1.0
