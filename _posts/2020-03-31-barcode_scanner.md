@@ -52,13 +52,11 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 #### Tutorial
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_tutorial.png?raw=true" alt="Tutorial" width="360">
 #### QR Code Generation List
-![QRCodeGenerationList](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_createlist.png?raw=true" alt="QRCodeGeneration List" width="360">
 #### QR Code Generation
-![Prototype_textInsert](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
-#### 입력창이 다수인 경우
-![Prototype_textInsert](https://user-images.githubusercontent.com/29529125/77997819-058c5800-736b-11ea-9290-9ff1ed7c604a.gif)
-![Setting](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true)
-
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QRCodeGeneration" width="360">
+#### Setting
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360">
 
 
 ## URL
