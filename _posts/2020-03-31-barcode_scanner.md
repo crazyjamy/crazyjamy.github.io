@@ -21,10 +21,10 @@ introduction: QR 스캐너 애플리케이션
 - 편한 UI
   
 ### SCANNING A QR CODE
-![QR Scan](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_scanning_360-628.gif?raw=true)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_scanning_360-628.gif?raw=true" alt="QR Scan" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### SCAN ANIMATION
-![Scanning Animation](https://user-images.githubusercontent.com/29529125/77987124-ec2be180-7353-11ea-97c4-a6fbae1284a5.gif)
+<img src="https://user-images.githubusercontent.com/29529125/77987124-ec2be180-7353-11ea-97c4-a6fbae1284a5.gif" alt="QR Scan" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 ℹ[URL](https://lottiefiles.com/18169-simple-scan-animation)
 
 ### QR CODE GENERATION
@@ -53,7 +53,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 #### QR Code Generation List
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_createlist.png?raw=true" alt="QRCodeGeneration List" width="360">
 #### QR Code Generation
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QRCodeGeneration" width="360" style="border: 1px solid black; border-radius: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QRCodeGeneration" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 #### Setting
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360">
 
