@@ -16,6 +16,7 @@ permalink: /about/
 - Designer at Somewhere
 
 #### Past
+- Designer at [teammobile.io](https://www.teammobile.io/)
 - Designer at [Babosarang](http://www.babosarang.co.kr/)
 - Designer at BESOFT
 - Designer at [MOOOVR](http://mooovr.com/)
