@@ -19,6 +19,9 @@ introduction: QR 스캐너 애플리케이션
 ### GOALS
 - 빠른 QR 인식 
 - 편한 UI
+
+### RESEARCH NOTE
+- [바코드의종류](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing)
   
 ### UI
 #### SCANNING A QR CODE
@@ -71,4 +74,3 @@ introduction: QR 스캐너 애플리케이션
 - [나무위키-바코드](https://namu.wiki/w/%EB%B0%94%EC%BD%94%EB%93%9C)
 - [머테리얼-가이드](https://material.io/components/app-bars-bottom/)
 - [하단 앱바](https://material.io/components/app-bars-bottom/#anatomy)
-- [바코드의종류](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing)
