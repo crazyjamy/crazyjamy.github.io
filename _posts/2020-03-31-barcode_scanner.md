@@ -50,7 +50,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 
 ### UI
 #### Tutorial
-![tutorial](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_tutorial.png?raw=true" alt="Tutorial" width="360">
 #### QR Code Generation List
 ![QRCodeGenerationList](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
 #### QR Code Generation
