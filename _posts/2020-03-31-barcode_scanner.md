@@ -28,9 +28,8 @@ introduction: QR 스캐너 애플리케이션
 ℹ[URL](https://lottiefiles.com/18169-simple-scan-animation)
 
 ### QR CODE GENERATION
-QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타 오류를 방지하기 위해 1000자로 제한하여 진행했습니다.
 ![Qr Create](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_create_360-628.gif?raw=true)
-
+QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타 오류를 방지하기 위해 1000자로 제한하여 진행했습니다.
 
 
 
@@ -39,13 +38,13 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 ### DESCRIPTION 
 0.1 버전을 고도화하기 위해 아래의 개선 사항을 목표로 0.2 버전을 개발하게 되었습니다.
 
-#### GOALS
+### GOALS
 - 스캔 가능한 바코드의 종류 추가
 - 제작 가능한 QR의 종류 추가
 - 입력창 UI 개선
 
 
-#### ICONS
+### ICONS
 ![추가되는 바코드 종류에 따른 Icons](https://user-images.githubusercontent.com/29529125/77995525-e986b780-7366-11ea-8872-8ec16e1dc849.png)
 
 ### UI
@@ -54,7 +53,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 #### QR Code Generation List
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_createlist.png?raw=true" alt="QRCodeGeneration List" width="360">
 #### QR Code Generation
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QRCodeGeneration" width="360">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QRCodeGeneration" width="360" style="border: 1px solid black; border-radius: 30px;>
 #### Setting
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360">
 
