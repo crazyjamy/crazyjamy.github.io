@@ -16,7 +16,7 @@ introduction: QR 스캐너 애플리케이션
 ### DESCRIPTION 
 2018년 여름, 우리 팀은 사내 앱을 개발하는 과정에서 QR 스캔 기능이 필요하다는 판단을 하고 개발이 진행되었습니다. 
 
-#### GOALS
+### GOALS
 - 빠른 QR 인식 
 - 편한 UI
   
