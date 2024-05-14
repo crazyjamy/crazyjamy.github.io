@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Barcode Scanner App"
+title: "Barcode Scanner"
 date: 2020-03-31 17:24:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/qrscanner.png?raw=true'
 description: Wi-Fi 비밀번호를 QR 코드로 전달해보는 건 어떨까요?
@@ -8,7 +8,7 @@ category: 'UI/UX'
 tags:
 - Projects
 twitter_text: Barcode Scanner App
-introduction: Barcode Scanner App
+introduction: APPLICATION
 ---
 
 ## Version 1.0
