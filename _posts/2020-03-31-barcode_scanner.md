@@ -15,22 +15,21 @@ introduction: QR 스캐너 애플리케이션
 
 ### DESCRIPTION 
 2018년 여름, 우리 팀은 사내 앱을 개발하는 과정에서 QR 스캔 기능이 필요하다는 판단을 하고 개발이 진행되었습니다. 
-처음에는 간단한 QR 스캔 앱을 만들기로 했지만, QR 코드에 대해 조사하면서 그 세계에 빠져들었습니다. 
-QR 코드의 역사, 다양한 종류, 심지어는 음모론까지 공부하게 되면서 그 흥미로운 세계에 매료되었습니다. 
-우리의 목표는 크게 두 가지였습니다.
-- 빠르게 QR을 인식시키고 
-- 재미있게 제품을 만들어보자
+
+#### GOALS
+- 빠른 QR 인식 
+- 편한 UI
   
-### QR SCANNING
-![QR Scan](https://user-images.githubusercontent.com/29529125/77983272-86d2f300-7349-11ea-8fa3-9ac7868f25ab.gif)
+### SCANNING A QR CODE
+![QR Scan](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_scanning_360-628.gif?raw=true)
 
 ### SCAN ANIMATION
 ![Scanning Animation](https://user-images.githubusercontent.com/29529125/77987124-ec2be180-7353-11ea-97c4-a6fbae1284a5.gif)
-ℹ️[URL](https://lottiefiles.com/18169-simple-scan-animation)
+ℹ[URL](https://lottiefiles.com/18169-simple-scan-animation)
 
-### QR MAKING
-QR 제작시에는 특별한 문자 제한은 없지만, 과부하나 기타 오류를 제한하기 위해서 1000자로 제한하여 진행하였었다.
-![Qr Create](https://user-images.githubusercontent.com/29529125/77982474-63a74400-7347-11ea-957b-bcd08cb808a2.gif)
+### QR CODE GENERATION
+QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타 오류를 방지하기 위해 1000자로 제한하여 진행했습니다.
+![Qr Create](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_create_360-628.gif?raw=true)
 
 
 
@@ -38,7 +37,9 @@ QR 제작시에는 특별한 문자 제한은 없지만, 과부하나 기타 오
 ## 0.2 Version
 
 ### DESCRIPTION 
-아래의 
+0.1 버전을 고도화하기 위해 아래의 개선 사항을 목표로 0.2 버전을 개발하게 되었습니다.
+
+#### GOALS
 - 스캔 가능한 바코드의 종류 추가
 - 제작 가능한 QR의 종류 추가
 - 입력창 UI 개선
@@ -47,13 +48,18 @@ QR 제작시에는 특별한 문자 제한은 없지만, 과부하나 기타 오
 #### ICONS
 ![추가되는 바코드 종류에 따른 Icons](https://user-images.githubusercontent.com/29529125/77995525-e986b780-7366-11ea-8872-8ec16e1dc849.png)
 
-### UI 개선 
-추가되는 바코드 종류에 따른 현재 적용된 입력창의 한계가 있어서 변경 하게 되었다.
-
-#### 👉입력창이 1개인 경우
+### UI
+#### Tutorial
+![tutorial](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
+#### QR Code Generation List
+![QRCodeGenerationList](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
+#### QR Code Generation
 ![Prototype_textInsert](https://user-images.githubusercontent.com/29529125/77997793-f60d0f00-736a-11ea-90ac-45fbd2466a8e.gif)
-#### 👉입력창이 다수인 경우
+#### 입력창이 다수인 경우
 ![Prototype_textInsert](https://user-images.githubusercontent.com/29529125/77997819-058c5800-736b-11ea-9290-9ff1ed7c604a.gif)
+![Setting](https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true)
+
+
 
 ## URL
 [다운로드](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
