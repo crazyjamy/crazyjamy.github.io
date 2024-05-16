@@ -12,7 +12,7 @@ permalink: /about/
 최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
 ### EXPERIENCE
-- 2017.05 — Now
+- 2017.05 ~ Now
   - [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
 - 2016.06 ~ 2017.04
   - [Babosarang](http://www.babosarang.co.kr/) · UI/UX DESIGNER
@@ -61,9 +61,9 @@ permalink: /about/
   - 국민권익위원회, "우수상"
 
 ### Exhibition
-- 2014. 07. 13 - 2014. 08. 06
+- 2014. 07. 13 ~ 2014. 08. 06
   - New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>
-- 2013. 12. 24 - 2013. 12. 29
+- 2013. 12. 24 ~ 2013. 12. 29
   - Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">↗</a>
--  2014. 08. 02 - 2013. 08. 10
+-  2014. 08. 02 ~ 2013. 08. 10
   - Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a>
