@@ -12,17 +12,17 @@ permalink: /about/
 최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
 ### EXPERIENCE & EDUCATIONS
-- <span style="color: #969696;">2017.05 ~ Now</span>
+<span style="color: #969696;">2017.05 ~ Now</span>
   - teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER
-- <span style="color: #969696;">2016.06 ~ 2017.04</span>
+<span style="color: #969696;">2016.06 ~ 2017.04</span>
   - Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER
-- <span style="color: #969696;">2015.12 ~ 2016.06</span>
+<span style="color: #969696;">2015.12 ~ 2016.06</span>
   - Designer at BESOFT · UI/UX DESIGNER
-- <span style="color: #969696;">2015.08 ~ 2015.11</span>
+<span style="color: #969696;">2015.08 ~ 2015.11</span>
   - MOOOVR <a href="http://mooovr.com/" target="_blank">↗</a> · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
-- <span style="color: #969696;">2015.01 ~ 2015.08</span>
+<span style="color: #969696;">2015.01 ~ 2015.08</span>
   - SURF <a href="https://play.google.com/store/apps/developer?id=SURF+Inc" target="_blank">↗</a> · UI/UX DESIGNER
-- <span style="color: #969696;">2011.03 ~ 2015.03</span>
+<span style="color: #969696;">2011.03 ~ 2015.03</span>
   - 충북대학교<a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
 
 ### PROJECT
@@ -62,11 +62,11 @@ permalink: /about/
   - 국민권익위원회, "우수상"
 
 ### Exhibition
-+ <span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>
+<span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>
   + New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>
-+ <span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>
+<span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>
   + Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">↗</a>
-+ <span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span>
+<span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span>
   + Seoul, 72시간 도시 생생 프로젝트, 모즐디
-+ <span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span>
+<span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span>
   + Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a>
