@@ -12,10 +12,14 @@ permalink: /about/
 최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
 ### EXPERIENCE & EDUCATIONS
+<div>
 <span style="color: #969696;"> 2017.05 ~ Now </span>
 <div style="margin-left: 20px;"> teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER </div>
+</div>
+<div>
 <span style="color: #969696;">2016.06 ~ 2017.04</span>
 <div style="margin-left: 20px;"> Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER </div>
+</div>
 <span style="color: #969696;">2015.12 ~ 2016.06</span>
   - Designer at BESOFT · UI/UX DESIGNER
 <span style="color: #969696;">2015.08 ~ 2015.11</span>
