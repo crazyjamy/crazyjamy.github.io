@@ -13,10 +13,10 @@ permalink: /about/
 
 ### EXPERIENCE & EDUCATIONS
 <span style="color: #969696;"> 2017.05 ~ Now </span>
-<br> <span> + teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER </span>
-<span style="color: #969696;">2016.06 ~ 2017.04</span>
-<br> <span> + Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER </span>
-<span style="color: #969696;">2015.12 ~ 2016.06</span>
+  + teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER
++<span style="color: #969696;">2016.06 ~ 2017.04</span>
+  + Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER
++ <span style="color: #969696;">2015.12 ~ 2016.06</span>
   + BESOFT · UI/UX DESIGNER
 + <span style="color: #969696;">2015.08 ~ 2015.11</span>
   + MOOOVR <a href="http://mooovr.com/" target="_blank">↗</a> · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
