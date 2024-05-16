@@ -2,7 +2,7 @@
 layout: post
 title: Kids Customizing Video Contents
 date: 2020-09-15 17:24:00
-image: 'https://user-images.githubusercontent.com/29529125/93159692-bdf75e00-f749-11ea-858e-2f52b556c8e8.png'
+image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/kidsvideoapp.gif?raw=true'
 description: 
 category: 'UI/UX'
 tags:
