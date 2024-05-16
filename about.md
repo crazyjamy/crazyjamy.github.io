@@ -8,19 +8,19 @@ permalink: /about/
 <!-- <img itemprop="image" class="img-rounded" src="#" alt="jamy"> -->
 😀 😃 😄 😁 😆
 ## BAK HYELIN(박혜린) 
-저는 새로운 것도 좋아하고요. 맛있는 거 먹는 것도 좋아하고요. 게임도 좋아합니다. 
+새로운 것도 좋아하고요. 맛있는 거 먹는 것도 좋아하고요. 게임도 좋아합니다. 
 최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
 ### EXPERIENCE
-- 2017.05 ~ Now
-  - [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
-- 2016.06 ~ 2017.04
+<span style="color: #969696;">2017.05 ~ Now</span>
+- [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
+<span style="color: #969696;">2016.06 ~ 2017.04</span>
   - [Babosarang](http://www.babosarang.co.kr/) · UI/UX DESIGNER
-- 2015.12 ~ 2016.06
+- <span style="color: #969696;">2015.12 ~ 2016.06</span>
   - Designer at BESOFT · UI/UX DESIGNER
-- 2015.08 ~ 2015.11
+- <span style="color: #969696;">2015.08 ~ 2015.11</span>
   - [MOOOVR](http://mooovr.com/) · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
-- 2015.01 ~ 2015.08
+- <span style="color: #969696;">2015.01 ~ 2015.08</span>
   - [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.) · UI/UX DESIGNER
 
 ### PROJECT
@@ -63,7 +63,7 @@ permalink: /about/
 ### Exhibition
 + <span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>
   + New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>
-+ 2013. 12. 24 ~ 2013. 12. 29
++ <span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>
   + Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">↗</a>
-+ 2014. 08. 02 ~ 2013. 08. 10
++  <span style="color: #969696;">2014. 08. 02 ~ 2013. 08. 10</span>
   + Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a>
