@@ -25,7 +25,7 @@ permalink: /about/
 
 #### Project
 + ANDROID APP
-  + KidStream https://crazyjamy.github.io/kidsvideoapp/ [+](https://crazyjamy.github.io/kidsvideoapp/) [↗][https://play.google.com/store/apps/details?id=io.tm.kids.vstream]
+  + KidStream https://crazyjamy.github.io/kidsvideoapp/ [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
   + KLAK [↗](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak)
   + Smamori Launcher [↗](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori)
   + HDVD [↗](https://play.google.com/store/apps/details?id=com.ne.hdv)
