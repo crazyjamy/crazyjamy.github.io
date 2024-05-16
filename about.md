@@ -61,7 +61,7 @@ permalink: /about/
   - 국민권익위원회, "우수상"
 
 ### Exhibition
-+ 2014. 07. 13 ~ 2014. 08. 06
++ <span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>
   + New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>
 + 2013. 12. 24 ~ 2013. 12. 29
   + Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">↗</a>
