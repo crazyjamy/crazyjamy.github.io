@@ -17,12 +17,12 @@ introduction: Application
 - Youtube 의 무분별한 콘텐츠들을 제한시키고, 컨텐츠를 커스터마이징하여 소개.
 - 영상 시청시간 제한.
 
-### Story Board
+### Wireframing & Prototyping
+#### Story Board
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
-## UI
-
-### Character
+### Design & Iteration
+#### Character
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
@@ -36,7 +36,8 @@ introduction: Application
 ![Prototype2](https://user-images.githubusercontent.com/29529125/93155372-e75fbc00-f740-11ea-82e8-4bed41f69a2f.gif)
 
 ### Loading
-![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93155756-bfbd2380-f741-11ea-92d2-52ae89657cea.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/loading.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ## Behavior
 주요 UI는 아래와 같다.
