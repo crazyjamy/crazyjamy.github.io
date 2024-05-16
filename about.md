@@ -11,7 +11,7 @@ permalink: /about/
 저는 새로운 것도 좋아하고요. 맛있는 거 먹는 것도 좋아하고요. 게임도 좋아합니다. 
 최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
-#### Past
+### EXPERIENCE
 - 2017.05 — Now
   - [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
 - 2016.06 ~ 2017.04
@@ -23,7 +23,7 @@ permalink: /about/
 - 2015.01 ~ 2015.08
   - [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.) · UI/UX DESIGNER
 
-#### Project
+### PROJECT
 + ANDROID APP
   + KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
   + KLAK <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.klak" target="_blank">↗</a>
@@ -44,27 +44,23 @@ permalink: /about/
   
 + iOS 
   + Smamori <a href="https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028" target="_blank">↗</a>
-  + [INSTANT](https://apps.apple.com/us/app/repost-via-instant/id1343046782)
-  + [StoreBom](https://apps.apple.com/kr/app/%EC%8A%A4%ED%86%A0%EC%96%B4%EB%B4%84/id1196248800)
-  + [Babosarang](https://apps.apple.com/kr/app/%EB%B0%94%EB%B3%B4%EC%82%AC%EB%9E%91-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-babosarang/id786401379?mt=8&ign-mpt=uo%3D4)
+  + INSTANT <a href="https://apps.apple.com/us/app/repost-via-instant/id1343046782">↗</a>
+  + StoreBom <a href="https://apps.apple.com/kr/app/%EC%8A%A4%ED%86%A0%EC%96%B4%EB%B4%84/id1196248800" target="_blank">↗</a>
+  + Babosarang <a href="https://apps.apple.com/kr/app/%EB%B0%94%EB%B3%B4%EC%82%AC%EB%9E%91-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-babosarang/id786401379?mt=8&ign-mpt=uo%3D4" target="_blank">↗</a>
 
 + WEB
-  + [StoreBom](https://store.bom.co.kr/)
-  + [Babosarang](http://babosarang.co.kr/)
-  + [KKaKKungNoriter](http://kkakkungnoriter.com/)
+  + [StoreBom]<a href="https://store.bom.co.kr/" target="_blank">↗</a>
+  + Babosarang <a href="http://babosarang.co.kr/" target="_blank">↗</a>
+  + KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a> 
 
-#### Award
-- [72시간 도시 생생 프로젝트, 모즐디팀](http://www.lafent.com/sns/news_view.html?news_id=110411)
-  - 서울특별시, "참가상"
+### Award
+- 72시간 도시 생생 프로젝트, 모즐디팀 <a href="http://www.lafent.com/sns/news_view.html?news_id=110411" target="_blank">↗</a>
 - A Foundation Item Competitive Exhibition
   - 충북대학교, "우수상"
 - 청렴공모전, 어플리케이션 부문
   - 국민권익위원회, "우수상"
 
-#### Exhibition
-- New York, gallery MC, [I-Ya-Gi](http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/), 2014. 07. 13 - 2014. 08. 06
-- Seoul, COEX, [SEOUL ART SHOW](http://seoulartshow.com/n_sub02/2014_02_01.php), 2013. 12. 24 - 2013. 12. 29
-- Seoul, imazoo Gallery, [시퀀스전](http://www.imazoo.com/index.htm), 2014. 08. 02 - 2013. 08. 10
-
-#### Ask me anything
-helllzzzooo@gmail.com
+### Exhibition
+- New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>, 2014. 07. 13 - 2014. 08. 06
+- Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">, 2013. 12. 24 - 2013. 12. 29
+- Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">, 2014. 08. 02 - 2013. 08. 10
