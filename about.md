@@ -51,7 +51,7 @@ permalink: /about/
   + Babosarang <a href="https://apps.apple.com/kr/app/%EB%B0%94%EB%B3%B4%EC%82%AC%EB%9E%91-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-babosarang/id786401379?mt=8&ign-mpt=uo%3D4" target="_blank">↗</a>
 
 + WEB
-  + [StoreBom]<a href="https://store.bom.co.kr/" target="_blank">↗</a>
+  + StoreBom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
   + Babosarang <a href="http://babosarang.co.kr/" target="_blank">↗</a>
   + KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a>
  
