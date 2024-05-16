@@ -23,10 +23,10 @@ introduction: Application
 
 ### Design & Iteration
 #### Character
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px; margin-left: 30px; float: left;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px; margin-left: 30px; float: left;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px; ">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="width: 300px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="width: 300px; ">
 
 #### INTRO
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
