@@ -13,9 +13,9 @@ permalink: /about/
 
 #### Past
 - 2017.05 — Now
-  - Designer at [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
+  - [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
 - 2016.06 ~ 2017.04
-  - Designer at [Babosarang](http://www.babosarang.co.kr/) · UI/UX DESIGNER
+  - [Babosarang](http://www.babosarang.co.kr/) · UI/UX DESIGNER
 - 2015.12 ~ 2016.06
   - Designer at BESOFT · UI/UX DESIGNER
 - 2015.08 ~ 2015.11
@@ -25,25 +25,25 @@ permalink: /about/
 
 #### Project
 + ANDROID APP
-  + KidStream https://crazyjamy.github.io/kidsvideoapp/ [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
-  + KLAK [↗](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak)
-  + Smamori Launcher [↗](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori)
-  + HDVD [↗](https://play.google.com/store/apps/details?id=com.ne.hdv)
-  + Streamy [↗](https://play.google.com/store/apps/details?id=com.fms.streamy)
-  + Video Stream[↗](https://play.google.com/store/apps/details?id=io.jmobile.video.browser)
-  + INSTANT [↗](https://play.google.com/store/apps/details?id=io.jmobile.instant)
-  + TeamCalendar [↗](https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar)
-  + TeamFilemanager [↗](https://play.google.com/store/apps/details?id=jiran.com.tmfilemanager)
-  + TeamBrowser[↗](https://play.google.com/store/apps/details?id=io.jmobile.tm.browser)
-  + Egg Story [↗](https://play.google.com/store/apps/details?id=com.jirantech.eggstory)
-  + FileManager [↗](https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager)
+  + KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
+  + KLAK <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.klak" target="_blank">↗</a>
+  + Smamori Launcher <a href="https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori" target="_blank">↗</a>
+  + HDVD <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>
+  + Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a>
+  + Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>
+  + INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a>
+  + TeamCalendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
+  + TeamFilemanager <a href="https://play.google.com/store/apps/details?id=jiran.com.tmfilemanager" target="_blank">↗</a>
+  + TeamBrowser <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.browser" target="_blank">↗</a>
+  + Egg Story <a href="https://play.google.com/store/apps/details?id=com.jirantech.eggstory" target="_blank">↗</a>
+  + FileManager <a href="https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager" target="_blank">↗</a>
   + Barcode Scanner [+](https://crazyjamy.github.io/barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
-  + JMBrowser [↗](https://play.google.com/store/apps/details?id=io.jmobile.browser)
-  + Babosarang [↗](https://play.google.com/store/apps/details?id=com.mbabo.android)
-  + SURF [↗](https://play.google.com/store/apps/developer?id=SURF+Inc.)
+  + JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a>
+  + Babosarang <a href="https://play.google.com/store/apps/details?id=com.mbabo.android" target="_blank">↗</a>
+  + SURF <a href="https://play.google.com/store/apps/developer?id=SURF+Inc." target="_blank">↗</a>
   
 + iOS 
-  + [Smamori](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028)
+  + Smamori <a href="https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028" target="_blank">↗</a>
   + [INSTANT](https://apps.apple.com/us/app/repost-via-instant/id1343046782)
   + [StoreBom](https://apps.apple.com/kr/app/%EC%8A%A4%ED%86%A0%EC%96%B4%EB%B4%84/id1196248800)
   + [Babosarang](https://apps.apple.com/kr/app/%EB%B0%94%EB%B3%B4%EC%82%AC%EB%9E%91-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-babosarang/id786401379?mt=8&ign-mpt=uo%3D4)
