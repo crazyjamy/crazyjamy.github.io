@@ -36,7 +36,6 @@ introduction: Application
 
 #### Loading
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/loading.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px; margin: 30px;">
 
 #### Channel List
 ![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93156560-4cb4ac80-f743-11ea-8119-fb23e3c85fa2.gif)
