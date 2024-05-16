@@ -700,7 +700,7 @@ pre code::after{
   display:none
 }
 .author{
-  background:#f2f2f2;display:table;width:100%;padding:2.5rem 0;margin:2.5rem 0;
+  background:#fff;display:table;width:100%;padding:2.5rem 0;
 }
 @media only screen and (min-width:37.5rem){
     .author{
