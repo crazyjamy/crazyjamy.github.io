@@ -10,31 +10,27 @@ tags:
 twitter_text: 어린이 시청 제어 애플리케이션
 introduction: Application
 ---
-## Intro
-지난 연초에 코로나가 번지면서 집에서 하는 디지털 교육들이 유행하면서 우리 팀도 키즈 제품을 내보기로 하였다.
+### DESCRIPTION 
+온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다.
 
-## 목적
-- ✅ Youtube 의 무분별한 콘텐츠들을 제한시키고, 컨텐츠를 커스터마이징하여 소개.
-- ✅ 영상 시청시간 제한.
+### GOALS
+- Youtube 의 무분별한 콘텐츠들을 제한시키고, 컨텐츠를 커스터마이징하여 소개.
+- 영상 시청시간 제한.
 
 ### Story Board
-![StoryBoard_KidsStream](https://user-images.githubusercontent.com/29529125/93167963-c311d880-f75c-11ea-9e4c-badfe481f02a.png)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
-간단한 스토리보드는 최소한의 커뮤니케이션으로 진행되는 점으로 소통의 오류를 방지하기 위해 제작 되었었다. 디자인이 나온 이 후에 제작된 점은 회사 인원이 3명밖에 안 되기도 하고 2주 밖에 제작 기간이 없었기 때문에 따로 와이어프레임으로 제작 되지 않었다. 
-
-## Animation
-니즈 층이 아이들인 만큼 애니메이션을 지루하지 않게 노출시키려고 많이 노력하였다.  진행기간이 짧았 듯이 지금 다시 되돌아 보는 시점에서는 아쉬운 부분이 많았지만, 현재 회사에서 이 제품의 양산화가 진행되는 시점에서는 해당 프로젝트는 괜찮았던 시도 였던 것 같다. 🐤
+## UI
 
 ### Character
-4명의 캐릭터 들을 제작하였다. 캐릭터들은 앱에 스며 들어 자연스럽게 앱의 이곳 저곳에서 만나게끔 하였다.
-![Character](https://user-images.githubusercontent.com/29529125/93155538-4b828000-f741-11ea-822f-585f9d3a8c4f.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-key.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
-### Splash
-해당 Spash를 제작하면서 360x640외의 해상도를 못 맞추었다는 슬픈 속 사정이 있다. 변명이겠지만 모든 해상도를 맞추는건 포기라는 결론이 나왔다. 시안2는 모든 해상도를 맞추는 시안도 있었지만, 시안1이 조금 더 역동적이다 라는 의견에서 시안1로 굳혀졌다. 여하튼 가장 대중적인 해상도 360x640에 만 맞추기로 합의 했다. 
-#### 시안 1
-![Prototype_splash1](https://user-images.githubusercontent.com/29529125/93064014-006d5c00-f6b2-11ea-822e-9e274a6436b4.gif)
-#### 시안 2
-![Prototype_splash2](https://user-images.githubusercontent.com/29529125/93184366-1bee6a80-f777-11ea-8314-5a3656b838f2.gif)
+### INTRO
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="StoryBoard" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### Tab Bar
 ![Prototype2](https://user-images.githubusercontent.com/29529125/93155372-e75fbc00-f740-11ea-82e8-4bed41f69a2f.gif)
