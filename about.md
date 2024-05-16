@@ -13,34 +13,34 @@ permalink: /about/
 
 #### Past
 - 2017.05 — Now
-  - Designer at [teammobile.io](https://www.teammobile.io/) / UI/UX DESIGNER
+  - Designer at [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
 - 2016.06 ~ 2017.04
-  - Designer at [Babosarang](http://www.babosarang.co.kr/) / UI/UX DESIGNER
+  - Designer at [Babosarang](http://www.babosarang.co.kr/) · UI/UX DESIGNER
 - 2015.12 ~ 2016.06
-  - Designer at BESOFT / UI/UX DESIGNER
+  - Designer at BESOFT · UI/UX DESIGNER
 - 2015.08 ~ 2015.11
-  - [MOOOVR](http://mooovr.com/) / UI/UX DESIGNER, VISUAL EFFECTS ARTIST
+  - [MOOOVR](http://mooovr.com/) · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
 - 2015.01 ~ 2015.08
-  - [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.) / UI/UX DESIGNER
+  - [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.) · UI/UX DESIGNER
 
 #### Project
 + ANDROID APP
-  + [+](https://play.google.com/store/apps/details?id=io.tm.kids.vstream) KidStream
-  + [+](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak) KLAK
-  + [+](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori) SmamoriLauncher
-  + [HDVD](https://play.google.com/store/apps/details?id=com.ne.hdv)
-  + [Streamy](https://play.google.com/store/apps/details?id=com.fms.streamy)
-  + [VideoStream](https://play.google.com/store/apps/details?id=io.jmobile.video.browser)
-  + [INSTANT](https://play.google.com/store/apps/details?id=io.jmobile.instant)
-  + [TeamCalendar](https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar)
-  + [TeamFilemanager](https://play.google.com/store/apps/details?id=jiran.com.tmfilemanager)
-  + [TeamBrowser](https://play.google.com/store/apps/details?id=io.jmobile.tm.browser)
-  + [EggStory](https://play.google.com/store/apps/details?id=com.jirantech.eggstory)
-  + [FileManager](https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager)
-  + [QRScanner](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
-  + [JMBrowser](https://play.google.com/store/apps/details?id=io.jmobile.browser)
-  + [Babosarang](https://play.google.com/store/apps/details?id=com.mbabo.android)
-  + [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.)
+  + KidStream https://crazyjamy.github.io/kidsvideoapp/ [+](https://crazyjamy.github.io/kidsvideoapp/) [↗][https://play.google.com/store/apps/details?id=io.tm.kids.vstream]
+  + KLAK [↗](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak)
+  + Smamori Launcher [↗](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori)
+  + HDVD [↗](https://play.google.com/store/apps/details?id=com.ne.hdv)
+  + Streamy [↗](https://play.google.com/store/apps/details?id=com.fms.streamy)
+  + Video Stream[↗](https://play.google.com/store/apps/details?id=io.jmobile.video.browser)
+  + INSTANT [↗](https://play.google.com/store/apps/details?id=io.jmobile.instant)
+  + TeamCalendar [↗](https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar)
+  + TeamFilemanager [↗](https://play.google.com/store/apps/details?id=jiran.com.tmfilemanager)
+  + TeamBrowser[↗](https://play.google.com/store/apps/details?id=io.jmobile.tm.browser)
+  + Egg Story [↗](https://play.google.com/store/apps/details?id=com.jirantech.eggstory)
+  + FileManager [↗](https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager)
+  + Barcode Scanner [+](https://crazyjamy.github.io/barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
+  + JMBrowser [↗](https://play.google.com/store/apps/details?id=io.jmobile.browser)
+  + Babosarang [↗](https://play.google.com/store/apps/details?id=com.mbabo.android)
+  + SURF [↗](https://play.google.com/store/apps/developer?id=SURF+Inc.)
   
 + iOS 
   + [Smamori](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028)
