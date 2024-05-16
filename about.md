@@ -13,15 +13,15 @@ permalink: /about/
 
 ### EXPERIENCE
 - <span style="color: #969696;">2017.05 ~ Now</span>
-  - [teammobile.io](https://www.teammobile.io/) · UI/UX DESIGNER
+  - teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER
 - <span style="color: #969696;">2016.06 ~ 2017.04</span>
-  - [Babosarang](http://www.babosarang.co.kr/) · UI/UX DESIGNER
+  - Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER
 - <span style="color: #969696;">2015.12 ~ 2016.06</span>
   - Designer at BESOFT · UI/UX DESIGNER
 - <span style="color: #969696;">2015.08 ~ 2015.11</span>
-  - [MOOOVR](http://mooovr.com/) · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
+  - MOOOVR <a href="http://mooovr.com/" target="_blank">↗</a> · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
 - <span style="color: #969696;">2015.01 ~ 2015.08</span>
-  - [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.) · UI/UX DESIGNER
+  - SURF <a href="https://play.google.com/store/apps/developer?id=SURF+Inc" target="_blank">↗</a> · UI/UX DESIGNER
 
 ### PROJECT
 + ANDROID APP
@@ -54,7 +54,6 @@ permalink: /about/
   + KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a> 
 
 ### Award
-- 72시간 도시 생생 프로젝트, 모즐디팀 <a href="http://www.lafent.com/sns/news_view.html?news_id=110411" target="_blank">↗</a>
 - A Foundation Item Competitive Exhibition
   - 충북대학교, "우수상"
 - 청렴공모전, 어플리케이션 부문
@@ -65,5 +64,7 @@ permalink: /about/
   + New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>
 + <span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>
   + Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">↗</a>
-+  <span style="color: #969696;">2014. 08. 02 ~ 2013. 08. 10</span>
++ <span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span>
+  + Seoul, 72시간 도시 생생 프로젝트, 모즐디
++ <span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span>
   + Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a>
