@@ -23,7 +23,7 @@ permalink: /about/
 + <span style="color: #969696;">2015.01 ~ 2015.08</span>
   + SURF <a href="https://play.google.com/store/apps/developer?id=SURF+Inc" target="_blank">↗</a> · UI/UX DESIGNER
 + <span style="color: #969696;">2011.03 ~ 2015.03</span>
-  + 충북대학교<a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
+  + 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
 
 ### PROJECT
 + ANDROID APP
