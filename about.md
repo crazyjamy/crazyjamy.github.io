@@ -11,22 +11,23 @@ permalink: /about/
 저는 새로운 것도 좋아하고요. 맛있는 거 먹는 것도 좋아하고요. 게임도 좋아합니다. 
 최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
-
-#### Present 
-- Designer at Somewhere
-
 #### Past
-- Designer at [teammobile.io](https://www.teammobile.io/)
-- Designer at [Babosarang](http://www.babosarang.co.kr/)
-- Designer at BESOFT
-- Designer at [MOOOVR](http://mooovr.com/)
-- Designer at [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.)
+- 2017.05 — Now
+  - Designer at [teammobile.io](https://www.teammobile.io/) / UI/UX DESIGNER
+- 2016.06 ~ 2017.04
+  - Designer at [Babosarang](http://www.babosarang.co.kr/) / UI/UX DESIGNER
+- 2015.12 ~ 2016.06
+  - Designer at BESOFT / UI/UX DESIGNER
+- 2015.08 ~ 2015.11
+  - [MOOOVR](http://mooovr.com/) / UI/UX DESIGNER, VISUAL EFFECTS ARTIST
+- 2015.01 ~ 2015.08
+  - [SURF](https://play.google.com/store/apps/developer?id=SURF+Inc.) / UI/UX DESIGNER
 
 #### Project
 + ANDROID APP
-  + [KidStream](https://play.google.com/store/apps/details?id=io.tm.kids.vstream)
-  + [KLAK](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak)
-  + [SmamoriLauncher](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori)
+  + [+](https://play.google.com/store/apps/details?id=io.tm.kids.vstream) KidStream
+  + [+](https://play.google.com/store/apps/details?id=io.jmobile.tm.klak) KLAK
+  + [+](https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori) SmamoriLauncher
   + [HDVD](https://play.google.com/store/apps/details?id=com.ne.hdv)
   + [Streamy](https://play.google.com/store/apps/details?id=com.fms.streamy)
   + [VideoStream](https://play.google.com/store/apps/details?id=io.jmobile.video.browser)
