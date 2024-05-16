@@ -34,7 +34,6 @@ introduction: Application
 
 #### Tab Bar
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
-![Prototype2](https://user-images.githubusercontent.com/29529125/93155372-e75fbc00-f740-11ea-82e8-4bed41f69a2f.gif)
 
 #### Loading
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
