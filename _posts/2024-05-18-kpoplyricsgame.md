@@ -24,11 +24,17 @@ introduction: APPLICATION
 #### Select Mode
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
-#### Select Mode
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+#### Correct match
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/correctgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
 #### Wrong Match
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/%20failgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+
+#### Correct match
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/correctgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+
+#### Contest mode
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
 #### App Update News
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Update.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
@@ -41,3 +47,6 @@ introduction: APPLICATION
 
 #### Rate App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype-rate.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+
+### Promotion Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpEZmApOpoY?si=R4RDsYHfax1J_sLL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
