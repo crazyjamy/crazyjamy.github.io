@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: "Kpop Lyrics Game"
 date: 2024-05-01 00:00:00
@@ -15,23 +15,29 @@ introduction: APPLICATION
 좋아하는 노래 가사를 익히면서 자연스럽게 한국어를 배우는 무료 게임입니다.
 
 ### APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/app-icon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/app-icon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
 
 ### UI
 #### Bottom Tab
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/bottom-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 #### Select Mode
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
 #### Select Mode
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+
+#### Wrong Match
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/%20failgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+
+#### App Update News
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Update.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+
+#### Activty Empty 
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Activity_Empty.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
 #### Setting
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
-#### App Update News
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Update.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
-
-#### App Update News
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Update.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+#### Rate App
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype-rate.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
