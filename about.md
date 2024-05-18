@@ -27,6 +27,7 @@ permalink: /about/
 
 ### PROJECT
 + ANDROID APP
+  + DicTocKPOP <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
   + KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
   + KLAK <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.klak" target="_blank">↗</a>
   + Smamori Launcher <a href="https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori" target="_blank">↗</a>
