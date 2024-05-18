@@ -35,7 +35,7 @@ permalink: /about/
   + Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>
   + INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a>
   + TeamCalendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
-  + TeamFilemanager <a href="https://play.google.com/store/apps/details?id=jiran.com.tmfilemanager" target="_blank">↗</a>
+  + TeamFilemanager
   + TeamBrowser <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.browser" target="_blank">↗</a>
   + Egg Story <a href="https://play.google.com/store/apps/details?id=com.jirantech.eggstory" target="_blank">↗</a>
   + FileManager <a href="https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager" target="_blank">↗</a>
