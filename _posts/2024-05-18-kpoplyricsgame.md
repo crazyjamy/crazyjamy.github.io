@@ -19,7 +19,7 @@ introduction: APPLICATION
 
 ### UI
 #### Home
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/bottom-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Tab_Effect.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 #### Bottom Tab
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/bottom-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
@@ -33,11 +33,11 @@ introduction: APPLICATION
 #### Wrong Match
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/%20failgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
-#### Correct match
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/correctgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
-
 #### Contest mode
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
+
+#### Result
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Result_Contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
 
 #### App Update News
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Update.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px">
