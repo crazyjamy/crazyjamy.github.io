@@ -25,9 +25,9 @@ permalink: /about/
 + <span style="color: #969696;">2011.03 ~ 2015.03</span>
   + 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
 
-### PROJECT
+### PROJECT 
 + ANDROID APP
-  + DicTocKPOP <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
+  + DicTocKPOP [+](https://crazyjamy.github.io/kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
   + KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
   + KLAK <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.klak" target="_blank">↗</a>
   + Smamori Launcher <a href="https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori" target="_blank">↗</a>
