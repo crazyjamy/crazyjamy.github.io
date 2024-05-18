@@ -24,6 +24,9 @@ introduction: APPLICATION
 #### Bottom Tab
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/bottom-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
+#### Search Fail
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/search-fail.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
+
 #### Select Mode
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
 
