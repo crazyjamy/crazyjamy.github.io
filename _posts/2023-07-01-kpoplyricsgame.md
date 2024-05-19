@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kpop Lyrics Game"
-date: 2023-11-01 00:00:00
+date: 2023-07-01 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/kpoplyricsgame-violet.gif?raw=true'
 description: Kpop Lyrics Game
 category: 'UI/UX'
