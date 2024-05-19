@@ -28,9 +28,9 @@ permalink: /about/
 ### PROJECT 
 + 2023, DicToc KPOP [+](https://crazyjamy.github.io/kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
   + KPOP 가사 배우는 게임 앱 디자인 진행
-  + A/B 테스트 설계 및 실행, 각 디자인 성과 분석:
-    + 전환율 1차: 68% 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 2차: 38% 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
   + 구글 애즈워즈 캠페인 운영 및 관리
+  + A/B 테스트 설계 및 실행, 각 디자인 성과 분석:
+    + 1차: 68% 전환율 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 2차: 38% 전환율 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
 + 2023, Funny Learny TV [+](https://crazyjamy.github.io/funnylearnytv/) 
 + 2020, KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
 + 2020, Smamori <a href="https://play.google.com/store/apps/details?id=jp.smamori.child.tv" target="_blank">↗</a> 
