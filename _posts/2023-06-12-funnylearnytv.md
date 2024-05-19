@@ -14,12 +14,24 @@ introduction: APPLICATION
 ### DESCRIPTION 
 온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다.
 
+### App Icon
+#### Type A
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/appicon-A.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+#### Type B
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/appicon-B.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+#### Type C
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/appicon-C.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+
 ### Wireframing
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/01_groupselect.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px 10px 0px 0px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/02_search.png?raw=true" alt="" style="border: 1px solid #e1e1e1;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/03_likehistory.png?raw=true" alt="" style="border: 1px solid #e1e1e1;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/04_setting.png?raw=true" alt="" style="border: 1px solid #e1e1e1;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;">
+
+### Design & Iteration
+#### Tab Design Type A
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### Design & Iteration
 #### Tab Design Type A
