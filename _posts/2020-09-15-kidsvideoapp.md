@@ -49,8 +49,8 @@ introduction: Application
 #### Search Result
 ![Prototype_SearchResult](https://user-images.githubusercontent.com/29529125/93162372-9efbca80-f74f-11ea-8a42-db33e5af4ce0.gif)
 
-#### PASSWORD
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-key.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px; margin-top: 10px; ">
+#### PASSWORD(Parent Setting)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/parent-setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 300px; margin-top: 10px; ">
 
 ## URL <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream">↗</a> 
 
