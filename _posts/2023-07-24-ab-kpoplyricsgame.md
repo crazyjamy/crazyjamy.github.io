@@ -3,7 +3,7 @@ layout: post
 title: "App Icon & Graphic Image"
 date: 2023-07-23 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/AB-appicon-pink.png?raw=true'
-description: abtest-KPOP Lyrics Game
+description: abtest-KPOPLyricsGame-230723
 category: 'A/B TEST'
 tags:
 - A/B test
