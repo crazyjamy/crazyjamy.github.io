@@ -59,9 +59,9 @@ introduction: Kpop Lyrics Game
 
 ### 최초 설치 사용자
 + 현재 정보: 7,984
-+ 변수 A: +63.9% 11,560
-+ 변수 B: +24.8% 8,912
-+ 변수 C: -5.5% 6,976
+  + 변수 A: +63.9% 11,560
+  + 변수 B: +24.8% 8,912
+  + 변수 C: -5.5% 6,976
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;">
 
 ## 성과 (Outcomes)
