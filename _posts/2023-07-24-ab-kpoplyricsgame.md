@@ -49,3 +49,8 @@ A - KPOP - Title - Purple의 신뢰 구간이 전부 양성입니다.
 #### 최초 설치 사용자
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
+## RELATED PROJECTS
+Kpop Lyrics Game APP [↗](https://crazyjamy.github.io/kpoplyricsgame/)
+
+## TECHNOLOGIES & TOOLS
+Sketch
