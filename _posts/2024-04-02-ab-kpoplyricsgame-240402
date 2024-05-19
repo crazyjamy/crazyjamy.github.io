@@ -31,7 +31,6 @@ introduction: Kpop Lyrics Game
 #### GRAPHIC IMAGE
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default-GraphicImage_EN.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
-### 실험 설계 (Experiment Design)
 ### 변수 A - KPOP Title - Purple
 #### APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
@@ -43,12 +42,6 @@ introduction: Kpop Lyrics Game
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
 #### GRAPHIC IMAGE
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
-
-### 변수 C - Star - Character - Valley
-#### APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
-#### GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ## 결과 분석 (Results Analysis)
 ### 처음 설치한 사용자 중 설치 상태를 유지한 사용자
