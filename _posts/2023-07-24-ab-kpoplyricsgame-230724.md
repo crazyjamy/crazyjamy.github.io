@@ -70,9 +70,9 @@ introduction: Kpop Lyrics Game
 + 새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 68% 상승.
 + A/B 테스트 결과를 바탕으로 모든 마켓에 변수 "A - KPOP - Title - Purple(실적 우수)"를 적용.
 
-## RELATED PROJECTS
-Kpop Lyrics Game APP [↗](https://crazyjamy.github.io/kpoplyricsgame/)
-
 ## TECHNOLOGIES & TOOLS
 + Sketch
 + Google Play Console을 통해 실험 세팅 및 데이터 수집
+
+## RELATED PROJECTS
+Kpop Lyrics Game APP [↗](https://crazyjamy.github.io/kpoplyricsgame/)
