@@ -38,7 +38,7 @@ permalink: /about/
   + TeamCalendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
   + TeamFilemanager
   + TeamBrowser <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.browser" target="_blank">↗</a>
-  + Egg Story <a href="https://play.google.com/store/apps/details?id=com.jirantech.eggstory" target="_blank">↗</a>
+  + Egg Story
   + FileManager <a href="https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager" target="_blank">↗</a>
   + Barcode Scanner [+](https://crazyjamy.github.io/barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
   + JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a>
