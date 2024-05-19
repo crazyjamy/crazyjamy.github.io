@@ -54,7 +54,8 @@ permalink: /about/
   + 동영상 컨텐츠 다운로더 앱 디자인 진행
   + 구글 애즈워즈 캠페인 운영 및 관리
   + A/B 테스트 설계 및 실행
-    + 새로운 디자인이 기존 디자인 대비 전환율 18% 향상 [+](https://crazyjamy.github.io/ab-hdvd-220921/)
+    + 2022년 9월 21일 진행 내역: 18% 전환율 향상[+](https://crazyjamy.github.io/ab-hdvd-220921/)
+    + 2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](https://crazyjamy.github.io/ab-hdvd-211105/)
 + 2016, StoreBom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
   + 반려동물 용품 웹/앱 디자인 진행
   + 택배 상자 패키지 디자인 진행
