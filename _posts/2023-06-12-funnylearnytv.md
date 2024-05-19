@@ -22,7 +22,13 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;">
 
 ### Design & Iteration
-#### Like 
+#### Tab Design Type A
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
+
+#### Tab Design Type B
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
+
+#### Like Video
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_main_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
 
 #### Channel Detail
