@@ -47,6 +47,12 @@ introduction: APPLICATION
 #### Like Empty
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
 
+#### Add Group
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/AddGroup.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
+
+#### Group Setting
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/GroupSetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
+
 #### Mode Check
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_mode_check.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
 
@@ -62,8 +68,11 @@ introduction: APPLICATION
 #### Delete History
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_streetlight.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
 
-#### Delete History
+#### Unlock Blocked Video
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_spaceship.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
 
-###f TECHNOLOGIES & TOOLS
+#### Setting
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Setting_Time.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
+
+### TECHNOLOGIES & TOOLS
 Sketch, Illustrator, AfterEffect
