@@ -12,7 +12,7 @@ introduction: Kpop Lyrics Game
 ---
 
 ### DESCRIPTION
-스토어 등록정보 실험 앱아이콘, 그래픽이미지 
+스토어 등록정보 실험 앱아이콘, 그래픽이미지 
 2023년 7월 20일 오후 3:07에 시작하였습니다. 
 2023년 7월 24일 오전 10:47에 중지하였습니다.
 
@@ -25,20 +25,20 @@ introduction: Kpop Lyrics Game
 ### A - KPOP Title - Purple
 #### APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
-### Graphic Images
+#### Graphic Images
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### B - Star - Character - Yellow
 #### APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
-### Graphic Images
+#### Graphic Images
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### C - Star - Character - Valley
 #### APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
-### Graphic Images
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+#### Graphic Images
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### Result
 A - KPOP - Title - Purple 실적 우수
