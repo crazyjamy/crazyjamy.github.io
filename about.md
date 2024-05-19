@@ -26,36 +26,59 @@ permalink: /about/
   + 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
 
 ### PROJECT 
-+ ANDROID APP
-  + DicTocKPOP [+](https://crazyjamy.github.io/kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
-  + KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
-  + KLAK <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.klak" target="_blank">↗</a>
-  + Smamori Launcher <a href="https://play.google.com/store/apps/details?id=jsecurity.launcher.smamori" target="_blank">↗</a>
-  + HDVD <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>
-  + Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a>
-  + Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>
-  + INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a>
-  + TeamCalendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
-  + TeamFilemanager
-  + TeamBrowser <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.browser" target="_blank">↗</a>
-  + Egg Story
-  + FileManager <a href="https://play.google.com/store/apps/details?id=myfilemanager.jiran.com.myfilemanager" target="_blank">↗</a>
-  + Barcode Scanner [+](https://crazyjamy.github.io/barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
-  + JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a>
-  + Babosarang <a href="https://play.google.com/store/apps/details?id=com.mbabo.android" target="_blank">↗</a>
-  + SURF <a href="https://play.google.com/store/apps/developer?id=SURF+Inc." target="_blank">↗</a>
-  
-+ iOS 
-  + Smamori <a href="https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%A2%E3%83%AA/id1457657028" target="_blank">↗</a>
-  + INSTANT <a href="https://apps.apple.com/us/app/repost-via-instant/id1343046782">↗</a>
-  + StoreBom <a href="https://apps.apple.com/kr/app/%EC%8A%A4%ED%86%A0%EC%96%B4%EB%B4%84/id1196248800" target="_blank">↗</a>
-  + Babosarang <a href="https://apps.apple.com/kr/app/%EB%B0%94%EB%B3%B4%EC%82%AC%EB%9E%91-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%87%BC%ED%95%91%EB%AA%B0-babosarang/id786401379?mt=8&ign-mpt=uo%3D4" target="_blank">↗</a>
++ 2023, DicToc KPOP [+](https://crazyjamy.github.io/kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
+  + KPOP 가사 배우는 게임 앱 디자인 진행
+  + A/B 테스트 설계 및 실행, 각 디자인 성과 분석: 새로운 디자인이 기존 디자인 대비 전환율 1차: 68% 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 2차: 38 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
+  + 구글 애즈워즈 캠페인 운영 및 관리
++ 2023, Funny Learny TV [+](https://crazyjamy.github.io/funnylearnytv/) 
++ 2020, KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
++ 2020, Smamori <a href="https://play.google.com/store/apps/details?id=jp.smamori.child.tv" target="_blank">↗</a> 
+  + 어린이용 스마트폰의 사용 관리 앱/웹 디자인 진행
++ 2019, TeamCalendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
+  + 가족,연인,친구,동료들과 일정, 기념일 등을 공유 앱 디자인 진행
++ 2019, TeamFilemanager
+  + 직장, 팀 동료와 파일 공유하는 앱 디자인 진행 
++ 2019, TeamBrowser
+  + 직장 동료와 공유하는 브라우저 앱 디자인 진행
++ 2018, Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a>
+  + 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
++ 2018, Barcode Scanner [+](https://crazyjamy.github.io/barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
+  +  QR/ 바코드 스캔과 제작할 수 있는 앱 디자인 진행 
++ 2017, JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a>
++ 2017, Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>
+  + 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
++ 2017, INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a>
+  + 인스타그램 컨텐츠 다운로더 앱 디자인 진행
++ 2017, Egg Story
+  + 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행
++ 2017, HDVD <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>
+  + 동영상 컨텐츠 다운로더 앱 디자인 진행
+  + A/B 테스트 설계 및 실행, 각 디자인 성과 분석: 새로운 디자인이 기존 디자인 대비 전환율 18% 향상
+  + 구글 애즈워즈 캠페인 운영 및 관리
++ 2016, StoreBom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
+  + 반려동물 용품 웹/앱 디자인 진행
+  + 택배 상자 패키지 디자인 진행
++ 2016, KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a>
+  + 아동 용품 쇼핑몰 웹/앱 디자인 진행
++ 2016, Babosarang <a href="https://www.babosarang.co.kr/" target="_blank">↗</a>
+  + 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행
+  + 신년 다이어리 기획전 기획
+  + 캐릭터 문구 기획전 기획
++ 2016, BESOFT
+  + 은행 보안 키보드 및 웹 페이지 디자인 진행
++ 2015, Stellar(스텔라) 360 VR [↗](https://www.youtube.com/watch?v=gvORWNSsGak)
+  + 360 VR 콘텐츠 앱 디자인 진행
+  + Music Video Visual Effects
++ 2015, 빛나거나 미치거나 MBC Drama VR [↗](https://www.youtube.com/watch?v=7Eo8ddIhUnE)
+  + 360 VR 콘텐츠 앱 디자인 진행
+  + Music Video Visual Effects
++ 2015, Suho360 VR
+  + 360 VR 콘텐츠 앱 디자인 진행
++ 2015, Lee Hae Sang Coloring Book
+  + 패키지 디자인 진행
++ 2015, SURF <a href="https://play.google.com/store/apps/developer?id=SURF+Inc." target="_blank">↗</a>
+  + 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행
 
-+ WEB
-  + StoreBom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
-  + Babosarang <a href="http://babosarang.co.kr/" target="_blank">↗</a>
-  + KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a>
- 
 ### Award
 - A Foundation Item Competitive Exhibition
   - 충북대학교, "우수상"
