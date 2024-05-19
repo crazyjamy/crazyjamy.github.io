@@ -59,4 +59,4 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_spaceship.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
 
 ## TECHNOLOGIES & TOOLS
-Illustratior, Sketch, AfterEffect
+Illustrator, Sketch, AfterEffect
