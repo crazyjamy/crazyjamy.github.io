@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FunnyLearny TV"
-date: 2024-05-01 00:00:00
+date: 2023-04-01 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/kidstv.gif?raw=true'
 description: Kids Customizing Video Contents
 category: 'UI/UX'
