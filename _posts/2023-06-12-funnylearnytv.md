@@ -15,15 +15,10 @@ introduction: APPLICATION
 온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다.
 
 ### Wireframing
-#### Group Selecting
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/01_groupselect.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px 10px 0px 0px;">
-#### Like 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/02_search.png?raw=true" alt="" style="border: 1px solid #e1e1e1;">
-#### Like 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/03_likehistory.png?raw=true" alt="" style="border: 1px solid #e1e1e1;">
-#### Like 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/04_setting.png?raw=true" alt="" style="border: 1px solid #e1e1e1;">
-#### Like 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;">
 
 ### Design & Iteration
