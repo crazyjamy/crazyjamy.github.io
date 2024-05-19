@@ -29,6 +29,14 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;">
 
 ### Design & Iteration
+#### Character
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-blue.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-green.gif?raw=true" alt="" style="width: 300px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-orange.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-violet.gif?raw=true" alt="" style="width: 300px; ">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-blue.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-red.gif?raw=true" alt="" style="width: 300px; ">
+
 #### Tab Type A
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;">
 
