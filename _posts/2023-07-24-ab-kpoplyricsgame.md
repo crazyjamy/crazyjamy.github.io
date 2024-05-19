@@ -19,7 +19,7 @@ introduction: App Icon & Graphic Image
 ### 현재 등록 정보
 #### APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
-### Graphic Images
+#### Graphic Images
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default-GraphicImage_EN.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### A - KPOP Title - Purple
