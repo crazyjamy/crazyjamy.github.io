@@ -29,7 +29,7 @@ introduction: Kpop Lyrics Game
 #### APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
 #### GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default-GraphicImage_EN.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/default-GraphicImage_1024*578.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### 변수 A - PINK
 #### APP ICON 
