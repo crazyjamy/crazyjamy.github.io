@@ -68,6 +68,6 @@ permalink: /about/
 + <span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>
   + Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">↗</a>
 + <span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span>
-  + Seoul, 72시간 도시 생생 프로젝트, 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110338&mcd=C02&cb=&page=10&ci=&cs=&ods=Y" target="_blank">↗</a>
+  + Seoul, 72시간 도시 생생 프로젝트, 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">↗</a>
 + <span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span>
   + Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a>
