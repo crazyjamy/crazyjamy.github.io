@@ -6,7 +6,7 @@ image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_th
 description: abtest-KPOP Lyrics Game
 category: 'A/B TEST'
 tags:
-- Projects
+- A/B test
 twitter_text: Kpop Lyrics Game
 introduction: App Icon & Graphic Image
 ---
