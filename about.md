@@ -6,10 +6,7 @@ permalink: /about/
 ---
 
 <!-- <img itemprop="image" class="img-rounded" src="#" alt="jamy"> -->
-😀 😃 😄 😁 😆
 ## BAK HYELIN(박혜린) 
-새로운 것도 좋아하고요. 맛있는 거 먹는 것도 좋아하고요. 게임도 좋아합니다. 
-최근에는 익숙함에 경계하려고 노력하고 있습니다.
 
 ### EXPERIENCE & EDUCATIONS
 + <span style="color: #969696;"> 2017.05 ~ Now </span>
