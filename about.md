@@ -27,7 +27,8 @@ permalink: /about/
   + KPOP 가사 배우는 게임 앱 디자인 진행
   + 구글 애즈워즈 캠페인 운영 및 관리
   + A/B 테스트 설계 및 실행, 각 디자인 성과 분석:
-    + 1차: 68% 전환율 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) / 2차: 38% 전환율 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
+    + 1차: 68% 전환율 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 
+    + 2차: 38% 전환율 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
 + 2023, Funny Learny TV [+](https://crazyjamy.github.io/funnylearnytv/) 
 + 2020, KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
 + 2020, Smamori <a href="https://play.google.com/store/apps/details?id=jp.smamori.child.tv" target="_blank">↗</a> 
@@ -51,8 +52,9 @@ permalink: /about/
   + 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행
 + 2017, HDVD <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>
   + 동영상 컨텐츠 다운로더 앱 디자인 진행
-  + A/B 테스트 설계 및 실행, 각 디자인 성과 분석: 새로운 디자인이 기존 디자인 대비 전환율 18% 향상
   + 구글 애즈워즈 캠페인 운영 및 관리
+  + A/B 테스트 설계 및 실행
+    + 새로운 디자인이 기존 디자인 대비 전환율 18% 향상 [+](https://crazyjamy.github.io/ab-hdvd-220921/)
 + 2016, StoreBom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
   + 반려동물 용품 웹/앱 디자인 진행
   + 택배 상자 패키지 디자인 진행
