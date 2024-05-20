@@ -28,5 +28,5 @@ I broadly divided into two things and put a lot of meaning into them. <br>
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/116858106?h=dd65113339" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 ### DESCRIPTION
 Moments, 40sec, video, animation, 2012
-#### TIME LINE IMAGES
+### TIME LINE IMAGES
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/13.jpg?raw=true" alt="">
