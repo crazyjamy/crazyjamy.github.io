@@ -2,7 +2,7 @@
 layout: post
 title: "University Art Collection"
 date: 2014-12-31 00:00:00
-image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/icon-kpop.png?raw=true'
+image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/drawings.png?raw=true'
 description: University Art Collection
 category: 'Drawings'
 tags:
