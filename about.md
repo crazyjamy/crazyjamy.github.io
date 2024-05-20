@@ -16,9 +16,9 @@ permalink: /about/
 + <span style="color: #969696;">2015.12 ~ 2016.06</span>
   + BESOFT · UI/UX DESIGNER
 + <span style="color: #969696;">2015.08 ~ 2015.11</span>
-  + MOOOVR <a href="http://mooovr.com/" target="_blank">↗</a> · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
+  + MOOOVR · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
 + <span style="color: #969696;">2015.01 ~ 2015.08</span>
-  + SURF <a href="https://play.google.com/store/apps/developer?id=SURF+Inc" target="_blank">↗</a> · UI/UX DESIGNER
+  + SURF · UI/UX DESIGNER
 + <span style="color: #969696;">2011.03 ~ 2015.03</span>
   + 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
 
