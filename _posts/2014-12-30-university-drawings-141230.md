@@ -2,7 +2,7 @@
 layout: post
 title: "University Art Collection 1"
 date: 2014-12-30 00:00:00
-image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/drawings.png?raw=true'
+image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/drawings-twokind-vs1.png?raw=true'
 description: 두가지 종류의 사람들 (Two Kinds of People) ver1 
 category: 'Drawings'
 tags:
