@@ -8,7 +8,7 @@ category: 'Drawings'
 tags:
 - Personal Projects
 twitter_text: University Art Collection
-introduction: University Art Collection
+introduction: 두가지 종류의 사람들 (Two Kinds of People) ver1 
 ---
 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/1.jpg?raw=true" alt="">
