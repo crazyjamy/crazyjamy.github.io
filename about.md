@@ -103,7 +103,7 @@ permalink: /about/
 + <span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>
   + New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>
 + <span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>
-  + Seoul, COEX, SEOUL ART SHOW <a href="http://seoulartshow.com/n_sub02/2014_02_01.php" target="_blank">↗</a>
+  + Seoul, COEX, SEOUL ART SHOW
 + <span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span>
   + Seoul, 72시간 도시 생생 프로젝트, 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">↗</a>
 + <span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span>
