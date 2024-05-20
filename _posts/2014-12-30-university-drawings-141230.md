@@ -21,9 +21,9 @@ introduction: 두가지 종류의 사람들 (Two Kinds of People) ver1
 The world is divided into many people. <br>
 I broadly divided into two things and put a lot of meaning into them. <br>
 #### DETAIL CUT
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/3.jpg?raw=true" alt="">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/4.jpg?raw=true" alt="">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/5.jpg?raw=true" alt="">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/3.jpg?raw=true" alt="" style= "margin-bottom: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/4.jpg?raw=true" alt="" style= "margin-bottom: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/5.jpg?raw=true" alt="" style= "margin-bottom: 30px;">
 #### TIME LINE IMAGES
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/116858106?h=dd65113339" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/13.jpg?raw=true" alt="">
