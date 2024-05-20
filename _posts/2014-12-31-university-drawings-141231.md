@@ -20,7 +20,7 @@ introduction: 두가지 종류의 사람들 (Two Kinds of People) ver2
 The world is divided into many people. <br>
 I broadly divided into two things and put a lot of meaning into them. <br>
 #### DETAIL CUT
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/8.jpg?raw=true" alt="">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/9.jpg?raw=true" alt="">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/10.jpg?raw=true" alt="">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/11.jpg?raw=true" alt="">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/8.jpg?raw=true" alt="" style= "margin-bottom: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/9.jpg?raw=true" alt="" style= "margin-bottom: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/10.jpg?raw=true" alt="" style= "margin-bottom: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/11.jpg?raw=true" alt="" style= "margin-bottom: 30px;">
