@@ -7,7 +7,7 @@ description: 두가지 종류의 사람들 (Two Kinds of People) ver2
 category: 'Drawings'
 tags:
 - Personal Projects
-twitter_text:두가지 종류의 사람들 (Two Kinds of People) ver2
+twitter_text: 두가지 종류의 사람들 (Two Kinds of People) ver2
 introduction: 두가지 종류의 사람들 (Two Kinds of People) ver2
 ---
 
