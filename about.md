@@ -26,37 +26,48 @@ permalink: /about/
 + 2023, DicToc KPOP [+](https://crazyjamy.github.io/kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
   + KPOP 가사 배우는 게임 앱 디자인 진행
   + 구글 애즈워즈 캠페인 운영 및 관리
+  + 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)
   + A/B 테스트 설계 및 실행, 각 디자인 성과 분석:
     + 2023년 7월 20일 진행 내역: 68% 전환율 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 
     + 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
 + 2023, Funny Learny TV [+](https://crazyjamy.github.io/funnylearnytv/) 
-+ 2020, KidStream [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream" target="_blank">↗</a>
-+ 2020, Smamori <a href="https://play.google.com/store/apps/details?id=jp.smamori.child.tv" target="_blank">↗</a> 
-  + 어린이용 스마트폰의 사용 관리 앱/웹 디자인 진행
-+ 2019, TeamCalendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
-  + 가족,연인,친구,동료들과 일정, 기념일 등을 공유 앱 디자인 진행
-+ 2019, TeamFilemanager
-  + 직장, 팀 동료와 파일 공유하는 앱 디자인 진행 
-+ 2019, TeamBrowser
-  + 직장 동료와 공유하는 브라우저 앱 디자인 진행
+  + 어린이용 동영상 관리 앱 디자인 진행
++ 2021, KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">↗</a>
+  + 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
++ 2021, K-Beauty <a href="https://play.google.com/store/apps/details?id=io.tm.kbeauty.tv" target="_blank">↗</a>
+  + K-Beauty 동영상 콘텐츠 커스터마이징 앱 디자인 진행
++ 2021, KPOP Stream <a href="https://play.google.com/store/apps/details?id=io.tm.kpop.stream" target="_blank">↗</a>
+  + KPOP 아이돌 동영상 콘텐츠 커스터마이징 앱 디자인 진행
++ 2021, Trend TV <a href="https://play.google.com/store/apps/details?id=io.tm.stream.in" target="_blank">↗</a>
+  + 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행
++ 2021, IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">↗</a>
+  + IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행
++ 2020, Smamori [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://smamori.jp/" target="_blank">↗</a> 
+  + 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행
+  + 어린이용 동영상 관리 앱 디자인 진행
++ 2020, KPOP TV
+  + KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행
++ 2019, Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
+  + 직장 동료들과 일정 공유 가능한 앱 디자인 진행
 + 2018, Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a>
   + 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
 + 2018, Barcode Scanner [+](https://crazyjamy.github.io/barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
-  +  QR/ 바코드 스캔과 제작할 수 있는 앱 디자인 진행 
+  + 바코드 스캔과 제작할 수 있는 앱 디자인 진행 
 + 2017, JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a>
-+ 2017, Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>
-  + 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
+  + 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행
 + 2017, INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a>
   + 인스타그램 컨텐츠 다운로더 앱 디자인 진행
++ 2017, Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>
+  + 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
 + 2017, Egg Story
   + 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행
-+ 2017, HDVD <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>
++ 2017, HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>
   + 동영상 컨텐츠 다운로더 앱 디자인 진행
   + 구글 애즈워즈 캠페인 운영 및 관리
   + A/B 테스트 설계 및 실행
     + 2022년 9월 21일 진행 내역: 18% 전환율 향상[+](https://crazyjamy.github.io/ab-hdvd-220921/)
     + 2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](https://crazyjamy.github.io/ab-hdvd-211105/)
-+ 2016, StoreBom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
++ 2016, Store Bom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
   + 반려동물 용품 웹/앱 디자인 진행
   + 택배 상자 패키지 디자인 진행
 + 2016, KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a>
@@ -69,10 +80,12 @@ permalink: /about/
   + 은행 보안 키보드 및 웹 페이지 디자인 진행
 + 2015, Stellar(스텔라) 360 VR [↗](https://www.youtube.com/watch?v=gvORWNSsGak)
   + 360 VR 콘텐츠 앱 디자인 진행
-  + Music Video Visual Effects
+  + 뮤직 비디오 CG 효과 디자인 진행
 + 2015, 빛나거나 미치거나 MBC Drama VR [↗](https://www.youtube.com/watch?v=7Eo8ddIhUnE)
   + 360 VR 콘텐츠 앱 디자인 진행
-  + Music Video Visual Effects
+  + 뮤직 비디오 CG 효과 디자인 진행
++ 2015, Samsung 창조 경제 박람회
+  + VR Fall, Old House, Club VR Music Video, CG 효과 디자인 진행
 + 2015, Suho360 VR
   + 360 VR 콘텐츠 앱 디자인 진행
 + 2015, Lee Hae Sang Coloring Book
@@ -81,10 +94,10 @@ permalink: /about/
   + 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행
 
 ### Award
-- A Foundation Item Competitive Exhibition
-  - 충북대학교, "우수상"
+- 창업 경진 대회
+  - 충북대학교, "우수상", 2013.11.28
 - 청렴공모전, 어플리케이션 부문
-  - 국민권익위원회, "우수상"
+  - 국민권익위원회, "우수상", 2011. 10. 11.
 
 ### Exhibition
 + <span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>
