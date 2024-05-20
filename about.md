@@ -28,7 +28,7 @@ permalink: /about/
   + 구글 애즈워즈 캠페인 운영 및 관리
   + 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)
   + A/B 테스트 설계 및 실행, 각 디자인 성과 분석:
-    + 2023년 7월 20일 진행 내역: 68% 전환율 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 
+    + 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 
     + 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
 + 2023, Funny Learny TV [+](https://crazyjamy.github.io/funnylearnytv/) 
   + 어린이용 동영상 관리 앱 디자인 진행
