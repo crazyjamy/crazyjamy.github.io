@@ -29,4 +29,4 @@ I broadly divided into two things and put a lot of meaning into them. <br>
 ### DESCRIPTION
 Moments, 40sec, video, animation, 2012
 ### TIME LINE IMAGES
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/13.jpg?raw=true" alt="">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/13.png?raw=true" alt="">
