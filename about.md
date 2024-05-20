@@ -45,7 +45,7 @@ permalink: /about/
 + 2020, Smamori [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://smamori.jp/" target="_blank">↗</a> 
   + 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행
   + 어린이용 동영상 관리 앱 디자인 진행
-+ 2020, KPOP TV
++ 2020, KPOP TV [+](https://crazyjamy.github.io/icon-kpop/)
   + KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행
 + 2019, Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
   + 직장 동료들과 일정 공유 가능한 앱 디자인 진행
