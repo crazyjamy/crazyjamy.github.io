@@ -90,7 +90,7 @@ permalink: /about/
   + 360 VR 콘텐츠 앱 디자인 진행
 + 2015, Lee Hae Sang Coloring Book
   + 패키지 디자인 진행
-+ 2015, SURF
++ 2015, SURF [+](https://crazyjamy.github.io/marshmello/)
   + 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행
 
 ### Award
