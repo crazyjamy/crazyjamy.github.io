@@ -28,7 +28,7 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/search-fail.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
 
 #### SELECT MODE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
 
 #### CORRECT MATCH
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/correctgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
