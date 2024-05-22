@@ -38,19 +38,23 @@ introduction: Application
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
 
 #### CHANNEL LIST
-![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93156560-4cb4ac80-f743-11ea-8119-fb23e3c85fa2.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Channellist.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
 
 #### TIME OUT
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/timeout.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
 
-#### HISTORY
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Serach_Result.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
+#### EXPLORE GROUP
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Explore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
 
 #### SEARCH RESULT
-![Prototype_SearchResult](https://user-images.githubusercontent.com/29529125/93162372-9efbca80-f74f-11ea-8a42-db33e5af4ce0.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Serach_Result.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
 
-#### PASSWORD(PARENT SETTING
+#### PASSWORD(PARENT SETTING)
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/parent-setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin-top: 10px; ">
+
+#### SETTING
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Setting-1.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin-top: 10px; ">
+
 
 ## URL <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream">↗</a> 
 
