@@ -38,7 +38,7 @@ introduction: Application
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
 
 #### CHANNEL LIST
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Channellist.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Channellist.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
 
 #### TIME OUT
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/timeout.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
