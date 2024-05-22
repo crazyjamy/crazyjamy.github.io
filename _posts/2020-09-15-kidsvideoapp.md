@@ -41,10 +41,10 @@ introduction: Application
 ![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93156560-4cb4ac80-f743-11ea-8119-fb23e3c85fa2.gif)
 
 #### TIME OUT
-![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93158539-432d4380-f747-11ea-9818-61b8d06f77da.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/timeout.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
 
 #### HISTORY
-![Prototype_Loading](https://user-images.githubusercontent.com/29529125/93160698-d9636880-f74b-11ea-8699-6ef7fc2067f3.gif)
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Serach_Result.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
 
 #### SEARCH RESULT
 ![Prototype_SearchResult](https://user-images.githubusercontent.com/29529125/93162372-9efbca80-f74f-11ea-8a42-db33e5af4ce0.gif)
