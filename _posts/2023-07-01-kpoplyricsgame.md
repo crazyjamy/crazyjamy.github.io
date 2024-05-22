@@ -22,7 +22,7 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-top.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 #### TAB - BOTTOM
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/bottom-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-bottom.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 #### SEARCH FAIL
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/search-fail.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
