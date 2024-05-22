@@ -43,7 +43,7 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
 
 #### CONTEST MODE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contestmode.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest-flower.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
 
 #### CONTEST RESULTS
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Result_Contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
@@ -62,6 +62,9 @@ introduction: APPLICATION
 
 #### DELETE POPUP
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Bookmark_Delete.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
+
+#### MORE GEMS
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/moregem.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
 
 #### RATE APP
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype-rate.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;">
