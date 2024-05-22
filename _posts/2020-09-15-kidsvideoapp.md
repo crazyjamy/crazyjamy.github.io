@@ -55,6 +55,5 @@ introduction: Application
 #### SETTING
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Setting-1.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin-top: 10px; width: 640px;">
 
-
-## URL <a href="https://play.google.com/store/apps/details?id=io.tm.kids.vstream">↗</a> 
-
+### TECHNOLOGIES & TOOLS
+Sketch, Illustrator, AfterEffect
