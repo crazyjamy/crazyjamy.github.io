@@ -21,10 +21,10 @@ introduction: Kpop Lyrics Game
 + 기존 앱 스토어 페이지의 전환율이 기대에 미치지 못함.
 + 사용자들이 앱 다운로드 페이지에서 이탈하는 비율이 높음.
 
-## 가설 설정 (Hypothesis)
+## HYPOTHESIS
 스토어 등록정보 실험 앱아이콘, 그래픽이미지시각적 및 내용적 요소를 변경하면 다운로드 전환율이 높아질 것이다.
 
-## 실험 설계 (Experiment Design)
+## EXPERIMENT DESIGN
 ### 현재 등록 정보
 #### APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
