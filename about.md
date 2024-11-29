@@ -26,7 +26,9 @@ permalink: /about/
 + <span style="color: #969696;">2011.03 ~ 2015.03</span>
   + 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
 
-### PROJECT 
+### PROJECT
++ 2024, VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 
++ 2024, 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a>
 + 2023, DicToc KPOP [+](https://crazyjamy.github.io/kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
   + KPOP 가사 배우는 게임 앱 디자인 진행
   + 구글 애즈워즈 캠페인 운영 및 관리
