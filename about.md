@@ -29,14 +29,14 @@ permalink: /about/
 ### PROJECT
 + 2024, VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 
 + 2024, 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a>
-+ 2023, DicToc KPOP [+](/kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
++ 2023, DicToc KPOP [+](../kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>
   + KPOP 가사 배우는 게임 앱 디자인 진행
   + 구글 애즈워즈 캠페인 운영 및 관리
   + 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)
   + A/B 테스트 설계 및 실행, 각 디자인 성과 분석:
-    + 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](https://crazyjamy.github.io/ab-kpoplyricsgame-230724/) 
-    + 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](https://crazyjamy.github.io/ab-kpoplyricsgame-240402/)
-+ 2023, Funny Learny TV [+](https://crazyjamy.github.io/funnylearnytv/) 
+    + 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](,./ab-kpoplyricsgame-230724/) 
+    + 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](../ab-kpoplyricsgame-240402/)
++ 2023, Funny Learny TV [+](../funnylearnytv/) 
   + 어린이용 동영상 관리 앱 디자인 진행
 + 2021, KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">↗</a>
   + 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
@@ -48,16 +48,16 @@ permalink: /about/
   + 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행
 + 2021, IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">↗</a>
   + IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행
-+ 2020, Smamori [+](https://crazyjamy.github.io/kidsvideoapp/) <a href="https://smamori.jp/" target="_blank">↗</a> 
++ 2020, Smamori [+](../kidsvideoapp/) <a href="https://smamori.jp/" target="_blank">↗</a> 
   + 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행
   + 어린이용 동영상 관리 앱 디자인 진행
-+ 2020, KPOP TV [+](https://crazyjamy.github.io/icon-kpop/)
++ 2020, KPOP TV [+](../icon-kpop/)
   + KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행
 + 2019, Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>
   + 직장 동료들과 일정 공유 가능한 앱 디자인 진행
 + 2018, Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a>
   + 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행
-+ 2018, Barcode Scanner [+](https://crazyjamy.github.io/barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
++ 2018, Barcode Scanner [+](../barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)
   + 바코드 스캔과 제작할 수 있는 앱 디자인 진행 
 + 2017, JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a>
   + 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행
@@ -71,8 +71,8 @@ permalink: /about/
   + 동영상 컨텐츠 다운로더 앱 디자인 진행
   + 구글 애즈워즈 캠페인 운영 및 관리
   + A/B 테스트 설계 및 실행
-    + 2022년 9월 21일 진행 내역: 18% 전환율 향상[+](https://crazyjamy.github.io/ab-hdvd-220921/)
-    + 2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](https://crazyjamy.github.io/ab-hdvd-211105/)
+    + 2022년 9월 21일 진행 내역: 18% 전환율 향상[+](../ab-hdvd-220921/)
+    + 2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](../ab-hdvd-211105/)
 + 2016, Store Bom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
   + 반려동물 용품 웹/앱 디자인 진행
   + 택배 상자 패키지 디자인 진행
@@ -96,7 +96,7 @@ permalink: /about/
   + 360 VR 콘텐츠 앱 디자인 진행
 + 2015, Lee Hae Sang Coloring Book
   + 패키지 디자인 진행
-+ 2015, SURF [+](https://crazyjamy.github.io/marshmello/)
++ 2015, SURF [+](../marshmello/)
   + 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행
 
 ### Award
