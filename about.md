@@ -73,12 +73,12 @@ permalink: /about/
   + A/B 테스트 설계 및 실행
     + 2022년 9월 21일 진행 내역: 18% 전환율 향상[+](../ab-hdvd-220921/)
     + 2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](../ab-hdvd-211105/)
-+ 2016, Store Bom <a href="https://store.bom.co.kr/" target="_blank">↗</a>
++ 2016, Store Bom <a href="https://www.behance.net/gallery/51348153/Shopping-mall-APP-UI" target="_blank">↗</a>
   + 반려동물 용품 웹/앱 디자인 진행
   + 택배 상자 패키지 디자인 진행
 + 2016, KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a>
   + 아동 용품 쇼핑몰 웹/앱 디자인 진행
-+ 2016, Babosarang <a href="https://www.babosarang.co.kr/" target="_blank">↗</a>
++ 2016, Babosarang <a href="https://www.behance.net/gallery/51124513/Main_Web(PC)-UI" target="_blank">↗</a>
   + 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행
   + 신년 다이어리 기획전 기획
   + 캐릭터 문구 기획전 기획
