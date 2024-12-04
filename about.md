@@ -28,9 +28,9 @@ permalink: /about/
 
 ### PROJECT
 <span style="color: #969696;"> 2024 </span>      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화  
+<span style="margin-right: 20px;"> VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 </span>  
 <span style="color: #969696;"> 2024 </span>      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a>  
+<span style="margin-right: 20px;"> 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a> </span>  
 <span style="color: #969696;"> 2023 </span>        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DicToc KPOP [+](../kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ KPOP 가사 배우는 게임 앱 디자인 진행  
