@@ -9,22 +9,22 @@ permalink: /about/
 ## BAK HYELIN(박혜린) 
 
 ### EXPERIENCE & EDUCATIONS
-<span style="color: #969696;"> 2024.06 ~ 2024.12 </span>
-• 지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a> DESIGNER
-<span style="color: #969696;"> 2018.01 ~ 2024.06 </span>
-• teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER
-<span style="color: #969696;"> 2017.05 ~ 2017.12 </span>
-• 지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a> · UI/UX DESIGNER
-<span style="color: #969696;">2016.06 ~ 2017.04</span>
-• Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER
-<span style="color: #969696;">2015.12 ~ 2016.06</span>
-• BESOFT · UI/UX DESIGNER
-<span style="color: #969696;">2015.08 ~ 2015.11</span>
-• MOOOVR · UI/UX DESIGNER, VISUAL EFFECTS ARTIST
-<span style="color: #969696;">2015.01 ~ 2015.08</span>
-• SURF · UI/UX DESIGNER
-<span style="color: #969696;">2011.03 ~ 2015.03</span>
-• 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업
+<span style="color: #969696;"> 2024.06 ~ 2024.12 </span></br>
+• 지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a> DESIGNER</br>
+<span style="color: #969696;"> 2018.01 ~ 2024.06 </span></br>
+• teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER</br>
+<span style="color: #969696;"> 2017.05 ~ 2017.12 </span></br>
+• 지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a> · UI/UX DESIGNER</br>
+<span style="color: #969696;">2016.06 ~ 2017.04</span></br>
+• Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER</br>
+<span style="color: #969696;">2015.12 ~ 2016.06</span></br>
+• BESOFT · UI/UX DESIGNER</br>
+<span style="color: #969696;">2015.08 ~ 2015.11</span></br>
+• MOOOVR · UI/UX DESIGNER, VISUAL EFFECTS ARTIST</br>
+<span style="color: #969696;">2015.01 ~ 2015.08</span></br>
+• SURF · UI/UX DESIGNER</br>
+<span style="color: #969696;">2011.03 ~ 2015.03</span></br>
+• 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업</br>
 
 ### PROJECT
 + 2024, VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 
