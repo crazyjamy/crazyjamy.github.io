@@ -5,26 +5,18 @@ description: Some description.
 permalink: /about/
 ---
 
-<!-- <img itemprop="image" class="img-rounded" src="#" alt="jamy"> -->
+
 ## BAK HYELIN(박혜린) 
 
 ### EXPERIENCE & EDUCATIONS
-<span style="color: #969696;"> 2024.06 ~ 2024.12 </span>  
-• 지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a> DESIGNER  
-<span style="color: #969696;"> 2018.01 ~ 2024.06 </span>  
-• teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER  
-<span style="color: #969696;"> 2017.05 ~ 2017.12 </span>  
-• 지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a> · UI/UX DESIGNER  
-<span style="color: #969696;">2016.06 ~ 2017.04</span>  
-• Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER  
-<span style="color: #969696;">2015.12 ~ 2016.06</span>  
-• BESOFT · UI/UX DESIGNER  
-<span style="color: #969696;">2015.08 ~ 2015.11</span>  
-• MOOOVR · UI/UX DESIGNER, VISUAL EFFECTS ARTIST  
-<span style="color: #969696;">2015.01 ~ 2015.08</span>  
-• SURF · UI/UX DESIGNER  
-<span style="color: #969696;">2011.03 ~ 2015.03</span>  
-• 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업  
+<span style="color: #969696;"> 2024.06 ~ 2024.12 </span><span style="margin-left: 100px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a> DESIGNER</span>    
+<span style="color: #969696;"> 2018.01 ~ 2024.06 </span><span style="margin-left: 100px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER</span>    
+<span style="color: #969696;"> 2017.05 ~ 2017.12 </span><span style="margin-left: 100px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a> · UI/UX DESIGNER</span>    
+<span style="color: #969696;">2016.06 ~ 2017.04</span><span style="margin-left: 100px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER</span>  
+<span style="color: #969696;">2015.12 ~ 2016.06</span><span style="margin-left: 100px;">BESOFT · UI/UX DESIGNER</span>    
+<span style="color: #969696;">2015.08 ~ 2015.11</span><span style="margin-left: 100px;">MOOOVR · UI/UX DESIGNER, VISUAL EFFECTS ARTIST</span>    
+<span style="color: #969696;">2015.01 ~ 2015.08</span><span style="margin-left: 100px;">SURF · UI/UX DESIGNER</span>  
+<span style="color: #969696;">2011.03 ~ 2015.03</span><span style="margin-left: 100px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업</span>  
 
 ### PROJECT
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 </span>  
@@ -100,7 +92,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span>   
 
 ### Award
-<span style="color: #969696;">2013.11.28</span><span style="margin-left: 150px;">창업 경진 대회</span>  
+<span style="color: #969696;">2013.11.28. </span><span style="margin-left: 150px;">창업 경진 대회</span>  
 <span style="margin-left: 240px;">충북대학교, "우수상 "</span>  
 <span style="color: #969696;">2011. 10. 11.</span><span style="margin-left: 150px;">청렴공모전, 어플리케이션 부문</span>  
 <span style="margin-left: 240px;">국민권익위원회, "우수상"</span>  
