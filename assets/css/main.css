@@ -590,7 +590,7 @@ main{
     color:#fff;border:1px solid #141414;background-color:#141414
 }
 .post-content .tag-title{
-  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:2.375rem;margin-top:3.75rem;width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:2.375rem;margin-top:3.75rem;width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:10rem;padding-right:0;
 }
 .post-content .tag-title::after{
     content:'';display:table;clear:both
@@ -607,7 +607,7 @@ main{
   }
 }
 .post-content .post-list a{
-  display:block;border-bottom:1px solid #e1e1e1;padding:.625rem 0;text-decoration:none;-webkit-transition:all .5s;transition:all .5s;font-size:0.8rem;
+  display:block;border-bottom:1px solid #e1e1e1;padding:.625rem 0;text-decoration:none;-webkit-transition:all .5s;transition:all .5s;font-size:0.8rem;padding-left:10rem;
 }
 .post-content .post-list a:hover{
   border-bottom:1px solid #ff0a16
