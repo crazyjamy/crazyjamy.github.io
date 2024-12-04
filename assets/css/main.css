@@ -494,7 +494,7 @@ main{
     font-size:2.938rem
   }
 }
-.post-content h2{font-size:1.5rem;line-height:1.4;
+.post-content h2{font-size:1.5rem;line-height:1.4;padding-left:10rem;
 }
 @media only screen and (min-width:37.5rem){
   .post-content h2{font-size:2.313rem}}.post-content h3{
