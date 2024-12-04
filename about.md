@@ -11,7 +11,7 @@ permalink: /about/
 ### EXPERIENCE & EDUCATIONS
 <span style="color: #969696;"> 2024.06 ~ 2024.12 </span>  
 • 지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a> DESIGNER  
-<span style="color: #969696;"> 2018.01 ~ 2024.06 </span></br>
+<span style="color: #969696;"> 2018.01 ~ 2024.06 </span>  
 • teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER  
 <span style="color: #969696;"> 2017.05 ~ 2017.12 </span>  
 • 지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a> · UI/UX DESIGNER  
@@ -30,10 +30,10 @@ permalink: /about/
 • 2024, VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화   
 • 2024, 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a>  
 • 2023, DicToc KPOP [+](../kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a>  
-  • KPOP 가사 배우는 게임 앱 디자인 진행
-  • 구글 애즈워즈 캠페인 운영 및 관리
-  • 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)
-  • A/B 테스트 설계 및 실행, 각 디자인 성과 분석:
+  • KPOP 가사 배우는 게임 앱 디자인 진행  
+  • 구글 애즈워즈 캠페인 운영 및 관리  
+  • 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)  
+  • A/B 테스트 설계 및 실행, 각 디자인 성과 분석:  
     + 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](,./ab-kpoplyricsgame-230724/) 
     + 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](../ab-kpoplyricsgame-240402/)
 + 2023, Funny Learny TV [+](../funnylearnytv/) 
