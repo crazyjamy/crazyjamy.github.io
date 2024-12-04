@@ -9,14 +9,14 @@ permalink: /about/
 ## BAK HYELIN(박혜린) 
 
 ### EXPERIENCE & EDUCATIONS
-<span style="color: #969696;"> 2024.06 ~ 2024.12 </span><span style="margin-left: 100px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a> DESIGNER</span>    
-<span style="color: #969696;"> 2018.01 ~ 2024.06 </span><span style="margin-left: 100px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER</span>    
-<span style="color: #969696;"> 2017.05 ~ 2017.12 </span><span style="margin-left: 100px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a> · UI/UX DESIGNER</span>    
-<span style="color: #969696;">2016.06 ~ 2017.04</span><span style="margin-left: 100px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER</span>  
-<span style="color: #969696;">2015.12 ~ 2016.06</span><span style="margin-left: 100px;">BESOFT · UI/UX DESIGNER</span>    
-<span style="color: #969696;">2015.08 ~ 2015.11</span><span style="margin-left: 100px;">MOOOVR · UI/UX DESIGNER, VISUAL EFFECTS ARTIST</span>    
-<span style="color: #969696;">2015.01 ~ 2015.08</span><span style="margin-left: 100px;">SURF · UI/UX DESIGNER</span>  
-<span style="color: #969696;">2011.03 ~ 2015.03</span><span style="margin-left: 100px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업</span>  
+<span style="color: #969696;">2024.06 ~ 2024.12</span><span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a> DESIGNER</span>    
+<span style="color: #969696;">2018.01 ~ 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a> · UI/UX DESIGNER</span>    
+<span style="color: #969696;">2017.05 ~ 2017.12</span><span style="margin-left: 50px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a> · UI/UX DESIGNER</span>    
+<span style="color: #969696;">2016.06 ~ 2017.04</span><span style="margin-left: 50px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a> · UI/UX DESIGNER</span>  
+<span style="color: #969696;">2015.12 ~ 2016.06</span><span style="margin-left: 50px;">BESOFT · UI/UX DESIGNER</span>    
+<span style="color: #969696;">2015.08 ~ 2015.11</span><span style="margin-left: 50px;">MOOOVR · UI/UX DESIGNER, VISUAL EFFECTS ARTIST</span>    
+<span style="color: #969696;">2015.01 ~ 2015.08</span><span style="margin-left: 50px;">SURF · UI/UX DESIGNER</span>  
+<span style="color: #969696;">2011.03 ~ 2015.03</span><span style="margin-left: 50px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업</span>  
 
 ### PROJECT
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 </span>  
