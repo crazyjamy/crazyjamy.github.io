@@ -50,7 +50,7 @@ GRAPHIC IMAGE
 • 변수 B: -42.3% 2,082  
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;margin: 0 auto;">
 
-### 최초 설치 사용자  
+### 최초 설치 사용자
 현재 정보: 7,529  
 • 변수 A: +22.6% 8,327  
 • 변수 B: -40.3% 4,088  
@@ -60,15 +60,15 @@ GRAPHIC IMAGE
 새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 37.4% 상승.  
 
 ### INSIGHTS AND NEXT STEPS  
-A/B 테스트 결과를 바탕으로 모든 마켓에 변수 "A - PINK(실적 우수)"를 적용.  
-시각적 요소, 색상, 및 콘텐츠의 중요성을 확인.  
-색상 변화가 사용자 반응에 미친 영향을 추가 분석하여, 최적의 색상 조합을 도출.  
+• A/B 테스트 결과를 바탕으로 모든 마켓에 변수 "A - PINK(실적 우수)"를 적용.  
+• 시각적 요소, 색상, 및 콘텐츠의 중요성을 확인.  
+• 색상 변화가 사용자 반응에 미친 영향을 추가 분석하여, 최적의 색상 조합을 도출.  
 • 테스트 결과를 바탕으로 앱의 인트로 화면 동일하게 적용  
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;margin: 0 auto;">
 
 ### TECHNOLOGIES & TOOLS
-• Sketch
-• Google Play Console을 통해 실험 세팅 및 데이터 수집
+• Sketch  
+• Google Play Console을 통해 실험 세팅 및 데이터 수집  
 
 ### RELATED PROJECTS
 • Kpop Lyrics Game APP [↗](https://crazyjamy.github.io/kpoplyricsgame/)
