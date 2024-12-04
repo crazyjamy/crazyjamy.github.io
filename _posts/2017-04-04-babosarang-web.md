@@ -2,7 +2,7 @@
 layout: post
 title: "UI/UX"
 date: 2017-04-04 00:00:00
-image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/babosarang.png'
+image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/babosarang.png?raw=true'
 description: BABOSARANG
 category: 'Projects'
 tags:
