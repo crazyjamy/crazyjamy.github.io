@@ -37,65 +37,56 @@ permalink: /about/
 <span style="color: #969696; margin-left: 250px;"> • </span> <span> 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](,./ab-kpoplyricsgame-230724/)</span>   
 <span style="color: #969696; margin-left: 250px;"> • </span> <span> 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](../ab-kpoplyricsgame-240402/)</span>   
 <span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> Funny Learny TV [+](../funnylearnytv/)</span>  
-<span style="margin-left: 180px;"> → 어린이용 동영상 관리 앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span>  
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">↗</a></span>  
-<span style="margin-left: 180px;"> → 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span>  
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> K-Beauty<a href="https://play.google.com/store/apps/details?id=io.tm.kbeauty.tv" target="_blank">↗</a></span>  
-<span style="margin-left: 180px;"> → K-Beauty 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → K-Beauty 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KPOP Stream <a href="https://play.google.com/store/apps/details?id=io.tm.kpop.stream" target="_blank">↗</a></span>  
-<span style="margin-left: 180px;"> → KPOP 아이돌 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → KPOP 아이돌 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> Trend TV <a href="https://play.google.com/store/apps/details?id=io.tm.stream.in" target="_blank">↗</a></span>  
-<span style="margin-left: 180px;"> → 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;">IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">↗</a></span>  
-<span style="margin-left: 180px;"> → IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>   
+<span style="margin-left: 240px;"> → IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>   
 <span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">Smamori [+](../kidsvideoapp/) <a href="https://smamori.jp/" target="_blank">↗</a></span>   
-<span style="margin-left: 180px;"> → 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행</span>  
-<span style="margin-left: 180px;"> → 어린이용 동영상 관리 앱 디자인 진행</span>    
+<span style="margin-left: 240px;"> → 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행</span>  
+<span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span>    
 <span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV [+](../icon-kpop/)</span>  
-<span style="margin-left: 180px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>   
+<span style="margin-left: 240px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>   
 <span style="color: #969696;">2019 </span><span style="margin-left: 150px;">Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a></span>  
-<span style="margin-left: 180px;"> → 직장 동료들과 일정 공유 가능한 앱 디자인 진행</span>    
+<span style="margin-left: 240px;"> → 직장 동료들과 일정 공유 가능한 앱 디자인 진행</span>    
 <span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a></span>   
-<span style="margin-left: 180px;"> → 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span>  
 <span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Barcode Scanner [+](../barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)</span>  
-<span style="margin-left: 180px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행</span>   
+<span style="margin-left: 240px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행</span>   
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a></span>    
-<span style="margin-left: 180px;"> → 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행</span>
-<span style="color: #969696;"> 2017 </span>  
-• INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a>  
-<span style="margin-left: 180px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행  
-<span style="color: #969696;"> 2017 </span>  
-• Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>  
-<span style="margin-left: 180px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행  
-<span style="color: #969696;"> 2017 </span>  
-• Egg Story  
-<span style="margin-left: 180px;"> → 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행  
-<span style="color: #969696;"> 2017 </span>  
-• HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>  
-<span style="margin-left: 180px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행  
-<span style="margin-left: 180px;"> → 구글 애즈워즈 캠페인 운영 및 관리  
-<span style="margin-left: 180px;"> → A/B 테스트 설계 및 실행  
+<span style="margin-left: 240px;"> → 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행</span>
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a></span>      
+<span style="margin-left: 240px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span>      
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a></span>  
+<span style="margin-left: 240px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span>     
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span>    
+<span style="margin-left: 240px;"> → 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행</span>    
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a></span>     
+<span style="margin-left: 240px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행</span>    
+<span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span>    
+<span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행</span>     
 <span style="color: #969696; margin-left: 250px;"> • </span><span>2022년 9월 21일 진행 내역: 18% 전환율 향상[+](../ab-hdvd-220921/)</span>  
 <span style="color: #969696; margin-left: 250px;"> • </span><span>2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](../ab-hdvd-211105/)</span>  
-<span style="color: #969696;"> 2016 </span>  
-•  Store Bom <a href="https://www.behance.net/gallery/51348153/Shopping-mall-APP-UI" target="_blank">↗</a>  
-&nbsp;→ 반려동물 용품 웹/앱 디자인 진행  
-&nbsp;→ 택배 상자 패키지 디자인 진행  
-<span style="color: #969696;"> 2016 </span>  
-•  KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a>  
-&nbsp;→ 아동 용품 쇼핑몰 웹/앱 디자인 진행  
-<span style="color: #969696;"> 2016 </span>  
-•  Babosarang <a href="https://www.behance.net/gallery/51124513/Main_Web(PC)-UI" target="_blank">PC ↗</a> <a href="https://www.behance.net/gallery/51583461/Shopping-mall-APP-UI(Babosarang)" target="_blank">APP ↗</a>  
-&nbsp;→ 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행  
-&nbsp;→ 신년 다이어리 기획전 기획  
-&nbsp;→ 캐릭터 문구 기획전 기획  
-<span style="color: #969696;"> 2016 </span>   
-•  BESOFT  
-&nbsp;→ 은행 보안 키보드 및 웹 페이지 디자인 진행  
-<span style="color: #969696;"> 2015 </span>  
-•  Stellar(스텔라) 360 VR [↗](https://www.youtube.com/watch?v=gvORWNSsGak)  
-&nbsp;→ 360 VR 콘텐츠 앱 디자인 진행  
-&nbsp;→ 뮤직 비디오 CG 효과 디자인 진행   
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Store Bom <a href="https://www.behance.net/gallery/51348153/Shopping-mall-APP-UI" target="_blank">↗</a></span>    
+<span style="margin-left: 240px;"> → 반려동물 용품 웹/앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → 택배 상자 패키지 디자인 진행</span>    
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a></span>    
+<span style="margin-left: 240px;">→ 아동 용품 쇼핑몰 웹/앱 디자인 진행  
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang [PC +](../babosarang-web/) <a href="https://www.behance.net/gallery/51583461/Shopping-mall-APP-UI(Babosarang)" target="_blank">APP ↗</a></span>     
+<span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행</span>    
+<span style="margin-left: 240px;"> → 신년 다이어리 기획전 기획</span>     
+<span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span>     
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">BESOFT</span>   
+<span style="margin-left: 240px;"> → 은행 보안 키보드 및 웹 페이지 디자인 진행</span>  
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Stellar(스텔라) 360 VR [↗](https://www.youtube.com/watch?v=gvORWNSsGak)</span>   
+<span style="margin-left: 240px;"> → 360 VR 콘텐츠 앱 디자인 진행</span>  
+<span style="margin-left: 240px;"> → 뮤직 비디오 CG 효과 디자인 진행</span>     
 <span style="color: #969696;"> 2015 </span>  
 •  빛나거나 미치거나 MBC Drama VR [↗](https://www.youtube.com/watch?v=7Eo8ddIhUnE)  
 &nbsp;→ 360 VR 콘텐츠 앱 디자인 진행  
