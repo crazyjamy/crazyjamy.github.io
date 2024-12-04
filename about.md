@@ -87,35 +87,30 @@ permalink: /about/
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Stellar(스텔라) 360 VR [↗](https://www.youtube.com/watch?v=gvORWNSsGak)</span>   
 <span style="margin-left: 240px;"> → 360 VR 콘텐츠 앱 디자인 진행</span>  
 <span style="margin-left: 240px;"> → 뮤직 비디오 CG 효과 디자인 진행</span>     
-<span style="color: #969696;"> 2015 </span>  
-•  빛나거나 미치거나 MBC Drama VR [↗](https://www.youtube.com/watch?v=7Eo8ddIhUnE)  
-&nbsp;→ 360 VR 콘텐츠 앱 디자인 진행  
-&nbsp;→ 뮤직 비디오 CG 효과 디자인 진행  
-<span style="color: #969696;"> 2015 </span>  
-•  Samsung 창조 경제 박람회  
-&nbsp;→ VR Fall, Old House, Club VR Music Video, CG 효과 디자인 진행  
-<span style="color: #969696;"> 2015 </span>  
-• Suho360 VR  
-&nbsp;→ 360 VR 콘텐츠 앱 디자인 진행  
-<span style="color: #969696;"> 2015 </span>  
-• Lee Hae Sang Coloring Book  
-&nbsp;→ 패키지 디자인 진행  
-<span style="color: #969696;"> 2015 </span>  
-• SURF [+](../marshmello/)  
-&nbsp;→ 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행  
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">빛나거나 미치거나 MBC Drama VR [↗](https://www.youtube.com/watch?v=7Eo8ddIhUnE)</span>    
+<span style="margin-left: 240px;"> → 360 VR 콘텐츠 앱 디자인 진행</span>   
+<span style="margin-left: 240px;"> → 뮤직 비디오 CG 효과 디자인 진행</span>   
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Samsung 창조 경제 박람회</span>  
+<span style="margin-left: 240px;"> → VR Fall, Old House, Club VR Music Video, CG 효과 디자인 진행</span>   
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Suho360 VR</span>     
+<span style="margin-left: 240px;">→ 360 VR 콘텐츠 앱 디자인 진행</span>   
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Lee Hae Sang Coloring Book</span>    
+<span style="margin-left: 240px;">→ 패키지 디자인 진행</span>  
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">SURF [+](../marshmello/)</span>   
+<span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span>   
 
 ### Award
-창업 경진 대회   
-• 충북대학교, "우수상", 2013.11.28  
-청렴공모전, 어플리케이션 부문  
-• 국민권익위원회, "우수상", 2011. 10. 11.  
+<span style="color: #969696;">2013.11.28</span><span style="margin-left: 150px;">창업 경진 대회</span>  
+<span style="margin-left: 240px;">충북대학교, "우수상 "</span>
+<span style="color: #969696;">2011. 10. 11.</span><span style="margin-left: 150px;">청렴공모전, 어플리케이션 부문</span> 
+<span style="margin-left: 240px;">국민권익위원회, "우수상"</span>
 
 ### Exhibition
 <span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>  
-•  New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a>  
+<span style="margin-left: 240px;"> New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a></span> 
 <span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>  
-•  Seoul, COEX, SEOUL ART SHOW  
+<span style="margin-left: 240px;"> Seoul, COEX, SEOUL ART SHOW </span>  
 <span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span>  
-•  Seoul, 72시간 도시 생생 프로젝트, 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">↗</a>  
+<span style="margin-left: 240px;"> Seoul, 72시간 도시 생생 프로젝트, 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">↗</a></span>   
 <span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span>  
-•  Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a>  
+<span style="margin-left: 240px;"> Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a></span>   
