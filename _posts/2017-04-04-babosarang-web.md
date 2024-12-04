@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "UI/UX"
+title: "BABOSARANG WEB"
 date: 2017-04-04 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/babosarang.png?raw=true'
 description: BABOSARANG
-category: 'Projects'
+category: 'UI/UX'
 tags:
-- TEST
+- Projects
 twitter_text: BABOSARANG
-introduction: BABOSARANG
+introduction: WEBPAGE
 ---
 
 
