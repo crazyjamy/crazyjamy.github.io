@@ -54,32 +54,29 @@ permalink: /about/
 <span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV [+](../icon-kpop/)</span>  
 <span style="margin-left: 180px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>   
 <span style="color: #969696;">2019 </span><span style="margin-left: 150px;">Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a></span>  
-&nbsp;→ 직장 동료들과 일정 공유 가능한 앱 디자인 진행  
-<span style="color: #969696;"> 2018 </span>  
-• Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a>  
-&nbsp;→ 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행  
-<span style="color: #969696;"> 2018 </span>  
-•  Barcode Scanner [+](../barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)  
-&nbsp;→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행  
-<span style="color: #969696;"> 2017 </span>  
-•  JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a>  
-&nbsp;→ 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행  
+<span style="margin-left: 180px;"> → 직장 동료들과 일정 공유 가능한 앱 디자인 진행</span>    
+<span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a></span>   
+<span style="margin-left: 180px;"> → 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span>  
+<span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Barcode Scanner [+](../barcode_scanner/) [↗](https://play.google.com/store/apps/details?id=io.jmobile.jmscanner)</span>  
+<span style="margin-left: 180px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행</span>   
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a></span>    
+<span style="margin-left: 180px;"> → 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행</span>
 <span style="color: #969696;"> 2017 </span>  
 • INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a>  
-&nbsp;→ 인스타그램 컨텐츠 다운로더 앱 디자인 진행  
+<span style="margin-left: 180px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행  
 <span style="color: #969696;"> 2017 </span>  
 • Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a>  
-&nbsp;→ 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행  
+<span style="margin-left: 180px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행  
 <span style="color: #969696;"> 2017 </span>  
 • Egg Story  
-&nbsp;→ 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행  
+<span style="margin-left: 180px;"> → 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행  
 <span style="color: #969696;"> 2017 </span>  
 • HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv">↗</a>  
-&nbsp;→ 동영상 컨텐츠 다운로더 앱 디자인 진행  
-&nbsp;→ 구글 애즈워즈 캠페인 운영 및 관리  
-&nbsp;→ A/B 테스트 설계 및 실행  
-&nbsp; &nbsp;<span style="color: #969696;"> • </span> 2022년 9월 21일 진행 내역: 18% 전환율 향상[+](../ab-hdvd-220921/)  
-&nbsp; &nbsp;<span style="color: #969696;"> • </span>  2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](../ab-hdvd-211105/)  
+<span style="margin-left: 180px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행  
+<span style="margin-left: 180px;"> → 구글 애즈워즈 캠페인 운영 및 관리  
+<span style="margin-left: 180px;"> → A/B 테스트 설계 및 실행  
+<span style="color: #969696; margin-left: 250px;"> • </span><span>2022년 9월 21일 진행 내역: 18% 전환율 향상[+](../ab-hdvd-220921/)</span>  
+<span style="color: #969696; margin-left: 250px;"> • </span><span>2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](../ab-hdvd-211105/)</span>  
 <span style="color: #969696;"> 2016 </span>  
 •  Store Bom <a href="https://www.behance.net/gallery/51348153/Shopping-mall-APP-UI" target="_blank">↗</a>  
 &nbsp;→ 반려동물 용품 웹/앱 디자인 진행  
