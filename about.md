@@ -10,12 +10,12 @@ permalink: /about/
 
 ### EXPERIENCE & EDUCATIONS
 <span style="color: #969696;">2024.06 — 2024.12</span><span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span>   
-<span style="margin-left: 240px;"> →DESIGNER</span>    
-<span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span>    
+<span style="margin-left: 240px;"> →DESIGNER</span>   
+<span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span>   
 <span style="margin-left: 240px;"> → UI/UX DESIGNER</span>    
-<span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span>
+<span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span>  
 <span style="margin-left: 240px;"> → UI/UX DESIGNER</span>    
-<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a></span> 
+<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a></span>  
 <span style="margin-left: 240px;"> → UI/UX DESIGNER</span>  
 <span style="color: #969696;">2015.12 — 2016.06</span><span style="margin-left: 50px;">BESOFT</span>   
 <span style="margin-left: 240px;"> → UI/UX DESIGNER</span>    
