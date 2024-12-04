@@ -4,7 +4,7 @@ title: "Marshmello"
 date: 2015-05-01 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/marshmello.gif?raw=true'
 description: My First Loading Animation
-category: 'Personal Projects'
+category: 'Icons'
 tags:
 - Personal Projects
 twitter_text: My First Loading Animation
