@@ -456,7 +456,7 @@ main{
       }
 }
 .post-content p.post-info{
-  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:.813rem;letter-spacing:0;color:#a9a9a9;margin:0 auto; padding-left: 10rem;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:.813rem;letter-spacing:0;color:#a9a9a9;margin:0 auto;
 }
 @media only screen and (min-width:37.5rem){
   .post-content p.post-info{font-size:0.8rem
@@ -473,10 +473,10 @@ main{
   padding:.1rem 0; ul margin-bottom:0
 }
 .post-content p,.post-content li{
-  color:#333; padding-left:10rem;
+  color:#333;
 }
 .post-content p code,.post-content li code{
-  color:#bf616a;word-wrap:break-word;background:#f2f2f2;padding:.188rem .313rem;border-radius:3px;font-size:0.8rem;padding-left:10rem;
+  color:#bf616a;word-wrap:break-word;background:#f2f2f2;padding:.188rem .313rem;border-radius:3px;font-size:0.8rem;
 }
 .post-content a{
     color:#2196f3;text-decoration:none
@@ -494,14 +494,14 @@ main{
     font-size:2.938rem
   }
 }
-.post-content h2{font-size:1.5rem;line-height:1.4;padding-left:10rem;
+.post-content h2{font-size:1.5rem;line-height:1.4;
 }
 @media only screen and (min-width:37.5rem){
   .post-content h2{font-size:2.313rem}}.post-content h3{
     font-size:1.25rem;line-height:1.4;
 }
 @media only screen and (min-width:37.5rem){
-  .post-content h3{font-size:1.688rem;padding-left:10rem;
+  .post-content h3{font-size:1.688rem;
   }
 }
 .post-content ul,.post-content ol{
@@ -577,7 +577,7 @@ main{
   width:.938rem;height:.938rem;fill:#a9a9a9;vertical-align:middle;margin-right:.188rem
 }
 .post-content .tags{
-  width:auto;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:10rem;padding-right:0;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;margin:0 auto 1.813rem;margin-top:1.875rem;letter-spacing:.01rem;line-height:2.5rem;
+  width:auto;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0rem;padding-right:0;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;margin:0 auto 1.813rem;margin-top:1.875rem;letter-spacing:.01rem;line-height:2.5rem;
 }
 .post-content .tags::after{
   content:'';display:table;clear:both}@media only screen and (min-width:37.5rem){.post-content .tags{font-size:1.25rem;letter-spacing:.05rem
@@ -590,7 +590,7 @@ main{
     color:#fff;border:1px solid #141414;background-color:#141414
 }
 .post-content .tag-title{
-  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:2.375rem;margin-top:3.75rem;width:auto;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:10rem;padding-right:0;
+  font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:2.375rem;margin-top:3.75rem;width:auto;float:none;display:block;margin-right:auto;margin-left:auto;paddipadding-right:0;
 }
 .post-content .tag-title::after{
     content:'';display:table;clear:both
@@ -769,7 +769,7 @@ pre code::after{
   margin:0 0 1.875rem;font-size:1.875rem
 }
 footer{
-  width:auto;float:none;display:block;;padding-left:10rem;padding-right:0;border-top:1px solid #e6e6e6;background:#fff;padding:1.25rem 1.563rem;margin-top:3.125rem;margin-bottom:2.5rem;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;
+  width:auto;float:none;display:block;padding-right:0;border-top:1px solid #e6e6e6;background:#fff;padding:1.25rem 1.563rem;margin-top:3.125rem;margin-bottom:2.5rem;font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;font-weight:300;font-style:normal;
 }
 footer::after{
   content:'';display:table;clear:both
