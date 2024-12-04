@@ -613,7 +613,7 @@ main{
   border-bottom:1px solid #ff0a16
 }
 .post-content .post-list .entry-date{
-  float:right;
+  float:right;padding-right:10rem;
 }
 @media only screen and (max-width:37.5rem){
   .post-content .post-list .entry-date{display:none
