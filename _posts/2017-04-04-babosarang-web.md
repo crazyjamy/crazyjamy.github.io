@@ -15,7 +15,7 @@ introduction: WEBPAGE
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/babosarang/web-ui-babosarang_02.png?raw=truee" alt="" style="width: 1400px;">
 
 ## TECHNOLOGIES & TOOLS
-+ Photoshop
+Photoshop
 
 ## RELATED PROJECTS
 BABOSARANG-Mobile [↗](https://crazyjamy.github.io/kpoplyricsgame/)
