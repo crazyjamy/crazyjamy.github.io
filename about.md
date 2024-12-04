@@ -27,26 +27,24 @@ permalink: /about/
 • 충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a>· 조형예술학 졸업  
 
 ### PROJECT
-<span style="color: #969696;"> 2024 </span><span style="margin-left: 180px;"> VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 </span>  
-<span style="color: #969696;"> 2024 </span><span style="margin-left: 180px;"> 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a> </span>  
-<span style="color: #969696;"> 2023 </span><span style="margin-left: 180px;"> DicToc KPOP [+](../kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a></span>  
+<span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 </span>  
+<span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a> </span>  
+<span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> DicToc KPOP [+](../kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a></span>  
 <span style="margin-left: 240px;"> → KPOP 가사 배우는 게임 앱 디자인 진행</span>  
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span>    
 <span style="margin-left: 240px;"> → 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)</span>    
 <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행, 각 디자인 성과 분석:</span>    
-<span style="color: #969696; margin-left: 250px;"> • </span> 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](,./ab-kpoplyricsgame-230724/)</span>   
-<span style="color: #969696; margin-left: 250px;"> • </span> 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](../ab-kpoplyricsgame-240402/)</span>   
-<span style="color: #969696;"> 2023 </span><span style="margin-left: 200px;"> Funny Learny TV [+](../funnylearnytv/)</span> 
+<span style="color: #969696; margin-left: 250px;"> • </span> <span> 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](,./ab-kpoplyricsgame-230724/)</span>   
+<span style="color: #969696; margin-left: 250px;"> • </span> <span> 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](../ab-kpoplyricsgame-240402/)</span>   
+<span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> Funny Learny TV [+](../funnylearnytv/)</span>  
 <span style="margin-left: 180px;"> → 어린이용 동영상 관리 앱 디자인 진행</span>  
-<span style="color: #969696;"> 2021 </span><span style="margin-left: 200px;"> KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">↗</a></span>  
+<span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">↗</a></span>  
 <span style="margin-left: 180px;"> → 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span>  
-<span style="color: #969696;"> 2021 </span><span style="margin-left: 180px;"> K-Beauty<a href="https://play.google.com/store/apps/details?id=io.tm.kbeauty.tv" target="_blank">↗</a></span>  
+<span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> K-Beauty<a href="https://play.google.com/store/apps/details?id=io.tm.kbeauty.tv" target="_blank">↗</a></span>  
 <span style="margin-left: 180px;"> → K-Beauty 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
-<span style="color: #969696;"> 2021 </span>  
-• KPOP Stream <a href="https://play.google.com/store/apps/details?id=io.tm.kpop.stream" target="_blank">↗</a>  
-&nbsp;→ KPOP 아이돌 동영상 콘텐츠 커스터마이징 앱 디자인 진행  
-<span style="color: #969696;"> 2021 </span>  
-• Trend TV <a href="https://play.google.com/store/apps/details?id=io.tm.stream.in" target="_blank">↗</a>  
+<span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KPOP Stream <a href="https://play.google.com/store/apps/details?id=io.tm.kpop.stream" target="_blank">↗</a></span>  
+<span style="margin-left: 180px;"> → KPOP 아이돌 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
+<span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> Trend TV <a href="https://play.google.com/store/apps/details?id=io.tm.stream.in" target="_blank">↗</a></span>  
 &nbsp;→ 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행  
 <span style="color: #969696;"> 2021 </span>   
 • IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">↗</a>  
