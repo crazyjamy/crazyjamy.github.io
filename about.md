@@ -27,8 +27,10 @@ permalink: /about/
 <span style="margin-left: 240px;"> • 조형예술학 졸업</span>  
 
 ### PROJECT
-<span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션 프로그램 디자인 유지보수 및 최적화 </span>  
-<span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a> </span>  
+<span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션</span>  
+<span style="margin-left: 240px;"> →프로그램 디자인 유지보수 및 최적화 </span>  
+<span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트</span>  
+<span style="margin-left: 240px;"> →디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a> </span>  
 <span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> DicToc KPOP [+](../kpoplyricsgame/) <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a></span>  
 <span style="margin-left: 240px;"> → KPOP 가사 배우는 게임 앱 디자인 진행</span>  
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span>    
