@@ -439,9 +439,14 @@ main{
 .post-content p,.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content ul,.post-content ol,.post-content iframe{
   width:auto;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-style:normal;font-size:1.125rem;line-height:2.188rem;padding:0 1.25rem;margin:0 auto 1.25rem;letter-spacing:.05rem;
 }
-.post-content p::after,.post-content h1::after,.post-content h2::after,.post-content h3::after,.post-content h4::after,.post-content ul::after,.post-content ol::after,.post-content iframe::after{content:'';display:table;clear:both}@media only screen and (min-width:37.5rem){
-  .post-content p,.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content ul,.post-content ol,.post-content iframe{
+.post-content h1::after,.post-content h2::after,.post-content h3::after,.post-content h4::after,.post-content ul::after,.post-content ol::after,.post-content iframe::after{content:'';display:table;clear:both}@media only screen and (min-width:37.5rem){
+,.post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content ul,.post-content ol,.post-content iframe{
     font-size:1rem;line-height:1.5rem;margin:0 auto 1.813rem
+  }
+}
+.post-content p::after @media only screen and (min-width:37.5rem){
+  .post-content p
+    font-size:1rem;line-height:1.5rem;margin:0 auto 1.813rem;padding-left: 10rem;
   }
 }
 .post-content h1.post-title{
