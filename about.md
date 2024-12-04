@@ -101,16 +101,12 @@ permalink: /about/
 
 ### Award
 <span style="color: #969696;">2013.11.28</span><span style="margin-left: 150px;">창업 경진 대회</span>  
-<span style="margin-left: 240px;">충북대학교, "우수상 "</span>
-<span style="color: #969696;">2011. 10. 11.</span><span style="margin-left: 150px;">청렴공모전, 어플리케이션 부문</span> 
-<span style="margin-left: 240px;">국민권익위원회, "우수상"</span>
+<span style="margin-left: 240px;">충북대학교, "우수상 "</span>  
+<span style="color: #969696;">2011. 10. 11.</span><span style="margin-left: 150px;">청렴공모전, 어플리케이션 부문</span>  
+<span style="margin-left: 240px;">국민권익위원회, "우수상"</span>  
 
 ### Exhibition
-<span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span>  
-<span style="margin-left: 240px;"> New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a></span> 
-<span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span>  
-<span style="margin-left: 240px;"> Seoul, COEX, SEOUL ART SHOW </span>  
-<span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span>  
-<span style="margin-left: 240px;"> Seoul, 72시간 도시 생생 프로젝트, 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">↗</a></span>   
-<span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span>  
-<span style="margin-left: 240px;"> Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a></span>   
+<span style="color: #969696;">2014. 07. 13 ~ 2014. 08. 06</span><span style="margin-left: 240px;"> New York, gallery MC, I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a></span> 
+<span style="color: #969696;">2013. 12. 24 ~ 2013. 12. 29</span><span style="margin-left: 240px;"> Seoul, COEX, SEOUL ART SHOW </span>  
+<span style="color: #969696;">2013. 10. 10 ~ 2013. 11. 15</span><span style="margin-left: 240px;"> Seoul, 72시간 도시 생생 프로젝트, 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">↗</a></span>   
+<span style="color: #969696;">2013. 08. 02 ~ 2013. 08. 10</span><span style="margin-left: 240px;"> Seoul, imazoo Gallery, 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a></span>   
