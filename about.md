@@ -45,19 +45,15 @@ permalink: /about/
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KPOP Stream <a href="https://play.google.com/store/apps/details?id=io.tm.kpop.stream" target="_blank">↗</a></span>  
 <span style="margin-left: 180px;"> → KPOP 아이돌 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> Trend TV <a href="https://play.google.com/store/apps/details?id=io.tm.stream.in" target="_blank">↗</a></span>  
-&nbsp;→ 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행  
-<span style="color: #969696;"> 2021 </span>   
-• IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">↗</a>  
-&nbsp;→ IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행   
-<span style="color: #969696;"> 2020 </span>   
-• Smamori [+](../kidsvideoapp/) <a href="https://smamori.jp/" target="_blank">↗</a>  
-&nbsp;→ 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행  
-&nbsp;→ 어린이용 동영상 관리 앱 디자인 진행  
-<span style="color: #969696;"> 2020 </span>  
-• KPOP TV [+](../icon-kpop/)  
-&nbsp;→ KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행   
-<span style="color: #969696;"> 2019 </span>   
-• Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a>  
+<span style="margin-left: 180px;"> → 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>  
+<span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;">IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">↗</a></span>  
+<span style="margin-left: 180px;"> → IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>   
+<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">Smamori [+](../kidsvideoapp/) <a href="https://smamori.jp/" target="_blank">↗</a></span>   
+<span style="margin-left: 180px;"> → 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행</span>  
+<span style="margin-left: 180px;"> → 어린이용 동영상 관리 앱 디자인 진행</span>    
+<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV [+](../icon-kpop/)</span>  
+<span style="margin-left: 180px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span>   
+<span style="color: #969696;">2019 </span><span style="margin-left: 150px;">Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">↗</a></span>  
 &nbsp;→ 직장 동료들과 일정 공유 가능한 앱 디자인 진행  
 <span style="color: #969696;"> 2018 </span>  
 • Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">↗</a>  
