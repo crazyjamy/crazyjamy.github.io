@@ -51,7 +51,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 
 ### ICONS
 아이콘스타일, 컬러, 폰트는 고객이 서비스에서 자연스럽게 접하는 요소입니다.
-요소들을 정의하고 일관되게 사용하려고 노력하였습니다.
+요소들을 정의하고 일관되게 사용하려고 노력하였습니다.  
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/icon-qr.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 ### TEXTFIELD
 
