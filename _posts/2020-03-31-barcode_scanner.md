@@ -50,8 +50,11 @@ introduction: APPLICATION
 - 입력창 UI 개선
 
 ### ICONS
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/icons_qr_scanner.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+아이콘스타일, 컬러, 폰트는 고객이 서비스에서 자연스럽게 접하는 요소입니다.
+요소들을 정의하고 일관되게 사용하려고 노력하였습니다.
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/icon-qr.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 ### TEXTFIELD
+
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_textfield_states.png?raw=true" alt="Icons"  width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### UI
