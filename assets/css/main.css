@@ -760,7 +760,7 @@ pre code::after{
   }
 }
 .comments{
-  width:auto;max-width:50rem;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;padding:0 1.25rem;
+  width:auto;max-width:90%;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;padding:0 1.25rem;
 }
 .comments::after{
   content:'';display:table;clear:both
