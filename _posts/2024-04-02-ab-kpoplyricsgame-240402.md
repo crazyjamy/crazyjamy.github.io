@@ -27,34 +27,34 @@ introduction: Kpop Lyrics Game
 
 ### EXPERIEMENT DESIGN
 현재 등록 정보: APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px; margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
 GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/default-GraphicImage_1024*578.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/default-GraphicImage_1024*578.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### 변수 A - PINK
 APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-AppIcon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-AppIcon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
 GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### 변수 B - VIOLET
 APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-playstore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-playstore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
 GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 
 ### RESULTS ANALYSIS
 처음 설치한 사용자 중 설치 상태를 유지한 사용자  
 현재 정보: 4,159  
 • 변수 A: +37.4% 4,706  
 • 변수 B: -42.3% 2,082  
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;">
 
 ### 최초 설치 사용자
 현재 정보: 7,529  
 • 변수 A: +22.6% 8,327  
 • 변수 B: -40.3% 4,088  
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;">
 
 ### OUTCOMES
 새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 37.4% 상승.  
@@ -64,7 +64,7 @@ GRAPHIC IMAGE
 • 시각적 요소, 색상, 및 콘텐츠의 중요성을 확인.  
 • 색상 변화가 사용자 반응에 미친 영향을 추가 분석하여, 최적의 색상 조합을 도출.  
 • 테스트 결과를 바탕으로 앱의 인트로 화면 동일하게 적용  
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;margin: 0 auto;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;">
 
 ### TECHNOLOGIES & TOOLS
 • Sketch  
