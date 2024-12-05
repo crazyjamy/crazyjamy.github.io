@@ -11,6 +11,7 @@ twitter_text: Kpop Lyrics Game
 introduction: Kpop Lyrics Game
 ---
 
+---
 ### PROJECT OVERVIEW
 목표:  
 앱 스토어 페이지의 최적화를 통해 다운로드 전환율을 높이고 사용자 참여도를 향상시키기 위한 A/B 테스트 진행.  
