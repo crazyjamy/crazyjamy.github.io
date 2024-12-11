@@ -509,6 +509,8 @@ main{
 }
 .post-content ul.post-list{
   padding:0;
+  padding-right:4rem;
+  padding-left:4rem;
 }
 .post-content ul.post-list.svg-serie p{
   padding:0}@media only screen and (max-width:37.5rem){.post-content ul.post-list{padding:0 1.25rem
@@ -609,14 +611,11 @@ main{
 .post-content .post-list a{
   display:block;border-bottom:1px solid #e1e1e1;padding:.625rem 0;text-decoration:none;-webkit-transition:all .5s;transition:all .5s;font-size:0.8rem;
 }
-.post-content .post-list .tag-list a{
-  display:block;border-bottom:1px solid #e1e1e1;padding:.625rem 0;text-decoration:none;-webkit-transition:all .5s;transition:all .5s;font-size:0.8rem; padding-right:5rem;
-}
 .post-content .post-list a:hover{
   border-bottom:1px solid #ff0a16
 }
 .post-content .post-list .entry-date{
-  float:right;padding-right:10rem;
+  float:right;
 }
 @media only screen and (max-width:37.5rem){
   .post-content .post-list .entry-date{display:none
