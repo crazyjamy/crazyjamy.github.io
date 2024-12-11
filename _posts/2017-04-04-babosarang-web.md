@@ -20,7 +20,7 @@ introduction: WEBPAGE
 아이콘들은 키즈 영상 제어 애플리케이션에서 사용되었습니다. <br /> <br />
 
 <strong> RELATED PROJECTS </strong> <br />
-BABOSARANG-Mobile[+](../marshmello/)  <br /><br />
+[BABOSARANG-Mobile + ](../marshmello/)  <br /><br />
 
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Photoshop <br />
