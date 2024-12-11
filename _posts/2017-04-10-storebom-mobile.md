@@ -3,11 +3,11 @@ layout: post
 title: "Store Bom"
 date: 2017-04-10 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/storebom.png?raw=true'
-description: Store Bom
+description: Mobile App
 category: 'UI/UX'
 tags:
 - Projects
-twitter_text: Store Bom
+twitter_text: Mobile App for shoppingmall
 introduction: Mobile App for shoppingmall
 ---
 
