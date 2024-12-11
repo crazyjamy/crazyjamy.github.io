@@ -74,8 +74,8 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span>    
 <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행</span>     
 <span style="color: #969696; margin-left: 250px;"> • </span><span>2022년 9월 21일 진행 내역: 18% 전환율 향상[+](../ab-hdvd-220921/)</span>  
-<span style="color: #969696; margin-left: 250px;"> • </span><span>2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](../ab-hdvd-211105/)</span>  
-<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Store Bom <a href="https://www.behance.net/gallery/51348153/Shopping-mall-APP-UI" target="_blank">↗</a></span>    
+<span style="color: #969696; margin-left: 250px;"> • </span><span>2021년 11월 5일 진행 내역: 48.3%% 전환율 향상[+](../ab-hdvd-211105/)</span>   
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Store Bom [APP +](../storebom-mobile/)</span>     
 <span style="margin-left: 240px;"> → 반려동물 용품 웹/앱 디자인 진행</span>  
 <span style="margin-left: 240px;"> → 택배 상자 패키지 디자인 진행</span>    
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a></span>    
