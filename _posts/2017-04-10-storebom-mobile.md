@@ -17,7 +17,7 @@ introduction: Mobile App for shoppingmall
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_01.gif?raw=true" alt="" style="width: 1400px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_02.jpg?raw=true" alt="" style="width: 1400px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_03.jpg?raw=true" alt="" style="width: 1400px;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_04.jpg?raw=true" alt="" style="width: 1400px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_04.gif?raw=true" alt="" style="width: 500px;">
 <br /> <br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Photoshop <br />
