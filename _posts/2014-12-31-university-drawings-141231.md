@@ -26,3 +26,7 @@ I broadly divided into two things and put a lot of meaning into them. <br /><br 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/9.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;">
 <strong> DETAIL CUT  #3 </strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/10.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;">
+<br />
+<strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
+Photoshop <br />
+</div>
