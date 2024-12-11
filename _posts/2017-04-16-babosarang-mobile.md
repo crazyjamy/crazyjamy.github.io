@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BABOSARANG"
-date: 2017-04-04 00:00:00
+date: 2017-04-16 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/babosarang-m.png?raw=true'
 description: BABOSARANG
 category: 'UI/UX'
