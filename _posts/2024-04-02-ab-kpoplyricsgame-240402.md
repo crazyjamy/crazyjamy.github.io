@@ -28,22 +28,22 @@ introduction: Kpop Lyrics Game
 스토어 등록정보 실험 앱아이콘, 그래픽이미지시각적 및 내용적 요소를 변경하면 다운로드 전환율이 높아질 것이다.
 
 ### EXPERIEMENT DESIGN
-현재 등록 정보: APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
-GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/default-GraphicImage_1024*578.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+####현재 등록 정보: APP ICON  
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 140px; margin-bottom: 2rem;">
+GRAPHIC IMAGE  
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/default-GraphicImage_1024*578.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 400px; margin-bottom: 2rem;">
 
-### 변수 A - PINK
+####변수 A - PINK
 APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-AppIcon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-AppIcon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;  width: 140px; margin-bottom: 2rem;">
 GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 400px; margin-bottom: 2rem;">
 
-### 변수 B - VIOLET
+#### 변수 B - VIOLET
 APP ICON 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-playstore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-playstore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;  width: 140px; margin-bottom: 2rem;">
 GRAPHIC IMAGE
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 400px; margin-bottom: 2rem;">
 
 ### RESULTS ANALYSIS
 처음 설치한 사용자 중 설치 상태를 유지한 사용자  
@@ -62,7 +62,7 @@ GRAPHIC IMAGE
 새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 37.4% 상승.  
 
 ### INSIGHTS AND NEXT STEPS  
-• A/B 테스트 결과를 바탕으로 모든 마켓에 변수 "A - PINK(실적 우수)"를 적용.  
+#### A/B 테스트 결과를 바탕으로 모든 마켓에 변수 "A - PINK(실적 우수)"를 적용.  
 • 시각적 요소, 색상, 및 콘텐츠의 중요성을 확인.  
 • 색상 변화가 사용자 반응에 미친 영향을 추가 분석하여, 최적의 색상 조합을 도출.  
 • 테스트 결과를 바탕으로 앱의 인트로 화면 동일하게 적용  
