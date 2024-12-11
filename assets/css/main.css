@@ -609,6 +609,9 @@ main{
 .post-content .post-list a{
   display:block;border-bottom:1px solid #e1e1e1;padding:.625rem 0;text-decoration:none;-webkit-transition:all .5s;transition:all .5s;font-size:0.8rem;
 }
+.post-content .post-list .tag-list a{
+  display:block;border-bottom:1px solid #e1e1e1;padding:.625rem 0;text-decoration:none;-webkit-transition:all .5s;transition:all .5s;font-size:0.8rem; padding-right:5rem;
+}
 .post-content .post-list a:hover{
   border-bottom:1px solid #ff0a16
 }
