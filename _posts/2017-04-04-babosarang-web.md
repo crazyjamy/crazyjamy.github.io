@@ -3,11 +3,11 @@ layout: post
 title: "BABOSARANG"
 date: 2017-04-04 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/babosarang.png?raw=true'
-description: BABOSARANG
+description: WEBPAGE
 category: 'UI/UX'
 tags:
 - Projects
-twitter_text: BABOSARANG
+twitter_text: WEBPAGE
 introduction: WEBPAGE
 ---
 
