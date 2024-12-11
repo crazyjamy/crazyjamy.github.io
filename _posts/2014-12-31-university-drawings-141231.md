@@ -11,7 +11,7 @@ twitter_text: 두가지 종류의 사람들 (Two Kinds of People) ver2
 introduction: 두가지 종류의 사람들 (Two Kinds of People) ver2
 ---
 ---
-
+<div align="center">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/6.jpg?raw=true" alt="">
 <strong> Title</strong><br /><br />
 두가지 종류의 사람들 (Two Kinds of People) ver2 <br /><br /><br />
