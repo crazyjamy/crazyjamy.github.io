@@ -17,7 +17,7 @@ introduction: My First Loading Animation
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br />
 <strong> SLICES </strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/sli_marshmello.png?raw=true)" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br />
-<strong> FINAL/strong><br /><br />
+<strong> FINAL</strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/final-marshmello.gif?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br />
 <br />
 <strong> DESCRIPTION </strong> <br /><br />
