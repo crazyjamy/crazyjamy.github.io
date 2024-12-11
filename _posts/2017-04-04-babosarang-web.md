@@ -3,12 +3,12 @@ layout: post
 title: "BABOSARANG"
 date: 2017-04-04 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/babosarang.png?raw=true'
-description: WEBPAGE
+description: Webpage for Design Shopping Mall
 category: 'UI/UX'
 tags:
 - Projects
-twitter_text: WEBPAGE
-introduction: WEBPAGE
+twitter_text: Webpage for Design Shopping Mall
+introduction: Webpage for Design Shopping Mall
 ---
 
 ---
