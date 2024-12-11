@@ -14,11 +14,11 @@ introduction: My First Loading Animation
 ---
 <div align="center">
 <strong>SKETCH</strong><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true" alt="" width="1000" style= "margin-bottom: 30px;"><br /><br />
 <strong> SLICES </strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/sli_marshmello.png?raw=true)" alt="" width="800" style= "margin-bottom: 30px;"><br /><br />
 <strong> FINAL</strong><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/final-marshmello.gif?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/final-marshmello.gif?raw=true" alt="" width="1000" style= "margin-bottom: 30px;"><br /><br />
 <br />
 <strong> DESCRIPTION </strong> <br /><br />
 이 애니메이션은 벡터 이미지를 기반으로 프레임별로 작업하게 되었습니다.  <br /> 
