@@ -35,7 +35,7 @@ Moments, 40sec, video, animation, 2012<br />
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/116858106?h=dd65113339" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 <br /><br />
 <strong> TIME LINE IMAGES </strong><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/13.png?raw=true" alt="" width="1400" style= "margin-bottom: 30px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/13.png?raw=true" alt="" width="800" style= "margin-bottom: 30px;">
 <br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
 Photoshop <br />
