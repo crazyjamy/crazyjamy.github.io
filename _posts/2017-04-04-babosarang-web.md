@@ -11,11 +11,21 @@ twitter_text: BABOSARANG
 introduction: WEBPAGE
 ---
 
+---
 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/babosarang/web-ui-babosarang_02.png?raw=truee" alt="" style="width: 1400px;">
+<div align="center">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/babosarang/web-ui-babosarang_03.jpg?raw=true" alt="" style="width: 1400px;">
+ <br /> <br />
+<strong> DESCRIPTION </strong>   <br />
+아이콘들은 키즈 영상 제어 애플리케이션에서 사용되었습니다. <br /> <br />
 
-## TECHNOLOGIES & TOOLS
-Photoshop
-
-## RELATED PROJECTS
+<strong> RELATED PROJECTS </strong> <br />
 BABOSARANG-Mobile [↗](https://crazyjamy.github.io/kpoplyricsgame/)
+
+
+<strong>TECHNOLOGIES & TOOLS </strong> <br />
+Photoshop <br />
+</div>
+
+
+
