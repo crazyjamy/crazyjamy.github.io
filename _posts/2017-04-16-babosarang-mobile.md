@@ -18,7 +18,7 @@ introduction: Mobile App
  <br /> <br />
 
 <strong> RELATED PROJECTS </strong> <br />
-[BABOSARANG-Web + ](../babosarang-web/)  <br /><br />
+<a href="https://crazyjamy.github.io/babosarang-web/" style="font-weight: bold; text-decoration: none;">BABOSARANG-Web +</a>   <br /><br />
 
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Photoshop <br />
