@@ -20,6 +20,6 @@ introduction: Mobile App for shoppingmall
 <br /> <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_04.gif?raw=true" alt="" width="500" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 <br /> <br />
-<strong>TECHNOLOGIES & TOOLS </strong> <br />
+<strong>TECHNOLOGIES & TOOLS </strong> <br /> <br />
 Photoshop <br />
 </div>
