@@ -28,12 +28,12 @@ introduction: Kpop Lyrics Game
 스토어 등록정보 실험 앱아이콘, 그래픽이미지시각적 및 내용적 요소를 변경하면 다운로드 전환율이 높아질 것이다.
 
 ### EXPERIEMENT DESIGN
-####현재 등록 정보: APP ICON  
+#### 현재 등록 정보: APP ICON  
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 140px; margin-bottom: 2rem;">
 GRAPHIC IMAGE  
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/default-GraphicImage_1024*578.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 400px; margin-bottom: 2rem;">
 
-####변수 A - PINK
+#### 변수 A - PINK
 APP ICON 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-AppIcon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;  width: 140px; margin-bottom: 2rem;">
 GRAPHIC IMAGE
