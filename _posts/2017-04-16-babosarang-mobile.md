@@ -7,8 +7,8 @@ description: Mobile App
 category: 'UI/UX'
 tags:
 - Projects
-twitter_text: Mobile App
-introduction: Mobile App
+twitter_text: Mobile App for Shopping Mall
+introduction: Mobile App for Shopping Mall
 ---
 
 ---
