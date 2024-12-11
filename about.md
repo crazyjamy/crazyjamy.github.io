@@ -80,7 +80,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 택배 상자 패키지 디자인 진행</span>    
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a></span>    
 <span style="margin-left: 240px;">→ 아동 용품 쇼핑몰 웹/앱 디자인 진행  
-<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang [PC +](../babosarang-web/) <a href="https://www.behance.net/gallery/51583461/Shopping-mall-APP-UI(Babosarang)" target="_blank">APP ↗</a></span>     
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang [PC +](../babosarang-web/)[APP +](../babosarang-mobile/)        
 <span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행</span>    
 <span style="margin-left: 240px;"> → 신년 다이어리 기획전 기획</span>     
 <span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span>     
