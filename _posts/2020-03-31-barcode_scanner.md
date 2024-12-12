@@ -18,7 +18,6 @@ introduction: APPLICATION
 2018년 여름, 우리 팀은 사내 앱을 개발하는 과정에서 QR 스캔 기능이 필요하다는 판단을 하고 개발이 진행되었습니다. <br /><br /><br />
 <strong> GOALS </strong> <br />
 빠른 QR 인식 과 편한 UI<br /><br /><br />
-<br /><br />
 <strong> UI </strong> <br />
 <span style="color: #646464;">SCANNING A QR CODE</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_scanning_360-628.gif?raw=true" alt="QR Scan" style="border: 1px solid #e1e1e1; border-radius: 10px;">
