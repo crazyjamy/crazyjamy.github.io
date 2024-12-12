@@ -12,19 +12,20 @@ introduction: Application
 ---
 ---
 <div align="center">
-<strong> DESCRIPTION </strong> <br /> <br />
+<strong> DESCRIPTION </strong> <br /> <br /> <br />
 온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다. <br /><br /><br />
-<strong> GOALS </strong> <br /> <br />
+<strong> GOALS </strong> <br /> <br /> <br />
 Youtube 의 무분별한 콘텐츠 제한, 컨텐츠 커스터마이징, 영상 시청시간 제한 <br /><br /><br />
 <strong>  WIRE FRAMING & PROTOTYPING </strong> <br /> <br />
 <span style="color: #646464;">STORY BOARD</span><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"> <br /> <br /> <br />
 <strong> DESIGN & ITERATION</strong> <br /> <br />
 <span style="color: #646464;">Character</span><br /><br />
+<div>
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="width: 300px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="width: 300px; "><br /><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="width: 300px; "></div><br /><br /><br />
 <span style="color: #646464;">Intro</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
 <span style="color: #646464;">Tab Bar</span><br /><br />
