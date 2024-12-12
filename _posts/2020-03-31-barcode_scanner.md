@@ -47,7 +47,6 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 <strong> ICON STYLE </strong> <br /><br />
 요소들을 정의하고 일관되게 사용하려고 노력하였습니다.  <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/icon-qr.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;"> <br />
-<span style="font-style: italic; color: #969696;">SCANNING A QR CODE</span><br />
 <strong> TEXTFIELD </strong> <br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_textfield_states.png?raw=true" alt="Icons"  width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br />
 <strong> UI </strong> <br /><br />
