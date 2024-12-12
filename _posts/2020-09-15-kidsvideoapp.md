@@ -31,7 +31,7 @@ Youtube 의 무분별한 콘텐츠 제한, 컨텐츠 커스터마이징, 영상 
     <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="Image 4" width="300"></td>
   </tr>
 </table>
-><br /><br /><br />
+<br /><br /><br />
 <span style="color: #646464;">Intro</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
 <span style="color: #646464;">Tab Bar</span><br />
