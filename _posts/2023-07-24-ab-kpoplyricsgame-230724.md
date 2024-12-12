@@ -32,7 +32,7 @@ introduction: Kpop Lyrics Game
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <span style="color: #646464;">변수 BLACK<br />App Icon & Graphic Images </span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <strong>RESULTS ANALYSIS</strong> <br /><br />
 <strong>처음 설치한 사용자 중 설치 상태를 유지한 사용자(20,268)</strong> <br /><br />
 현재 정보: 4,644 / 변수 A: +63.1% 6,608 / 변수 B: +25.5% 5,120 / 변수 C: -5.7% 3,896 <br /><br /> 
