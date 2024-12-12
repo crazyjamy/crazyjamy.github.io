@@ -40,8 +40,8 @@ introduction: Kpop Lyrics Game
 <strong>OUTCOMES</strong> <br /><br />
 새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #2196f3">37.4% </span> 상승.<br /><br /><br />
 <strong> INSIGHTS AND NEXT STEPS</strong> <br /><br />
-A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #2196f3"> A - PINK(실적 우수)" </span> 를 적용.<br /><br /><br />
-테스트 결과를 바탕으로 앱의 인트로 화면 동일하게 적용 <br />
+A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #2196f3"> A - PINK(실적 우수)" </span> 를 적용.<br /><br />
+테스트 결과를 바탕으로 앱의 인트로 화면 동일하게 적용 <br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;">  <br /><br /><br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
