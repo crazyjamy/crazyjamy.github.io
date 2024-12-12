@@ -448,20 +448,20 @@ main{
 }
 .post-content h1.post-title{
   margin:0 auto;line-height:2.5rem;}@media only screen and (min-width:37.5rem){.post-content h1.post-title{
-    line-height:3.75rem;margin:0 auto .625rem;
+    line-height:3.75rem;margin:0 auto .625rem;text-align: center;
     }
 }
 .post-content p.subtitle{
   color:#2196f3;font-size:1.125rem;margin:0 auto .625rem;line-height:1.875rem;}@media only screen and (min-width:37.5rem){
       .post-content p.subtitle{
-        font-size:0.8rem;line-height:2.5rem;
+        font-size:0.8rem;line-height:2.5rem;text-align: center;
       }
 }
 .post-content p.post-info{
   font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:.813rem;letter-spacing:0;color:#a9a9a9;margin:0 auto;
 }
 @media only screen and (min-width:37.5rem){
-  .post-content p.post-info{font-size:0.8rem
+  .post-content p.post-info{font-size:0.8rem;text-align: center;
   }
 }
 .post-content p.post-info span,.post-content p.post-info time{vertical-align:middle}.post-content p.post-info time{margin-right:.625rem;
