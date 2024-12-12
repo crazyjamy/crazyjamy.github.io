@@ -57,7 +57,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 <span style="color: #646464;">Setting</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360"><br /><br /><br /><br /><br />
 <strong> URL </strong> <br /><br />
-<a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" style="font-weight: bold; text-decoration: none;"> DOWNLOAD +</a> ><br /><br /><br /><br />
+<a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" style="font-weight: bold; text-decoration: none;"> DOWNLOAD + </a> ><br /><br /><br /><br />
 <strong> REFERENCE & RESEARCH NOTE </strong> <br /><br />
 <a href="https://crazyjamy.github.io/babosarang-mobile/](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing" style="font-weight: bold; text-decoration: none;">RESEARCH NOTE +</a> 
 <a href="https://namu.wiki/w/%EB%B0%94%EC%BD%94%EB%93%9C" style="font-weight: bold; text-decoration: none;">나무위키-바코드 +</a> <br />
