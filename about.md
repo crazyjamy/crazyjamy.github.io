@@ -36,7 +36,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span>    
 <span style="margin-left: 240px;"> → 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)</span>    
 <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행, 각 디자인 성과 분석:</span>    
-<span style="color: #969696; margin-left: 250px;"> • </span> <span> 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](,./ab-kpoplyricsgame-230724/)</span>   
+<span style="color: #969696; margin-left: 250px;"> • </span> <span> 2023년 7월 20일 진행 내역: 63% 전환율 향상 [+](../ab-kpoplyricsgame-230724/)</span>   
 <span style="color: #969696; margin-left: 250px;"> • </span> <span> 2024년 4월 2일 진행 내역: 38% 전환율 향상[+](../ab-kpoplyricsgame-240402/)</span>   
 <span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> Funny Learny TV [+](../funnylearnytv/)</span>  
 <span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span>  
