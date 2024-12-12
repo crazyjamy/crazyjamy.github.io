@@ -10,50 +10,39 @@ tags:
 twitter_text: 어린이 시청 제어 애플리케이션
 introduction: Application
 ---
-### DESCRIPTION 
-온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다.
-
-### GOALS
-- Youtube 의 무분별한 콘텐츠 제한, 컨텐츠 커스터마이징
-- 영상 시청시간 제한
-
-### WIRE FRAMING & PROTOTYPING
-#### STORY BOARD
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" style="border: 1px solid #e1e1e1; border-radius: 10px;">
-
-### DESIGN & ITERATION
-#### CHARACTER
+---
+<div align="center">
+<strong> DESCRIPTION </strong> <br /> <br />
+온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다. <br /><br /><br />
+<strong> GOALS </strong> <br /> <br />
+Youtube 의 무분별한 콘텐츠 제한, 컨텐츠 커스터마이징, 영상 시청시간 제한 <br /><br /><br />
+<strong>  WIRE FRAMING & PROTOTYPING </strong> <br /> <br />
+<span style="color: #646464;">STORY BOARD</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;">
+<strong> DESIGN & ITERATION</strong> <br /> <br />
+<span style="color: #646464;">Character</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="width: 300px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="width: 300px; ">
-
-#### INTRO
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
-
-#### TAB BAR
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
-
-#### LOADING
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
-
-#### CHANNEL LIST
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Channellist.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
-
-#### TIME OUT
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/timeout.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
-
-#### EXPLORE GROUP
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Explore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
-
-#### SEARCH RESULT
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Serach_Result.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
-
-#### PASSWORD(PARENT SETTING)
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/parent-setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;">
-
-#### SETTING
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Setting-1.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;">
-
-### TECHNOLOGIES & TOOLS
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="width: 300px; "><br /><br /><br />
+<span style="color: #646464;">Intro</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
+<span style="color: #646464;">Tab Bar</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
+<span style="color: #646464;">Loading</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
+<span style="color: #646464;">Channel List</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Channellist.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
+<span style="color: #646464;">Time Out</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/timeout.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
+<span style="color: #646464;">Explore Group</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Explore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
+<span style="color: #646464;">Search Result</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Serach_Result.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
+<span style="color: #646464;">Password(parent setting)</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/parent-setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
+<span style="color: #646464;">Setting</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Setting-1.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
+<strong> TECHNOLOGIES & TOOLS</strong> <br /><br /><br />
 Sketch, Illustrator, AfterEffect
+</div>
