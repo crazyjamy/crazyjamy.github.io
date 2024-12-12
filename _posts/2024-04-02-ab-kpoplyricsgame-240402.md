@@ -40,7 +40,7 @@ introduction: Kpop Lyrics Game
 <strong>OUTCOMES</strong> <br /><br />
 새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #2196f3">37.4% </span> 상승.<br /><br /><br />
 <strong> INSIGHTS AND NEXT STEPS</strong> <br /><br />
-A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #2196f3"> B - VIOLET(실적 우수)" </span> 를 적용.<br /><br /><br />
+A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #2196f3"> A - PINK(실적 우수)" </span> 를 적용.<br /><br /><br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
 <strong>RELATED PROJECTS </strong> <br /><br />
