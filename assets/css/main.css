@@ -827,3 +827,22 @@ footer ul a:hover{
 .main-page footer p{
   color:#969696
 }
+body {
+  cursor: none; /* 기본 커서를 숨깁니다. */
+}
+.cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  background: rgba(255, 0, 0, 0.7); /* 원하는 색상 설정 */
+  border-radius: 50%; /* 원형 커서 */
+  pointer-events: none; /* 커서로 간주되도록 클릭을 방지 */
+  transform: translate(-50%, -50%);
+  transition: transform 0.1s ease-out;
+}
+.cursor:hover {
+  transform: scale(1.5); /* 커서 크기 증가 */
+  background: rgba(0, 255, 0, 0.7); /* 색상 변경 */
+}
