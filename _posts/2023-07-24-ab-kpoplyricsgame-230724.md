@@ -41,7 +41,7 @@ introduction: Kpop Lyrics Game
 현재 정보: 7,984 / 변수 A: +63.9% 11,560 / 변수 B: +24.8% 8,912 / 변수 C: -5.5% 6,976 <br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br /> 
 <strong>OUTCOMES</strong> <br /><br />
-새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #2196f3">68% </span> 상승.<br /><br /><br />
+새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #2196f3">63% </span> 상승.<br /><br /><br />
 <strong> INSIGHTS AND NEXT STEPS</strong> <br /><br />
 A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #2196f3">"A - KPOP - Title - Purple(실적 우수)" </span> 를 적용.<br /><br /><br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
