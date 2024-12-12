@@ -27,7 +27,7 @@ introduction: APPLICATION
 <br /><br />
 <span style="color: #646464;">SCAN ANIMATION</span><br />
 <img src="https://user-images.githubusercontent.com/29529125/77987124-ec2be180-7353-11ea-97c4-a6fbae1284a5.gif" alt="QR Scan" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br />
-<a href="[https://crazyjamy.github.io/babosarang-mobile/](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing)" style="font-weight: bold; text-decoration: none;">LOTTIE +</a>
+<a href="https://crazyjamy.github.io/babosarang-mobile/](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing" style="font-weight: bold; text-decoration: none;">LOTTIE + </a>
 <br /><br />
 <span style="color: #646464;">QR CODE GENERATION</span><br />
 QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타 오류를 방지하기 위해 1000자로 제한하여 진행했습니다.
@@ -37,9 +37,9 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 </div>
 ---
 <div align="center">
-<strong> Version 2.0</strong> <br /><br />
+<span style="font-style: italic; color: #969696;">Version 2.0 </span><br />
 <strong> DESCRIPTION </strong> <br /><br />
-1.0 버전을 고도화하기 위해 아래의 개선 사항을 목표로 2.0 버전을 개발하게 되었습니다.<br />
+1.0 버전을 고도화하기 위해 아래의 개선 사항을 목표로 2.0 버전을 개발하게 되었습니다.<br /><br /><br />
 <strong> GOALS </strong> <br /><br />
 - 스캔 가능한 바코드의 종류 추가<br />
 - 제작 가능한 QR의 종류 추가<br />
@@ -51,15 +51,15 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 <strong> TEXTFIELD </strong> <br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_textfield_states.png?raw=true" alt="Icons"  width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br />
 <strong> UI </strong> <br /><br />
-<span style="font-style: italic; color: #969696;">Tutorial</span><br />
+<span style="color: #646464;">Tutorial</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_tutorial.png?raw=true" alt="Tutorial" width="360"><br />
-<span style="font-style: italic; color: #969696;">QR Code Generation List</span><br />
+<span style="color: #646464;">QR Code Generation List</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_createlist.png?raw=true" alt="QR Code Generation List" width="360"><br />
-<span style="font-style: italic; color: #969696;">QR Code Generation</span><br />
+<span style="color: #646464;">QR Code Generation</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QR Code Generation" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br />
-<span style="font-style: italic; color: #969696;">Generated QR Code List</span><br />
+<span style="color: #646464;">Generated QR Code List</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_generated_list.png?raw=true" alt="QR Code Generation" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br />
-<span style="font-style: italic; color: #969696;">Setting</span><br />
+<span style="color: #646464;">Setting</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360"><br />
 <strong> DOWNLOAD </strong> <br /><br />
 <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" style="font-weight: bold; text-decoration: none;"> DOWNLOAD +</a> ><br /><br /><br /><br />
