@@ -26,21 +26,21 @@ Youtube 의 무분별한 콘텐츠 제한, 컨텐츠 커스터마이징, 영상 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="width: 300px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="width: 300px; "></div><br /><br /><br />
-<span style="color: #646464;">Intro</span><br /><br />
+<span style="color: #646464;">Intro</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
-<span style="color: #646464;">Tab Bar</span><br /><br />
+<span style="color: #646464;">Tab Bar</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-tabbar.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
-<span style="color: #646464;">Loading</span><br /><br />
+<span style="color: #646464;">Loading</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/ui-loadinganimation.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
-<span style="color: #646464;">Channel List</span><br /><br />
+<span style="color: #646464;">Channel List</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Channellist.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
-<span style="color: #646464;">Time Out</span><br /><br />
+<span style="color: #646464;">Time Out</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/timeout.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
-<span style="color: #646464;">Explore Group</span><br /><br />
+<span style="color: #646464;">Explore Group</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Explore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
-<span style="color: #646464;">Search Result</span><br /><br />
+<span style="color: #646464;">Search Result</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Serach_Result.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
-<span style="color: #646464;">Password(parent setting)</span><br /><br />
+<span style="color: #646464;">Password(parent setting)</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/parent-setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
 <span style="color: #646464;">Setting</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/Setting-1.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px; width: 640px;"><br /><br /><br />
