@@ -12,9 +12,9 @@ introduction: Application
 ---
 ---
 <div align="center">
-<strong> DESCRIPTION </strong> <br /> <br /> <br />
+<strong> DESCRIPTION </strong> <br /> <br />
 온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다. <br /><br /><br />
-<strong> GOALS </strong> <br /> <br /> <br />
+<strong> GOALS </strong> <br /> <br />
 Youtube 의 무분별한 콘텐츠 제한, 컨텐츠 커스터마이징, 영상 시청시간 제한 <br /><br /><br />
 <strong>  WIRE FRAMING & PROTOTYPING </strong> <br /> <br />
 <span style="color: #646464;">STORY BOARD</span><br /><br />
