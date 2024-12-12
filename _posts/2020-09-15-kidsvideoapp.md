@@ -21,11 +21,17 @@ Youtube 의 무분별한 콘텐츠 제한, 컨텐츠 커스터마이징, 영상 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"> <br /> <br /> <br />
 <strong> DESIGN & ITERATION</strong> <br /> <br />
 <span style="color: #646464;">Character</span><br /><br />
-<div>
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="" style="width: 300px;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="" style="width: 300px; margin-left: 30px; float: left;">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="" style="width: 300px; "></div><br /><br /><br />
+<table>
+  <tr>
+    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-square.gif?raw=true" alt="Image 1" width="300"></td>
+    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-circle.gif?raw=true" alt="Image 2" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-triangle.gif?raw=true" alt="Image 3" width="300"></td>
+    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/character-polygon.gif?raw=true" alt="Image 4" width="300"></td>
+  </tr>
+</table>
+><br /><br /><br />
 <span style="color: #646464;">Intro</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/intro-vs1-kidvideoapp.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; margin: 30px;"><br /><br /><br />
 <span style="color: #646464;">Tab Bar</span><br />
