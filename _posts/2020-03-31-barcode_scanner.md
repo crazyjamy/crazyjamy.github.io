@@ -38,7 +38,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 <strong> GOALS </strong> <br />
 스캔 가능한 바코드의 종류 추가, 제작 가능한 QR의 종류 추가, 입력창 UI 개선<br /><br /><br />
 <strong> ICON STYLE </strong> <br />
-요소들을 정의하고 일관되게 사용하려고 노력하였습니다.<br />
+요소들을 정의하고 일관되게 사용하려고 노력하였습니다.<br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/icon-qr.png?raw=true" alt="Icons" style="border: 1px solid #e1e1e1; border-radius: 10px;"> <br /><br /><br />
 <strong> UI </strong> <br /><br />
 <span style="color: #646464;">Text Field</span><br />
