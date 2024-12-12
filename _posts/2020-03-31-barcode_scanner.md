@@ -15,8 +15,8 @@ introduction: APPLICATION
 <div align="center">
 <span style="font-style: italic; color: #969696;">Version 1.0 </span><br />
 <strong> DESCRIPTION </strong> <br /><br />
-2018년 여름, 우리 팀은 사내 앱을 개발하는 과정에서 QR 스캔 기능이 필요하다는 판단을 하고 개발이 진행되었습니다. <br />
-<strong> GOALS </strong> <br /><br />
+2018년 여름, 우리 팀은 사내 앱을 개발하는 과정에서 QR 스캔 기능이 필요하다는 판단을 하고 개발이 진행되었습니다. <br /><br /><br />
+<strong> GOALS </strong> <br />
 빠른 QR 인식 과 편한 UI<br /><br /><br />
 <strong> RESEARCH NOTE</strong><br />
 <a href="https://crazyjamy.github.io/babosarang-mobile/](https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing" style="font-weight: bold; text-decoration: none;">RESEARCH NOTE +</a> 
