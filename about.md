@@ -12,23 +12,23 @@ permalink: /about/
 </div>
 <div style="margin-left: 30px;">
 <span style="font-weight: bold; font-size: 20px;">EXPERIENCE & EDUCATIONS</span>
-<span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span>     
-<span style="color: #969696;">2024.06 — 2024.12</span><span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span>   
-<span style="margin-left: 240px;"> • DESIGNER</span>   
-<span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span>   
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span>    
-<span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span>  
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span>    
-<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a></span>  
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span>  
-<span style="color: #969696;">2015.12 — 2016.06</span><span style="margin-left: 50px;">BESOFT</span>   
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span>    
-<span style="color: #969696;">2015.08 — 2015.11</span><span style="margin-left: 50px;">MOOOVR</span>   
-<span style="margin-left: 240px;"> • UI/UX DESIGNER, VISUAL EFFECTS ARTIST</span>    
-<span style="color: #969696;">2015.01 — 2015.08</span><span style="margin-left: 50px;">SURF</span>   
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span>  
-<span style="color: #969696;">2011.03 — 2015.03</span><span style="margin-left: 50px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a></span>  
-<span style="margin-left: 240px;"> • 조형예술학 졸업</span>  
+<span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span><br />  
+<span style="color: #969696;">2024.06 — 2024.12</span><span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span><br />
+<span style="margin-left: 240px;"> • DESIGNER</span><br />
+<span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span><br />   
+<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
+<span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span><br />
+<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
+<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a></span><br /> 
+<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
+<span style="color: #969696;">2015.12 — 2016.06</span><span style="margin-left: 50px;">BESOFT</span><br />
+<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
+<span style="color: #969696;">2015.08 — 2015.11</span><span style="margin-left: 50px;">MOOOVR</span><br />
+<span style="margin-left: 240px;"> • UI/UX DESIGNER, VISUAL EFFECTS ARTIST</span><br />
+<span style="color: #969696;">2015.01 — 2015.08</span><span style="margin-left: 50px;">SURF</span><br /> 
+<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
+<span style="color: #969696;">2011.03 — 2015.03</span><span style="margin-left: 50px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a></span><br />
+<span style="margin-left: 240px;"> • 조형예술학 졸업</span><br />
 </div>
 
 ### PROJECT
