@@ -81,7 +81,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 택배 상자 패키지 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank">↗</a></span><br /> 
 <span style="margin-left: 240px;">→ 아동 용품 쇼핑몰 웹/앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang [PC +](../babosarang-web/) [APP +](../babosarang-mobile/)</span><br />      
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang <a href="../babosarang-web/" target="">PC +</a><a href="../babosarang-mobile/" target="">APP +</a></span><br />      
 <span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행</span><br />         
 <span style="margin-left: 240px;"> → 신년 다이어리 기획전 기획</span><br />         
 <span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span><br />      
@@ -99,7 +99,7 @@ permalink: /about/
 <span style="margin-left: 240px;">→ 360 VR 콘텐츠 앱 디자인 진행</span><br />
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Lee Hae Sang Coloring Book</span><br />
 <span style="margin-left: 240px;">→ 패키지 디자인 진행</span><br />
-<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">SURF <a href="../marshmello/" target="">+</a><br />
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">SURF <a href="../marshmello/" target="">+</a></span><br />
 <span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span> <br />
 </div>
 
