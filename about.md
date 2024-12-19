@@ -27,7 +27,7 @@ permalink: /about/
 </div>
 
 <div style="margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 20px;">PROJECT>/span><br />
+<span style="font-weight: bold; font-size: 20px;">PROJECT</span> <br />
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션</span><br /> 
 <span style="margin-left: 240px;"> → 프로그램 디자인 유지보수 및 최적화 </span><br />
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트</span><br /> 
