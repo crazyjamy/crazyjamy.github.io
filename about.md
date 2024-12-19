@@ -12,7 +12,6 @@ permalink: /about/
 </div><br />
 <div style="margin-left: 30px;">
 <span style="font-weight: bold; font-size: 20px;">EXPERIENCE & EDUCATIONS</span><br /><br />
-<span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span><br />  
 <span style="color: #969696;">2024.06 — 2024.12</span><span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span><br />
 <span style="margin-left: 240px;"> • DESIGNER</span><br />
 <span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span><br />   
