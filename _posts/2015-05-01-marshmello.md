@@ -13,7 +13,7 @@ introduction: My First Loading Animation
 
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<strong>SKETCH</strong><br />
+<strong>SKETCH</strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true" alt="" width="1000" style= "margin-bottom: 30px;"><br /><br />
 <strong> SLICES </strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/sli_marshmello.png?raw=true)" alt="" width="800" style= "margin-bottom: 30px;"><br /><br />
