@@ -12,7 +12,7 @@ introduction: My First Loading Animation
 ---
 
 ---
-<div align="center">
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <strong>SKETCH</strong><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/marshmello.png?raw=true" alt="" width="1000" style= "margin-bottom: 30px;"><br /><br />
 <strong> SLICES </strong><br /><br />
@@ -21,11 +21,10 @@ introduction: My First Loading Animation
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/marshmello/final-marshmello.gif?raw=true" alt="" width="1000" style= "margin-bottom: 30px;"><br /><br />
 <br />
 <strong> DESCRIPTION </strong> <br /><br />
-이 애니메이션은 벡터 이미지를 기반으로 프레임별로 작업하게 되었습니다.  <br /> 
-최종파일은 GIF형태로 드리게 되었고요.  <br />
-Lottie와 같은 애니메이션 벡터 툴이 등장하기 전에 제작되었습니다.  <br />
-몽글몽글한 젤리 형태를 닮아있어 '마시멜로'로 명명되었습니다.  <br />
-이는 당시 다니던 회사(Surf)의 관리자 앱(알파 버전)에서 사용되었던 로딩 애니메이션으로 잠시 사용 되었습니다. <br /> <br /> <br />
+이 애니메이션은 벡터 이미지를 기반으로 프레임별로 작업하여 제작되었습니다.<br />  
+최종 파일은 GIF 형식으로 제공되었으며, 이는 Lottie와 같은 애니메이션 벡터 툴이 등장하기 이전에 만들어졌습니다. <br />  
+애니메이션의 몽글몽글한 젤리 같은 형태 때문에 '마시멜로'라는 이름이 붙었으며, 당시 근무하던 회사(Surf)의 관리자 앱(알파 버전)에서 로딩 애니메이션으로 잠시 사용되었습니다. <br />  
+<br /> <br /> <br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
 Illustration, Photoshop <br />
 </div>
