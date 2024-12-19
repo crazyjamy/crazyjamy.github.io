@@ -55,8 +55,16 @@ introduction: APPLICATION
 <span style="color: #646464;">Rate App</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype-rate.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong> PROMOTION VIDEO</strong> <br /><br /><br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dpEZmApOpoY?si=6JSxls79oYgm5sut&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br /><br /><br />
+<div>
+
+<iframe 
+    src="https://www.youtube.com/embed/dpEZmApOpoY?si=6JSxls79oYgm5sut&amp;controls=0" 
+    width="100%" 
+    height="500" 
+    frameborder="0" 
+    style="border: none;">
+</iframe>
+<br /><br /><br /></div>
 <strong> TECHNOLOGIES & TOOLS</strong> <br /><br /><br />
 Sketch, Illustrator, AfterEffect
 </div>
