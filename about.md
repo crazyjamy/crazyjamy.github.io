@@ -6,9 +6,13 @@ permalink: /about/
 ---
 
 
-## BAK HYELIN(박혜린) 
 
-### EXPERIENCE & EDUCATIONS
+<div style="text-align: center;">
+<span style="font-weight: bold; font-size: 20px;">BAK HYELIN(박혜린)</span>
+</div>
+<div style="margin-left: 30px;">
+<span style="font-weight: bold; font-size: 20px;">EXPERIENCE & EDUCATIONS</span>
+<span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span>     
 <span style="color: #969696;">2024.06 — 2024.12</span><span style="margin-left: 50px;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span>   
 <span style="margin-left: 240px;"> • DESIGNER</span>   
 <span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span>   
@@ -25,6 +29,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span>  
 <span style="color: #969696;">2011.03 — 2015.03</span><span style="margin-left: 50px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a></span>  
 <span style="margin-left: 240px;"> • 조형예술학 졸업</span>  
+</div>
 
 ### PROJECT
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션</span>  
