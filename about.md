@@ -7,7 +7,7 @@ permalink: /about/
 
 
 
-<div style="text-align: center;">
+<div style="text-align: center;font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <span style="font-weight: bold; font-size: 20px;">BAK HYELIN(박혜린)</span>
 </div>
 <div style="margin-left: 30px;">
