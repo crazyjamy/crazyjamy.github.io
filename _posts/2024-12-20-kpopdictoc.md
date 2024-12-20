@@ -8,7 +8,7 @@ category: 'UI/UX - Research Note'
 tags:
 - Projects
 twitter_text: Kpop Lyrics Game
-introduction: APPLICATION
+introduction: 2nd Vesion Application
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
