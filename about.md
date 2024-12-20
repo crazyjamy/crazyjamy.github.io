@@ -39,7 +39,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행, 각 디자인 성과 분석:</span> <a href="../kpopdictoc/" target=""> 2nd Version + </a><br /> 
 <span style="color: #969696; margin-left: 270px;"> • </span> <span> 2023년 7월 20일 진행 내역: 63% 전환율 향상 <a href="../ab-kpoplyricsgame-230724/" target="">Experiment results +</a></span><br /> 
 <span style="color: #969696; margin-left: 270px;"> • </span> <span> 2024년 4월 2일 진행 내역: 38% 전환율 향상 <a href="../ab-kpoplyricsgame-240402/" target="">Experiment results +</a></span><br /> 
-<span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> Funny Learny TV <a href="../funnylearnytv-research/" target="">Reseach note +</a><a href="../funnylearnytv/" target=""> Interaction +</a></span><br /> 
+<span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> Funny Learny TV <a href="../funnylearnytv-research/" target=""> Reseach note + </a>/<a href="../funnylearnytv/" target=""> Interaction +</a></span><br /> 
 <span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
