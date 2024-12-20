@@ -54,8 +54,8 @@ permalink: /about/
 <span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">Smamori <a href="https://smamori.jp/" target="_blank">Visit Website ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행<a href="../kidsvideoapp/" target="">Story Board & Interaction +</a> </span><br /> 
 <span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV  <a href="../icon-kpop/" target="">About Icon+</a></span><br /> 
-<span style="margin-left: 240px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span><br /> 
+<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV<br /> 
+<span style="margin-left: 240px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행: </span> <a href="../icon-kpop/" target="">About Icon+</a></span> <br /> 
 <span style="color: #969696;">2019 </span><span style="margin-left: 150px;">Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 직장 동료들과 일정 공유 가능한 앱 디자인 진행</span><br />   
 <span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">Download ↗</a></span><br /> 
