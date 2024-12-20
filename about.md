@@ -68,8 +68,8 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span><br /> 
-<span style="margin-left: 240px;"> → 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행</span><br /> 
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span><br /> <a href="../Eggstory/" target="">More +</a> 
+<span style="margin-left: 240px;"> → 자녀의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br /> 
@@ -114,13 +114,13 @@ permalink: /about/
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <span style="font-weight: bold; font-size: 20px;"> EXHIBITION</span> <br />
 <span style="color: #969696;">2014. 07. 13 — 2014. 08. 06</span><span style="margin-left: 50px;"> New York, gallery MC,</span><br />
-<span style="margin-left: 280px;"> • I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">↗</a></span><br />
+<span style="margin-left: 280px;"> • I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">Art exhibit-related ↗</a></span><br />
 <span style="color: #969696;">2013. 12. 24 — 2013. 12. 29</span><span style="margin-left: 50px;"> Seoul, </span><br />
 <span style="margin-left: 280px;"> • COEX, SEOUL ART SHOW </span><br />  
 <span style="color: #969696;">2013. 10. 10 — 2013. 11. 15</span><span style="margin-left: 50px;"> Seoul, 72시간 도시 생생 프로젝트, </span><br />
-<span style="margin-left: 280px;"> • 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">↗</a></span><br />   
+<span style="margin-left: 280px;"> • 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">Press ↗</a></span><br />   
 <span style="color: #969696;">2013. 08. 02 — 2013. 08. 10</span><span style="margin-left: 50px;"> Seoul, imazoo Gallery,</span><br />   
-<span style="margin-left: 280px;"> • 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">↗</a></span><br />
+<span style="margin-left: 280px;"> • 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">Gallery Url ↗</a></span><br />
 <br /><br />
  <a href="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_cv/BakHyeLin_Resume_2024.pdf?raw=true" download="BakHyeLin_Resume_2024.pdf">Click here to download the PDF</a>
 </div>
