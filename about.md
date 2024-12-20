@@ -101,7 +101,7 @@ permalink: /about/
 <span style="margin-left: 240px;">→ 패키지 디자인 진행</span><br />
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">SURF </span><br />
 <span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span> <br />
-<span style="margin-left: 240px;"> → 캐릭터 디자인 </span> <br /> <a href="../marshmello/" target=""> Character +</a>
+<span style="margin-left: 240px;"> → 캐릭터 디자인 </span> <a href="../marshmello/" target=""> Character +</a><br />
 </div>
 
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
