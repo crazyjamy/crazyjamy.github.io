@@ -32,7 +32,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 프로그램 디자인 유지보수 및 최적화 </span><br />
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트</span><br /> 
 <span style="margin-left: 240px;"> → 디자인 및 최적화 <a href="https://www.jiransnc.com" target="_blank">↗</a> </span><br /> 
-<span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> DicToc KPOP <a href="../kpoplyricsgame/" target="">+</a><a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">↗</a></span><br /> 
+<span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> DicToc KPOP <a href="../kpoplyricsgame/" target="">MORE +</a> <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">DOWNLOAD ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → KPOP 가사 배우는 게임 앱 디자인 진행</span><br /> 
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br />  
 <span style="margin-left: 240px;"> → 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)</span><br /> 
