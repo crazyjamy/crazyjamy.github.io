@@ -52,7 +52,7 @@ permalink: /about/
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;">IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">Smamori <a href="https://smamori.jp/" target="_blank">Visit Website ↗</a></span><br /> 
-<span style="margin-left: 240px;"> → 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행<a href="../kidsvideoapp/" target="">Story Board & Interaction +</a> </span><br /> 
+<span style="margin-left: 240px;"> → 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행: <a href="../kidsvideoapp/" target="">Story Board & Interaction +</a> </span><br /> 
 <span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV<br /> 
 <span style="margin-left: 240px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행: </span> <a href="../icon-kpop/" target="">About Icon+</a></span> <br /> 
@@ -61,46 +61,47 @@ permalink: /about/
 <span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Barcode Scanner <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" target="_blank">Download ↗</a></span><br /> 
-<span style="margin-left: 240px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행</span> <a href="../barcode_scanner/" target=""> Research Note & Interaction +</a> <br /> 
+<span style="margin-left: 240px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행: </span> <a href="../barcode_scanner/" target=""> Research Note & Interaction +</a> <br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span><a href="../Eggstory/" target=""> Research Note & Design +</a> <br /> 
-<span style="margin-left: 240px;"> → 자녀의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행</span><br /> 
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span><br /> 
+<span style="margin-left: 240px;"> → 자녀의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행: </span><a href="../Eggstory/" target=""> Research Note & Design +</a> <br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br /> 
 <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행</span><br /> 
 <span style="color: #969696; margin-left: 270px;"> • </span><span>2022년 9월 21일 진행 내역: 18% 전환율 향상<a href="../ab-hdvd-220921/" target=""> Experiment results +</a></span><br /> 
 <span style="color: #969696; margin-left: 270px;"> • </span><span>2021년 11월 5일 진행 내역: 48.3%% 전환율 향상<a href="../ab-hdvd-211105/" target=""> Experiment results +</a></span><br /> 
-<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Store Bom <a href="../storebom-mobile/" target=""> More +</a></span><br /> 
-<span style="margin-left: 240px;"> → 반려동물 용품 웹/앱 디자인 진행</span><br /> 
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Store Bom </span><br /> 
+<span style="margin-left: 240px;"> → 반려동물 용품 웹/앱 디자인 진행: </span><a href="../storebom-mobile/" target=""> More +</a> <br /> 
 <span style="margin-left: 240px;"> → 택배 상자 패키지 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank"> Visit Website ↗</a></span><br /> 
 <span style="margin-left: 240px;">→ 아동 용품 쇼핑몰 웹/앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang <a href="../babosarang-web/" target="">Web +</a><a href="../babosarang-mobile/" target="">App +</a></span><br />      
-<span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행</span><br />         
+<span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang<br />      
+<span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행: </span> <a href="../babosarang-web/" target=""> Web + </a><a href="../babosarang-mobile/" target=""> App + </a></span><br />         
 <span style="margin-left: 240px;"> → 신년 다이어리 기획전 기획</span><br />         
 <span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span><br />      
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">BESOFT</span><br />      
 <span style="margin-left: 240px;"> → 은행 보안 키보드 및 웹 페이지 디자인 진행</span><br />      
-<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Stellar(스텔라) 360 VR <a href="https://www.youtube.com/watch?v=gvORWNSsGak" target="_blank">Live Preview ↗</a></span><br />      
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Stellar(스텔라) 360 VR </span><br />      
 <span style="margin-left: 240px;"> → 360 VR 콘텐츠 앱 디자인 진행</span><br />
-<span style="margin-left: 240px;"> → 뮤직 비디오 CG 효과 디자인 진행</span><br />      
-<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">빛나거나 미치거나 MBC Drama VR <a href="https://www.youtube.com/watch?v=7Eo8ddIhUnE" target="_blank">Live Preview ↗</a></span><br />  
+<span style="margin-left: 240px;"> → 뮤직 비디오 CG 효과 디자인 진행: <a href="https://www.youtube.com/watch?v=gvORWNSsGak" target="_blank">Live Preview ↗</a></span><br />      
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">빛나거나 미치거나 MBC Drama VR</span><br />  
 <span style="margin-left: 240px;"> → 360 VR 콘텐츠 앱 디자인 진행</span><br />
-<span style="margin-left: 240px;"> → 뮤직 비디오 CG 효과 디자인 진행</span><br />
+<span style="margin-left: 240px;"> → 뮤직 비디오 CG 효과 디자인 진행: <a href="https://www.youtube.com/watch?v=7Eo8ddIhUnE" target="_blank">Live Preview ↗</a></span><br />
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Samsung 창조 경제 박람회</span><br />
 <span style="margin-left: 240px;"> → VR Fall, Old House, Club VR Music Video, CG 효과 디자인 진행</span><br />
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Suho360 VR</span><br />
 <span style="margin-left: 240px;">→ 360 VR 콘텐츠 앱 디자인 진행</span><br />
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Lee Hae Sang Coloring Book</span><br />
 <span style="margin-left: 240px;">→ 패키지 디자인 진행</span><br />
-<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">SURF <a href="../marshmello/" target="">More +</a></span><br />
+<span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">SURF </span><br />
 <span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span> <br />
+<span style="margin-left: 240px;"> → 캐릭터 디자인 </span> <br /> <a href="../marshmello/" target=""> Character +</a>
 </div>
 
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
