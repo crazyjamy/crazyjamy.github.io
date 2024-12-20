@@ -43,7 +43,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> K-Beauty<a href="https://play.google.com/store/apps/details?id=io.tm.kbeauty.tv" target="_blank">Download ↗</a></span><br /> 
+<span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> K-Beauty <a href="https://play.google.com/store/apps/details?id=io.tm.kbeauty.tv" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → K-Beauty 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KPOP Stream <a href="https://play.google.com/store/apps/details?id=io.tm.kpop.stream" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → KPOP 아이돌 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span><br /> 
