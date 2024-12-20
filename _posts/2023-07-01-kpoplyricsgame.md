@@ -20,7 +20,6 @@ introduction: APPLICATION
         }
         iframe {
             width: 100%; /* iframe 너비를 부모 크기에 맞춤 */
-            height: 300px; /* iframe 높이 */
             border: 1px solid #ddd; /* iframe 테두리 */
             border-radius: 8px; /* 모서리 둥글게 */
         }
