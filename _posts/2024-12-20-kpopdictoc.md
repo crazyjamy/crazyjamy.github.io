@@ -15,7 +15,7 @@ introduction: APPLICATION
 <strong> DESCRIPTION </strong> <br /> <br />
 1차 버전이 런칭된 이후, 유저 리서치 및 A/B 테스트 에서 얻은 인사이트를 바탕으로 <br /> 전반적인 경험을 개선하고 사용자 요구를 더욱 잘 반영하기 위해 리디자인이 진행되었습니다.<br /><br /><br />
  <strong>  A/B Test 진행 내역: </strong> <br /> <br />
-<a href="https://crazyjamy.github.io/ab-kpoplyricsgame-230724/" style="font-weight: bold; text-decoration: none;">2023년 7월 20일 진행 내역: 63% 전환율 향상 +</a> <br /><br />
+<a href="https://crazyjamy.github.io/ab-kpoplyricsgame-230724/" style="font-weight: bold; text-decoration: none;">2023년 7월 20일 진행 내역: 63% 전환율 향상 +</a> <br />
 <a href="https://crazyjamy.github.io/ab-kpoplyricsgame-240402/" style="font-weight: bold; text-decoration: none;">2024년 4월 02일 진행 내역: 38% 전환율 향상 +</a> <br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/01.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/02.png?raw=true" alt="" width="1920">
