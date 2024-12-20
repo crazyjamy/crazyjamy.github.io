@@ -4,7 +4,7 @@ title: "Kpop Lyrics Game"
 date: 2023-07-01 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/kpoplyricsgame-violet.gif?raw=true'
 description: Kpop Lyrics Game
-category: 'UI/UX - Wire Frame & Interaction'
+category: 'UI/UX - Interaction'
 tags:
 - Projects
 twitter_text: Kpop Lyrics Game
@@ -28,9 +28,6 @@ introduction: APPLICATION
 <div align="center">
 <strong> DESCRIPTION </strong> <br /> <br />
 좋아하는 노래 가사를 익히면서 자연스럽게 한국어를 배우는 무료 게임입니다. <br /><br /><br />
-<strong>  WIRE FRAMING & PROTOTYPING</strong> <br /> <br /><br />
-<span style="color: #646464;">STORY BOARD</span><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidsvideoapp/flow-kidsvideoapp.png?raw=true" alt="StoryBoard" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"> <br /> <br /> <br />
 <strong> APP ICON</strong> <br /> <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/app-icon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br /><br /><br />
 <strong> DESIGN & ITERATION</strong> <br /><br /><br />
