@@ -8,7 +8,7 @@ category: 'UI/UX - Interaction'
 tags:
 - Projects
 twitter_text: Kpop Lyrics Game
-introduction: 1st Vesion APPLICATION
+introduction: 1st Vesion Application
 ---
 ---
 <style>
