@@ -37,7 +37,7 @@ introduction: APPLICATION
 <br /> <br /> <br />
 
 <strong> TECHNOLOGIES & TOOLS</strong> <br /><br /><br />
-Sketch, Illustrator, AfterEffect
+Sketch, Illustrator, AfterEffect<br />
 
 <strong> RELATED PROJECTS </strong> <br /><br />
 <a href="https://crazyjamy.github.io/kpoplyricsgame/" style="font-weight: bold; text-decoration: none;">DicToc KPOP 1st Version Wireframe & Interaction+</a> <br /><br /><br />
