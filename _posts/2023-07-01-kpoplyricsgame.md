@@ -11,6 +11,20 @@ twitter_text: Kpop Lyrics Game
 introduction: APPLICATION
 ---
 ---
+ <style>
+        .iframe-container {
+            width: 80%; /* div 너비 */
+            max-width: 600px; /* div 최대 너비 */
+            margin: 0 auto; /* div 가운데 정렬 */
+            text-align: center; /* 텍스트 중앙 정렬 */
+        }
+        iframe {
+            width: 100%; /* iframe 너비를 부모 크기에 맞춤 */
+            height: 300px; /* iframe 높이 */
+            border: 2px solid #ddd; /* iframe 테두리 */
+            border-radius: 8px; /* 모서리 둥글게 */
+        }
+    </style>
 <div align="center">
 <strong> DESCRIPTION </strong> <br /> <br />
 좋아하는 노래 가사를 익히면서 자연스럽게 한국어를 배우는 무료 게임입니다. <br /><br /><br />
@@ -55,15 +69,9 @@ introduction: APPLICATION
 <span style="color: #646464;">Rate App</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype-rate.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong> PROMOTION VIDEO</strong> <br /><br /><br />
-<div>
-
-<iframe 
-    src="https://www.youtube.com/embed/dpEZmApOpoY?si=6JSxls79oYgm5sut&amp;controls=0" 
-    width="100%" 
-    height="500" 
-    frameborder="0" 
-    style="border: none;">
-</iframe>
+  <div class="iframe-container">
+        <iframe src="https://www.youtube.com/embed/dpEZmApOpoY?si=6JSxls79oYgm5sut&amp;controls=0" title="Example Iframe"></iframe>
+</div>
 <br /><br /><br /></div>
 <strong> TECHNOLOGIES & TOOLS</strong> <br /><br /><br />
 Sketch, Illustrator, AfterEffect
