@@ -12,7 +12,7 @@ introduction: Appication for QR Scanning
 ---
 
 ---
-<div align="center">
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <span style="font-style: italic; color: #969696;">Version 1.0 </span><br /><br /><br />
 <strong> DESCRIPTION </strong> <br /> <br />
 2018년 여름, 우리 팀은 사내 앱을 개발하는 과정에서 QR 스캔 기능이 필요하다는 판단을 하고 개발이 진행되었습니다. <br /><br /><br />
@@ -31,7 +31,7 @@ QR 제작 시에는 특별한 텍스트 제한은 없지만, 과부하나 기타
 <br /><br />
 </div>
 ---
-<div align="center">
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <span style="font-style: italic; color: #969696;">Version 2.0 </span><br /><br /><br />
 <strong> DESCRIPTION </strong> <br /><br />
 1.0 버전을 고도화하기 위해 아래의 개선 사항을 목표로 2.0 버전을 개발하게 되었습니다.<br /><br /><br />
