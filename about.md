@@ -51,22 +51,22 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 나라별 인기 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;">IT’s TV <a href="https://play.google.com/store/apps/details?id=io.tm.its.tv" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → IT 직장인 트렌드 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">Smamori <a href="../kidsvideoapp/" target="">More +</a><a href="https://smamori.jp/" target="_blank">↗</a></span><br /> 
+<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">Smamori <a href="../kidsvideoapp/" target="">More +</a><a href="https://smamori.jp/" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 어린이용 스마트폰의 사용 관리 앱/웹 리뉴얼 디자인 진행</span><br /> 
 <span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV  <a href="../icon-kpop/" target="">+</a></span><br /> 
+<span style="color: #969696;"> 2020 </span><span style="margin-left: 150px;">KPOP TV  <a href="../icon-kpop/" target="">More +</a></span><br /> 
 <span style="margin-left: 240px;"> → KPOP 음악 동영상 콘텐츠 커스터마이징 앱 디자인 진행</span><br /> 
 <span style="color: #969696;">2019 </span><span style="margin-left: 150px;">Team Calendar <a href="https://play.google.com/store/apps/details?id=io.jmobile.tm.calendar" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 직장 동료들과 일정 공유 가능한 앱 디자인 진행</span><br />   
 <span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Streamy <a href="https://play.google.com/store/apps/details?id=com.fms.streamy" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Barcode Scanner <a href="../barcode_scanner/" target="">More +</a> <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" target="_blank">↗</a></span><br /> 
+<span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Barcode Scanner <a href="../barcode_scanner/" target="">More +</a> <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">↗</a></span><br /> 
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">↗</a></span><br /> 
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
-<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">↗</a></span><br /> 
+<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span><br /> 
 <span style="margin-left: 240px;"> → 사용자의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행</span><br /> 
