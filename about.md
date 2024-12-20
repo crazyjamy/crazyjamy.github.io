@@ -40,7 +40,7 @@ permalink: /about/
 <span style="color: #969696; margin-left: 270px;"> • </span> <span> 2023년 7월 20일 진행 내역: 63% 전환율 향상 <a href="../ab-kpoplyricsgame-230724/" target="">Experiment results +</a></span><br /> 
 <span style="color: #969696; margin-left: 270px;"> • </span> <span> 2024년 4월 2일 진행 내역: 38% 전환율 향상 <a href="../ab-kpoplyricsgame-240402/" target="">Experiment results +</a></span><br /> 
 <span style="color: #969696;"> 2023 </span><span style="margin-left: 150px;"> Funny Learny TV <br /> 
-<span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행</span> <a href="../funnylearnytv-research/" target=""> Reseach note + </a>/<a href="../funnylearnytv/" target=""> Interaction +</a></span><br /> 
+<span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행: </span> <a href="../funnylearnytv-research/" target=""> Reseach note + </a>•<a href="../funnylearnytv/" target=""> Interaction +</a></span><br /> 
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> KStream <a href="https://play.google.com/store/apps/details?id=io.tm.k.stream" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 한국의 다양한 문화 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2021 </span><span style="margin-left: 150px;"> K-Beauty <a href="https://play.google.com/store/apps/details?id=io.tm.kbeauty.tv" target="_blank">Download ↗</a></span><br /> 
@@ -74,8 +74,8 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br /> 
 <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행</span><br /> 
-<span style="color: #969696; margin-left: 270px;"> • </span><span>2022년 9월 21일 진행 내역: 18% 전환율 향상<a href="../ab-hdvd-220921/" target=""> Experiment results +</a></span><br /> 
-<span style="color: #969696; margin-left: 270px;"> • </span><span>2021년 11월 5일 진행 내역: 48.3%% 전환율 향상<a href="../ab-hdvd-211105/" target=""> Experiment results +</a></span><br /> 
+<span style="color: #969696; margin-left: 270px;"> • </span><span>2022년 9월 21일 진행 내역: 18% 전환율 향상 <a href="../ab-hdvd-220921/" target=""> Experiment results +</a></span><br /> 
+<span style="color: #969696; margin-left: 270px;"> • </span><span>2021년 11월 5일 진행 내역: 48.3%% 전환율 향상 <a href="../ab-hdvd-211105/" target=""> Experiment results +</a></span><br /> 
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Store Bom </span><br /> 
 <span style="margin-left: 240px;"> → 반려동물 용품 웹/앱 디자인 진행: </span><a href="../storebom-mobile/" target=""> More +</a> <br /> 
 <span style="margin-left: 240px;"> → 택배 상자 패키지 디자인 진행</span><br /> 
