@@ -4,7 +4,7 @@ title: "FunnyLearny TV"
 date: 2023-04-01 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/kidstv.gif?raw=true'
 description: Kids Customizing Video Contents
-category: 'UI/UX'
+category: 'UI/UX - Wire Frame & Interaction'
 tags:
 - Projects
 twitter_text: FunnyLearny TV
@@ -20,10 +20,6 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/03_likehistory.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/04_setting.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;" width="1000"> <br /> <br /> <br />
-<strong> APP ICON</strong> <br /> <br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/appicon-A.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;" width="1000"><br>
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/appicon-B.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;" width="1000"> <br>
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/appicon-C.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;" width="1000"><br /><br /><br />
 <strong> DESIGN & ITERATION</strong> <br /><br /><br />
 <span style="color: #646464;">Character</span><br /><br />
 <table>
