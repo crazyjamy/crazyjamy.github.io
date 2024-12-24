@@ -11,7 +11,7 @@ twitter_text: Melting Illustrations
 introduction: Melting Illustrations
 ---
 ---
-<div align="center">
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <strong> project period</strong><br /><br />
 2012<br /><br />
 <strong>  Vol.1  #Bottle in the Crayon </strong><br /><br />
@@ -27,7 +27,7 @@ introduction: Melting Illustrations
 Photoshop <br />
 </div>
 ---
-<div align="center">
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <strong> Vol.2  #Toilet and the Coke </strong><br /><br />
 ↓ artwork layout ↓<br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/melting/melting-05.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br /><br />
