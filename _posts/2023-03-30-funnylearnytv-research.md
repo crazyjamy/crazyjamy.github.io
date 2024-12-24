@@ -26,10 +26,10 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/funnylearnytv-p/26.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/funnylearnytv-p/27.png?raw=true" alt="" width="1920">
 <br /> <br /> <br />
-<strong> TECHNOLOGIES & TOOLS</strong> <br /><br /><br />
-Sketch, Illustrator, AfterEffect
+<strong> TECHNOLOGIES & TOOLS</strong> <br />
+Sketch, Illustrator, AfterEffect<br /><br />
 
-<strong> RELATED PROJECTS </strong> <br /><br />
+<strong> RELATED PROJECTS </strong> <br />
 <a href="https://crazyjamy.github.io/funnylearnytv/" style="font-weight: bold; text-decoration: none;">FunnyLearny TV Wireframe & Interaction+</a> <br /><br /><br />
 
 </div>
