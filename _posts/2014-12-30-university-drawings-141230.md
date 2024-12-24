@@ -11,12 +11,9 @@ twitter_text: 두가지 종류의 사람들 (Two Kinds of People) ver1
 introduction: 두가지 종류의 사람들 (Two Kinds of People) ver1 
 ---
 ---
-
-<div align="center">
-
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/1.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/2.jpg?raw=true" alt=""  width="1400" style= "margin-bottom: 30px;">
-
 <strong> DETAIL CUT  #1 </strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/drawings/3.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;">
 <strong> DETAIL CUT #2 </strong><br /><br />
