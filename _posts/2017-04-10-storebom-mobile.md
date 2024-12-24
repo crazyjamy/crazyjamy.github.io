@@ -10,10 +10,8 @@ tags:
 twitter_text: Mobile App for shoppingmall
 introduction: Mobile App for shoppingmall
 ---
-
 ---
-
-<div align="center">
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_01.gif?raw=true" alt="" style="width: 1400px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_02.jpg?raw=true" alt="" style="width: 1400px;">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_03.jpg?raw=true" alt="" style="width: 1400px;"> 
