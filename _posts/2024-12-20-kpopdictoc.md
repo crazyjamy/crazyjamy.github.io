@@ -34,11 +34,8 @@ introduction: 2nd Vesion Application
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/16.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/17.png?raw=true" alt="" width="1920">
 <br /> <br /> <br />
-
-<strong> TECHNOLOGIES & TOOLS</strong> <br /><br /><br />
-Sketch, Illustrator, AfterEffect<br />
-
-<strong> RELATED PROJECTS </strong> <br /><br />
+<strong> TECHNOLOGIES & TOOLS</strong> <br />
+Sketch, Illustrator, AfterEffect<br /><br /><br />
+<strong> RELATED PROJECTS </strong> <br />
 <a href="https://crazyjamy.github.io/kpoplyricsgame/" style="">DicToc KPOP 1st Version Wireframe & Interaction+</a> <br /><br /><br />
-
 </div>
