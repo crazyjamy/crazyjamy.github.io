@@ -22,7 +22,6 @@ introduction: 2nd Vesion Application
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/03.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/04.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/05.png?raw=true" alt="" width="1920">
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/06.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/07.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/08.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpopdictoc-p/09.png?raw=true" alt="" width="1920">
