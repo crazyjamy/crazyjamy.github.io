@@ -25,7 +25,7 @@ introduction: 1st Vesion Application
             border-radius: 8px; /* 모서리 둥글게 */
         }
 </style>
-<div align="center">
+<div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <strong> DESCRIPTION </strong> <br /> <br />
 좋아하는 노래 가사를 익히면서 자연스럽게 한국어를 배우는 무료 게임입니다. <br /><br /><br />
 <strong> APP ICON</strong> <br /> <br />
