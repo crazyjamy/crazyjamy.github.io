@@ -24,13 +24,13 @@ introduction: Kpop Lyrics Game
 <span style="color: #646464;"> 현재 등록 정보 <br /></span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default-GraphicImage_EN.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수: red </span><br /><br />
+<span style="color: #646464;">변수: Purple </span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수: White</span><br /><br />
+<span style="color: #646464;">변수: Yellow</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수 BLACK</span><br /><br />
+<span style="color: #646464;">변수: Valley</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <strong>RESULTS ANALYSIS</strong> <br />
