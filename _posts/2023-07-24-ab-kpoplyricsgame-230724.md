@@ -48,5 +48,5 @@ A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color:
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
 <strong>RELATED PROJECTS </strong> <br />
-<a href="https://crazyjamy.github.io/kpoplyricsgame/" style="font-weight: bold; text-decoration: none;">Kpop Lyrics Game APP +</a>   <br /><br /> <br />
+<a href="https://crazyjamy.github.io/kpoplyricsgame/">Kpop Lyrics Game APP +</a>   <br /><br /> <br />
 </div>
