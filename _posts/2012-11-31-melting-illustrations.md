@@ -12,9 +12,9 @@ introduction: drawings during 2012
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<strong> project period</strong><br /><br />
+<strong> project period</strong><br />
 2012<br /><br />
-<strong>  Vol.1  #Bottle in the Crayon </strong><br /><br />
+<strong>  Vol.1  #Bottle in the Crayon </strong><br />
 ↓ artwork layout ↓<br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/melting/melting-01.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br /><br />
 <strong> DETAIL CUT #1 </strong><br /><br />
@@ -28,7 +28,7 @@ Photoshop <br />
 </div>
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<strong> Vol.2  #Toilet and the Coke </strong><br /><br />
+<strong> Vol.2  #Toilet and the Coke </strong><br />
 ↓ artwork layout ↓<br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/melting/melting-05.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br /><br />
 <strong> DETAIL CUT #1 </strong><br /><br />
