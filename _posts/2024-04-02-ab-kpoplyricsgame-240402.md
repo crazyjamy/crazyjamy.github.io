@@ -3,12 +3,12 @@ layout: post
 title: "App Icon & Graphic Image"
 date: 2024-04-02 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/AB-appicon-pink.png?raw=true'
-description: A/B test - KPOPLyricsGame
+description: A/B test - KPOP Dictoc
 category: 'A/B'
 tags:
 - TEST
-twitter_text: Kpop Lyrics Game
-introduction: Kpop Lyrics Game
+twitter_text: Kpop DicToc • App
+introduction: Kpop DicToc • App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
