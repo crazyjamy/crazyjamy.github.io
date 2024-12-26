@@ -4,9 +4,9 @@ title: "Barcode Scanner"
 date: 2020-03-31 17:24:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/qrscanner.png?raw=true'
 description: Appication for Barcode Scanning
-category: 'Projects'
+category: 'UI/UX - Interaction'
 tags:
-- TEST
+- Projects
 twitter_text: Kpop DicToc • App
 introduction: 1v, 2v • App
 ---
