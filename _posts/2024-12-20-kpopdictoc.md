@@ -7,8 +7,8 @@ description: Kpop Lyrics Game
 category: 'UI/UX - Research Note'
 tags:
 - Projects
-twitter_text: Kpop Lyrics Game
-introduction: 2nd Vesion Application
+twitter_text: Kpop DicToc • 2v. App
+introduction: Kpop DicToc • 2v. App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
