@@ -3,7 +3,7 @@ layout: post
 title: "Barcode Scanner"
 date: 2020-03-31 17:24:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/qrscanner.png?raw=true'
-description: Appication for QR Scanning
+description: Appication for Barcode Scanning
 category: 'A/B'
 tags:
 - TEST
