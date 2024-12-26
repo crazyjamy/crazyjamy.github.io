@@ -20,7 +20,7 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/03_likehistory.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/04_setting.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;" width="1000"> <br /> <br /> <br />
-<strong> DESIGN & ITERATION</strong> <br />><br />
+<strong> DESIGN & ITERATION</strong> <br /><br />
 <span style="color: #646464;">Character</span><br />
 <table>
   <tr>
