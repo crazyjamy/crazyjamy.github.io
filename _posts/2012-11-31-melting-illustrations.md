@@ -7,8 +7,8 @@ description: Melting Illustrations
 category: 'Drawings'
 tags:
 - Personal Projects
-twitter_text: Melting Illustrations
-introduction: Melting Illustrations
+twitter_text: drawings during 2012
+introduction: drawings during 2012
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
