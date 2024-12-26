@@ -588,10 +588,10 @@ main{
     }
 }
 .post-content .tags a{
-  font-size:.8rem;color:#969696;display:inline-block;border:1px solid #e1e1e1;border-radius:0.8rem;padding:0 .4rem;margin-right:.125rem;margin-bottom:.5rem;text-decoration:none;-webkit-transition:all .3s;transition:all .3s;background:#f1f1f1;
+  font-size:.8rem;color:#26C6DA;display:inline-block;border-radius:15px;padding:0 .4rem;margin-right:.125rem;margin-bottom:.5rem;text-decoration:none;-webkit-transition:all .3s;transition:all .3s;background:#E0F7FA;
 }
 .post-content .tags a:hover{
-    color:#fff;border:1px solid #141414;background-color:#141414
+    color:#26C6DA;background:#B2EBF2;
 }
 .post-content .tag-title{
   font-family:-apple-system,BlinkMacSystemFont,Lato,Roboto,Segoe UI,Helvetica Neue,Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-style:normal;font-size:2.375rem;margin-top:3.75rem;width:auto;float:none;display:block;margin-right:auto;margin-left:auto;padding-left:4rem;
