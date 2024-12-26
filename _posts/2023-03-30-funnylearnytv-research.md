@@ -12,9 +12,6 @@ introduction: App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<strong> DESCRIPTION </strong> <br />
-온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다.<br /><br />
-<strong>  WIRE FRAMING & PROTOTYPING</strong> <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/funnylearnytv-p/18.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/funnylearnytv-p/19.png?raw=true" alt="" width="1920">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/funnylearnytv-p/20.png?raw=true" alt="" width="1920">
