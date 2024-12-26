@@ -15,7 +15,6 @@ introduction: 7 Types Animations
 <strong> DESCRIPTION </strong> <br />
 7가지의 로딩 애니메이션 입니다.<br /><br /><br />
 <strong> DESIGN & ITERATION</strong> <br /><br />
-<span style="color: #646464;">Character</span><br />
 <table>
   <tr>
     <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/loading/1.gif?raw=true" alt="Image 1" width="300"></td>
