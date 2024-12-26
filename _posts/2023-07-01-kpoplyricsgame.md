@@ -7,8 +7,8 @@ description: Kpop Lyrics Game
 category: 'UI/UX - Interaction'
 tags:
 - Projects
-twitter_text: Kpop Lyrics Game
-introduction: 1st Vesion Application
+twitter_text: Kpop DicToc • 1v. App
+introduction: Kpop DicToc • 1v. App
 ---
 ---
 <style>
