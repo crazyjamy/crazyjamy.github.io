@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ICONS"
-date: 2023-12-31 00:00:00
+title: "Loading Animations"
+date: 2022-12-31 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/loading-6.gif?raw=true'
 description: Loading Animations 7 Type
 category: 'ICONS'
