@@ -69,6 +69,6 @@ introduction: APPLICATION
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Setting_Time.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong> TECHNOLOGIES & TOOLS</strong> <br />
 Sketch, Illustrator, AfterEffect<br /><br />
-<strong> RELATED PROJECTS </strong> <br /><br />
+<strong> RELATED PROJECTS </strong> <br />
 <a href="https://crazyjamy.github.io/funnylearnytv-research/">FunnyLearny TV Research Note +</a> <br /><br /><br />
 </div>
