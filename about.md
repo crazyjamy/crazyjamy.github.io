@@ -25,7 +25,6 @@ permalink: /about/
 <span style="color: #969696;">2011.03 — 2015.03</span><span style="margin-left: 50px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a></span><br />
 <span style="margin-left: 240px;"> • 조형예술학 졸업</span><br />
 </div>
-
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <span style="font-weight: bold; font-size: 20px;">PROJECT</span><br /><br />
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션</span><br /> 
@@ -103,17 +102,15 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span> <br />
 <span style="margin-left: 240px;"> → 캐릭터 디자인 </span> <a href="../marshmello/" target=""> Character +</a><br />
 </div>
-
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 20px;"> AWARD</span> <br />
+<span style="font-weight: bold; font-size: 20px;"> AWARD</span> <br /> <br />
 <span style="color: #969696;">2013.11.28.</span><span style="margin-left: 110px;">창업 경진 대회</span> <br />
 <span style="margin-left: 240px;"> • 충북대학교, "우수상 "</span> <br />
 <span style="color: #969696;">2011. 10. 11.</span><span style="margin-left: 110px;">청렴공모전, 어플리케이션 부문</span> <br />
 <span style="margin-left: 240px;"> • 국민권익위원회, "우수상"</span> <br />
 </div>
-
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 20px;"> EXHIBITION</span> <br />
+<span style="font-weight: bold; font-size: 20px;"> EXHIBITION</span> <br /> <br />
 <span style="color: #969696;">2014. 07. 13 — 2014. 08. 06</span><span style="margin-left: 50px;"> New York, gallery MC,</span><br />
 <span style="margin-left: 280px;"> • I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">Art exhibit-related ↗</a></span><br />
 <span style="color: #969696;">2013. 12. 24 — 2013. 12. 29</span><span style="margin-left: 50px;"> Seoul, </span><br />
