@@ -7,8 +7,8 @@ description: Kids Customizing Video Contents
 category: 'UI/UX - Wire Frame & Interaction'
 tags:
 - Projects
-twitter_text: FunnyLearny TV
-introduction: APPLICATION
+twitter_text: App
+introduction: App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
