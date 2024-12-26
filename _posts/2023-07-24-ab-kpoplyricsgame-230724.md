@@ -12,9 +12,10 @@ introduction: Kpop DicToc • App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<strong> PROJECT OVERVIEW </strong> <br />
-<span style="color: #646464;">목표: <br /> 앱 스토어 페이지의 최적화를 통해 다운로드 전환율을 높이고 사용자 참여도를 향상시키기 위한 A/B 테스트 진행.</span><br /><br />
-<span style="color: #646464;">기간:<br />2023년 7월 20일 오후 3:07 ~ 2023년 7월 24일 오전 10:47 </span><br /><br /><br />
+<strong> GOAL </strong> <br />
+<span style="color: #646464;">앱 스토어 페이지의 최적화를 통해 다운로드 전환율을 높이고 사용자 참여도를 향상시키기 위한 A/B 테스트 진행.</span><br /><br />
+<strong> TIMELINE </strong> <br />
+<span style="color: #646464;">2023년 7월 20일 오후 3:07 ~ 2023년 7월 24일 오전 10:47 </span><br /><br /><br />
 <strong> PROBLEM STATEMENT </strong> <br />
 기존 앱 스토어 페이지의 전환율이 기대에 미치지 못함.<br />
 사용자들이 앱 다운로드 페이지에서 이탈하는 비율이 높음.<br /><br /><br />
