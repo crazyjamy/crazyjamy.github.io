@@ -7,10 +7,9 @@ description: My First Loading Animation
 category: 'Icons'
 tags:
 - Personal Projects
-twitter_text: My First Loading Animation
-introduction: My First Loading Animation
+twitter_text: Loading Animation
+introduction: Loading Animation
 ---
-
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <strong>SKETCH</strong><br /><br />
