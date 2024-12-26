@@ -33,20 +33,20 @@ introduction: Kpop DicToc • App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <strong>RESULTS ANALYSIS</strong> <br />
 <strong>처음 설치한 사용자 중 설치 상태를 유지한 사용자(10,947)</strong> <br />
-현재 정보: 4,159  / 변수 A: +37.4% 4,706  / 변수 B: -42.3% 2,082   <br /><br /> 
+현재 정보: 4,159  / 변수 PINK:<span style="color: #26C6DA">37.4% </span> 4,706  / 변수 VIOLET: <span style="color: #EF5350">-42.3% </span> 2,082   <br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br />
 <strong>최초 설치 사용자(19,944)</strong> <br />
-현재 정보: 7,529 / 변수 A: +22.6% 8,327 / 변수 B: -40.3% 4,088 <br /><br /> 
+현재 정보: 7,529 / 변수 PINK: <span style="color: #26C6DA">22.6% </span> 8,327 / 변수 VIOLET: <span style="color: #EF5350">-40.3% </span> 4,088 <br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br /> 
 <strong>OUTCOMES</strong> <br />
-새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #2196f3">37.4% </span> 상승.<br /><br /><br />
-<strong> INSIGHTS AND NEXT STEPS</strong> <br />
-A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #2196f3"> A - PINK(실적 우수)" </span> 를 적용.<br />
+새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #26C6DA">37.4% </span> 상승.<br /><br /><br />
+<strong> INSIGHTS AND NEXT STEPS </strong> <br />
+A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #26C6DA"> PINK(실적 우수)" </span> 를 적용.<br />
 테스트 결과를 바탕으로 앱의 인트로 화면 동일하게 적용 <br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;">  <br /><br /><br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
 <strong>RELATED PROJECTS </strong> <br />
-<a href="https://crazyjamy.github.io/kpopdictoc/" style="font-weight: bold; text-decoration: none;">2nd Vesion +</a> <br />
-<a href="https://crazyjamy.github.io/kpoplyricsgame/" style="font-weight: bold; text-decoration: none;">1st Vesion & Interaction +</a> <br /<br /> <br />
+<a href="https://crazyjamy.github.io/kpopdictoc/">2nd Vesion Design +</a> <br />  <br />
+<a href="https://crazyjamy.github.io/kpoplyricsgame/">1st Vesion & Interaction +</a>
 </div>
