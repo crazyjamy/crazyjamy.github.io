@@ -7,8 +7,8 @@ description: Mobile App for shoppingmall
 category: 'UI/UX'
 tags:
 - Projects
-twitter_text: Mobile App for shoppingmall
-introduction: Mobile App for shoppingmall
+twitter_text: Mobile App
+introduction: Mobile App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
@@ -18,6 +18,6 @@ introduction: Mobile App for shoppingmall
 <br /> <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/storebom/web-ui-storebom_04.gif?raw=true" alt="" width="500" style="border: 1px solid #e1e1e1; border-radius: 10px;">
 <br /> <br />
-<strong>TECHNOLOGIES & TOOLS </strong> <br /> <br />
+<strong>TECHNOLOGIES & TOOLS </strong> <br />
 Photoshop <br />
 </div>
