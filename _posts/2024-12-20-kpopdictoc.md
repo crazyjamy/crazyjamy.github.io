@@ -3,7 +3,7 @@ layout: post
 title: "Kpop DicToc"
 date: 2024-12-01 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/dictockpop-p.png?raw=true'
-description: Kpop Lyrics Game
+description: Application for Kpop Lyrics Game
 category: 'UI/UX - Research Note'
 tags:
 - Projects
