@@ -28,8 +28,6 @@ introduction: APPLICATION
 <br /> <br /> <br />
 <strong> TECHNOLOGIES & TOOLS</strong> <br />
 Sketch, Illustrator, AfterEffect<br /><br />
-
 <strong> RELATED PROJECTS </strong> <br />
-<a href="https://crazyjamy.github.io/funnylearnytv/" style="font-weight: bold; text-decoration: none;">FunnyLearny TV Wireframe & Interaction+</a> <br /><br /><br />
-
+<a href="https://crazyjamy.github.io/funnylearnytv/">FunnyLearny TV Wireframe & Interaction+</a> 
 </div>
