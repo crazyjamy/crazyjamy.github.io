@@ -394,10 +394,10 @@ main{
   margin:0 0 1rem;color:#646464;font-size:0.8rem;line-height:1rem
 }
 .box-item .box-body .tags a{
-  height:2rem;line-height:2rem;color:#969696;padding:0 .8rem;border-radius:5px;display:inline-block;margin:0 .625rem .625rem 0;z-index:50;font-size:0.8rem;background:#f1f1f1;
+  height:1.4rem;line-height:1.4rem;color:#26C6DA;padding:0 .8rem;border-radius:10px;display:inline-block;margin:0 .625rem .625rem 0;z-index:50;font-size:0.7rem;background:#E0F7FA;
 }
 .box-item .box-body .tags a:hover{
-  color:#fff;background:#969696;border-color:#646464
+  color:#26C6DA;background:#B2EBF2;
 }
 .box-item .box-body .new-post:after{
   content:'New';text-transform:uppercase;display:inline-block;background:#2196f3;color:#fff;font-size:.6rem;font-weight:600;line-height:1.5rem;padding:0 .2rem;position:absolute;margin-top:-1rem;margin-left:-1rem
