@@ -12,9 +12,10 @@ introduction: Kpop DicToc • App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<strong> PROJECT OVERVIEW </strong> <br />
-<span style="color: #646464;">목표:<br />앱 스토어 페이지의 최적화를 통해 다운로드 전환율을 높이고 사용자 참여도를 향상시키기 위한 A/B 테스트 진행.</span><br /><br />
-<span style="color: #646464;">기간:<br />2024년 4월 2일 오후 5:52 ~ 2024년 4월 8일 오후 2:11 </span><br /><br /><br />
+<strong> GOAL </strong> <br />
+<span style="color: #646464;">앱 스토어 페이지의 최적화를 통해 다운로드 전환율을 높이고 사용자 참여도를 향상시키기 위한 A/B 테스트 진행.</span><br /><br />
+<strong> TIMELINE </strong> <br />
+<span style="color: #646464;">2024년 4월 2일 오후 5:52 ~ 2024년 4월 8일 오후 2:11 </span><br /><br /><br />
 <strong> PROBLEM STATEMENT </strong> <br />
 기존 앱 스토어 페이지의 전환율이 기대에 미치지 못함.<br />
 사용자들이 앱 다운로드 페이지에서 이탈하는 비율이 높음.<br /><br /><br />
@@ -24,10 +25,10 @@ introduction: Kpop DicToc • App
 <span style="color: #646464;"> 현재 등록 정보:</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/default-GraphicImage_1024*578.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수: A - PINK </span><br /><br />
+<span style="color: #646464;">변수: PINK </span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-AppIcon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수: B - VIOLET</span><br /><br />
+<span style="color: #646464;">변수: VIOLET</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-playstore.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/b-GraphicImage.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <strong>RESULTS ANALYSIS</strong> <br />
