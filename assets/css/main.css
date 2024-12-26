@@ -264,13 +264,13 @@ aside nav li a:hover{
   }
 }
 .search-form .search-list .entry-category{
-  text-transform:uppercase;background-color:#26C6DA;margin-right:.313rem;height:1.25rem;border-radius:.625rem;font-size:.75rem;padding:.125rem .5rem;color:#FFF;
+  text-transform:uppercase;background-color:#E0F7FA;margin-right:.313rem;height:1.25rem;border-radius:.625rem;font-size:.75rem;padding:.125rem .5rem;color:#26C6DA;
 }
 .search-form .search-list a{
   color:#000;text-decoration:none;display:block;padding:.938rem 0;width:100%;border-bottom:1px solid #333;-webkit-transition:all .3s;transition:all .3s;line-height:1.563rem;
 }
 .search-form .search-list a:hover{
-  color:#000;
+  color:#26C6DA;background:#B2EBF2;
 }
 .search-form .search-list a:hover .entry-category{
   color:#fff
