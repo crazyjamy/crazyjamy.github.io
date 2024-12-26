@@ -23,7 +23,7 @@ introduction: Drawings during 2012
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/melting/melting-03.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br /><br />
 <strong> DETAIL CUT #3 </strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/melting/melting-04.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br /><br />
-<strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
+<strong>TECHNOLOGIES & TOOLS </strong> <br />
 Photoshop <br />
 </div>
 ---
@@ -39,6 +39,6 @@ Photoshop <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/melting/melting-08.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br /><br />
 <strong> DETAIL CUT #5 </strong><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/melting/melting-09.jpg?raw=true" alt="" width="1400" style= "margin-bottom: 30px;"><br /><br /><br />
-<strong>TECHNOLOGIES & TOOLS </strong> <br /><br />
+<strong>TECHNOLOGIES & TOOLS </strong> <br />
 Photoshop <br />
 </div>
