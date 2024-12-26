@@ -3,7 +3,7 @@ layout: post
 title: Kids TV
 date: 2020-09-15 17:24:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/kidsvideoapp.gif?raw=true'
-description: Kids Customizing Video Contents
+description: Appication for Kids Customizing Video Contents
 category: 'UI/UX'
 tags:
 - Projects
