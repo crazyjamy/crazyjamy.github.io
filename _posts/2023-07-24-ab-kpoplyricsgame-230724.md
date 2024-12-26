@@ -36,15 +36,15 @@ introduction: Kpop DicToc • App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <strong>RESULTS ANALYSIS</strong> <br />
 <strong>처음 설치한 사용자 중 설치 상태를 유지한 사용자(20,268)</strong> <br />
-현재 정보: 4,644 / 변수 A: +63.1% 6,608 / 변수 B: +25.5% 5,120 / 변수 C: -5.7% 3,896 <br /><br /> 
+현재 정보: 4,644 / 변수 A: <span style="color: #26C6DA">+ 63.1% </span> 6,608 / 변수 B: <span style="color: #26C6DA">+ 25.5% </span>5,120 / 변수 C: <span style="color: #EF5350">-5.7 % </span>3,896 <br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br />
 <strong>최초 설치 사용자(35,432)</strong> <br />
-현재 정보: 7,984 / 변수 A: +63.9% 11,560 / 변수 B: +24.8% 8,912 / 변수 C: -5.5% 6,976 <br /><br /> 
+현재 정보: 7,984 / 변수 A: <span style="color: #26C6DA">+ 63.9% </span> 11,560 / 변수 B: <span style="color: #26C6DA">+ 24.8% </span> 8,912 / 변수 C: <span style="color: #EF5350">-5.5 % </span> 6,976 <br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br /> 
 <strong>OUTCOMES</strong> <br />
-새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #2196f3">63% </span> 상승.<br /><br />
+새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #26C6DA">63% </span> 상승.<br /><br />
 <strong> INSIGHTS AND NEXT STEPS</strong> <br />
-A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #2196f3">"A - KPOP - Title - Purple(실적 우수)" </span> 를 적용.<br /><br /><br />
+A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #26C6DA">"A - KPOP - Title - Purple(실적 우수)" </span> 를 적용.<br /><br /><br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
 <strong>RELATED PROJECTS </strong> <br />
