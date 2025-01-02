@@ -37,7 +37,7 @@ introduction: Kpop DicToc • App
 현재 정보 : 7,529명 유지 (37.4%) • PINK 변수: 8,327명 유지 (+22.6% 증가) • VIOLET 변수: 4,088명 유지 (-40.3% 감소) <br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br /> 
 <strong>OUTCOMES</strong> <br />
-새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #07ba9c"> 37.4% </span> 상승 되었습니다.<br /><br /><br />
+새로 디자인된 요소를 사용한 PINK 변수에서 다운로드 전환율이 <span style="color: #07ba9c"> 37.4% </span> 상승 되었습니다.<br /><br /><br />
 <strong> INSIGHTS AND NEXT STEPS </strong> <br />
 A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c"> PINK </span> 를 적용하였습니다. <br />
 스토어 이미지 변경하면서 앱의 톤앤 매너를 그에 맞게 동일하게 변경 하였습니다. <br /><br />
