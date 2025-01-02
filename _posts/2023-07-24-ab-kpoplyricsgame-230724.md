@@ -13,40 +13,38 @@ introduction: Kpop DicToc • App
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <strong> GOAL </strong> <br />
-<span style="color: #646464;">앱 스토어 페이지의 최적화를 통해 다운로드 전환율을 높이고 사용자 참여도를 향상시키기 위한 A/B 테스트 진행.</span><br /><br />
+<span style="color: #646464;">앱 스토어 페이지의 최적화를 통해 다운로드 수를 높이고 사용자 참여도를 향상시키기 위해 진행하였습니다.</span><br /><br />
 <strong> TIMELINE </strong> <br />
-<span style="color: #646464;">2023년 7월 20일 오후 3:07 ~ 2023년 7월 24일 오전 10:47 </span><br /><br /><br />
+<span style="color: #646464;">2023년 7월 20일 오후 3:07 ~ 2023년 7월 24일 오전 10:47 </span><br /><br />
 <strong> PROBLEM STATEMENT </strong> <br />
-기존 앱 스토어 페이지의 전환율이 기대에 미치지 못함.<br />
-사용자들이 앱 다운로드 페이지에서 이탈하는 비율이 높음.<br /><br /><br />
-<strong> HYPOTHESIS</strong> <br />
-스토어 등록정보 실험 앱아이콘, 그래픽이미지시각적 및 내용적 요소를 변경하면 다운로드 전환율이 높아질 것이다.<br /><br /><br />
+기존 앱 스토어 페이지의 전환율이 기대에 미치지 못하였고,<br />
+사용자들이 앱 다운로드 페이지에서 이탈하는 비율이 높았습니다.<br /><br />
 <strong> EXPERIMENT DESIGN </strong> <br /><br />
-<span style="color: #646464;"> 현재 등록 정보 <br /></span><br />
+<span style="color: #646464;"> 현재 등록 정보 </span>≈
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default-GraphicImage_EN.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수: A </span><br /><br />
+<span style="color: #646464;">변수: A </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/a-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수: B </span><br /><br />
+<span style="color: #646464;">변수: B </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/b-DicTocKPOP_Graphic.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<span style="color: #646464;">변수: C </span><br /><br />
+<span style="color: #646464;">변수: C </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <strong>RESULTS ANALYSIS</strong> <br />
-<strong>처음 설치한 사용자 중 설치 상태를 유지한 사용자(20,268)</strong> <br />
-현재 정보: 4,644 / 변수 A: <span style="color: #26C6DA">+ 63.1% </span> 6,608 / 변수 B: <span style="color: #26C6DA">+ 25.5% </span>5,120 / 변수 C: <span style="color: #EF5350">-5.7 % </span>3,896 <br /><br /> 
+<strong>처음 설치한 사용자 중 설치 상태를 유지한 사용자(20,268) 대상으로 진행 되었습니다.</strong> <br />
+현재 정보 : 4,644 명 유지 (%) • A 변수: 6,608명 유지 (+63.1% 증가) • B 변수: 5,120명 유지 (+25.5% 증가) • C 변수: 3,896명 유지 (-5.7% 증가)<br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br />
-<strong>최초 설치 사용자(35,432)</strong> <br />
-현재 정보: 7,984 / 변수 A: <span style="color: #26C6DA">+ 63.9% </span> 11,560 / 변수 B: <span style="color: #26C6DA">+ 24.8% </span> 8,912 / 변수 C: <span style="color: #EF5350">-5.5 % </span> 6,976 <br /><br /> 
+<strong>앱을 처음 설치한 35,432 명의 사용자를 대상으로 진행 된 결과 입니다.</strong> <br />
+현재 정보 : 7,984 명 유지 (%) • A 변수: 11,560명 유지 (+63.9% 증가) • B 변수: 8,912명 유지 (+24.8% 증가) • C 변수: 6,976명 유지 (-5.5% 증가)<br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br /> 
 <strong>OUTCOMES</strong> <br />
-새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #26C6DA">63% </span> 상승.<br /><br />
+새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #07ba9c"> 63% </span> 상승 되었습니다.<br /><br />  
 <strong> INSIGHTS AND NEXT STEPS</strong> <br />
-A/B 테스트 결과를 바탕으로 모든 마켓에 변수 <span style="color: #26C6DA">"A - KPOP - Title - Purple(실적 우수)" </span> 를 적용.<br /><br /><br />
+A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c"> A </span> 를 적용하였습니다. <br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
 <strong>RELATED PROJECTS </strong> <br />
-<a href="https://crazyjamy.github.io/kpoplyricsgame/">Kpop Lyrics Game APP +</a>   <br /><br /> <br />
+<a href="https://crazyjamy.github.io/kpoplyricsgame/">Kpop Lyrics Game APP +</a>
 </div>
