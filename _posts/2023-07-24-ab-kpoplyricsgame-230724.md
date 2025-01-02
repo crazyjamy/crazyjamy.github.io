@@ -33,16 +33,16 @@ introduction: Kpop DicToc • App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <strong>RESULTS ANALYSIS</strong> <br />
-<strong>처음 설치한 사용자 중 설치 상태를 유지한 사용자(20,268) 대상으로 진행 되었습니다.</strong> <br />
+처음 설치한 사용자 중 설치 상태를 유지한 사용자(20,268) 대상으로 진행 되었습니다. <br />
 현재 정보 : 4,644 명 유지 (%) • A 변수: 6,608명 유지 (+63.1% 증가) • B 변수: 5,120명 유지 (+25.5% 증가) • C 변수: 3,896명 유지 (-5.7% 증가)<br /><br /> 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br />
-<strong>앱을 처음 설치한 35,432 명의 사용자를 대상으로 진행 된 결과 입니다.</strong> <br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br />
+앱을 처음 설치한 35,432 명의 사용자를 대상으로 진행 된 결과 입니다.<br />
 현재 정보 : 7,984 명 유지 (%) • A 변수: 11,560명 유지 (+63.9% 증가) • B 변수: 8,912명 유지 (+24.8% 증가) • C 변수: 6,976명 유지 (-5.5% 증가)<br /><br /> 
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br /> 
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br />
 <strong>OUTCOMES</strong> <br />
 새로 디자인된 요소를 사용한 변수 B에서 다운로드 전환율이 <span style="color: #07ba9c"> 63% </span> 상승 되었습니다.<br /><br />  
 <strong> INSIGHTS AND NEXT STEPS</strong> <br />
-A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c"> A </span> 를 적용하였습니다. <br />
+A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c"> A </span> 를 적용하였습니다. <br /> <br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br />
 <strong>RELATED PROJECTS </strong> <br />
