@@ -12,7 +12,7 @@ introduction: Kpop DicToc • App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
- <span style=font-weight:bold"> GOAL</span>
+<span style=font-weight:bold"> GOAL</span><br />
 <span style="color: #646464;">앱 스토어 페이지의 최적화를 통해 다운로드 수를 높이고 사용자 참여도를 향상시키기 위해 진행하였습니다.</span>
 <strong> TIMELINE </strong>
 <span style="color: #646464;">2024년 4월 2일 오후 5:52 ~ 2024년 4월 8일 오후 2:11 </span><br /><br />
@@ -42,9 +42,9 @@ introduction: Kpop DicToc • App
 A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c"> PINK </span> 를 적용하였습니다. <br />
 스토어 이미지 변경하면서 앱의 톤앤 매너를 그에 맞게 동일하게 변경 하였습니다. <br />
 <a href="https://crazyjamy.github.io/kpopdictoc/">Explore Redesigned Version +</a> <br /> <br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;">  <br /><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;"> <br /><br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
-Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
+Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br />
 <strong>RELATED PROJECTS </strong> <br />
 <a href="https://crazyjamy.github.io/kpoplyricsgame/">1st Vesion & Interaction + </a>
 </div>
