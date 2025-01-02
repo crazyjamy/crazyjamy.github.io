@@ -40,7 +40,7 @@ introduction: Kpop DicToc • App
   <strong>INSIGHTS AND NEXT STEPS</strong>
   <p>A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c;">PINK</span>를 적용하였습니다. 스토어 이미지 변경과 동시에 앱의 톤앤매너를 일관성 있게 변경하였습니다.</p>
   <a href="https://crazyjamy.github.io/kpopdictoc/" style="display: inline-block; margin: 20px 0; text-decoration: none; color: #07ba9c; font-weight: bold;">Explore Redesigned Version +</a>
-  <img src="prototype-url" alt="Prototype" style="border: 1px solid #e1e1e1; border-radius: 10px; max-width: 100%; margin-top: 20px;">
+  <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="Prototype" style="border: 1px solid #e1e1e1; border-radius: 10px; max-width: 100%; margin-top: 20px;">
   <strong>TECHNOLOGIES & TOOLS</strong>
   <p>Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집</p>
   <strong>RELATED PROJECTS</strong>
