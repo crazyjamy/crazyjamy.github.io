@@ -44,7 +44,7 @@ introduction: Kpop DicToc • App
 <strong> INSIGHTS AND NEXT STEPS</strong> <br />
 A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c"> A </span> 를 적용하였습니다. <br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
-Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br /><br />
+Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br />
 <strong>RELATED PROJECTS </strong> <br />
 <a href="https://crazyjamy.github.io/kpoplyricsgame/">Kpop Lyrics Game APP +</a>
 </div>
