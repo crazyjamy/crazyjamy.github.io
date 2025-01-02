@@ -12,9 +12,9 @@ introduction: Kpop DicToc • App
 ---
 ---
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<strong> GOAL </strong> <br />
-<span style="color: #646464;">앱 스토어 페이지의 최적화를 통해 다운로드 수를 높이고 사용자 참여도를 향상시키기 위해 진행하였습니다.</span><br /><br />
-<strong> TIMELINE </strong> <br />
+<strong> GOAL </strong>
+<span style="color: #646464;">앱 스토어 페이지의 최적화를 통해 다운로드 수를 높이고 사용자 참여도를 향상시키기 위해 진행하였습니다.</span>
+<strong> TIMELINE </strong>
 <span style="color: #646464;">2024년 4월 2일 오후 5:52 ~ 2024년 4월 8일 오후 2:11 </span><br /><br />
 <strong> PROBLEM STATEMENT </strong> <br />
 기존 앱 스토어 페이지의 전환율이 기대에 미치지 못하였고,<br />
