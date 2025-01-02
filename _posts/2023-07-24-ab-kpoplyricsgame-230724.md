@@ -20,7 +20,7 @@ introduction: Kpop DicToc • App
 기존 앱 스토어 페이지의 전환율이 기대에 미치지 못하였고,<br />
 사용자들이 앱 다운로드 페이지에서 이탈하는 비율이 높았습니다.<br /><br />
 <strong> EXPERIMENT DESIGN </strong> <br /><br />
-<span style="color: #646464;"> 현재 등록 정보 </span>≈
+<span style="color: #646464;"> 현재 등록 정보 </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/default-GraphicImage_EN.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
 <span style="color: #646464;">변수: A </span><br />
