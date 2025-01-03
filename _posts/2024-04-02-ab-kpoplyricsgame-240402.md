@@ -40,9 +40,9 @@ introduction: Kpop DicToc • App
 새로 디자인된 요소를 사용한 PINK 변수에서 다운로드 전환율이 <span style="color: #07ba9c"> 37.4% </span> 상승 되었습니다.<br /><br />
 <strong> INSIGHTS AND NEXT STEPS </strong> <br />
 A/B 테스트 결과의 두 실험 그룹을 바탕으로 마켓에 변수 <span style="color: #07ba9c"> PINK </span> 를 적용하였습니다. <br />
-스토어 이미지 변경하면서 앱의 톤앤 매너를 그에 맞게 동일하게 변경 하였습니다. <br />
-<a href="https://crazyjamy.github.io/kpopdictoc/">Explore Redesigned Version +</a> <br /> <br />
+스토어 이미지 변경하면서 앱의 톤앤 매너를 그에 맞게 동일하게 변경 하였습니다. <br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/20240402-abtest-kpoplyricsgame/a-%20Prototype_Splash.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;margin-top:10px;"> <br /><br />
+<a href="https://crazyjamy.github.io/kpopdictoc/">Explore Redesigned Version +</a> <br /> <br />
 <strong>TECHNOLOGIES & TOOLS </strong> <br />
 Sketch, Google Play Console을 통해 실험 세팅 및 데이터 수집 <br /><br />
 <strong>RELATED PROJECTS </strong> <br />
