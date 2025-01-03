@@ -32,7 +32,7 @@ introduction: Kpop DicToc • App
 <span style="color: #646464;">변수: C </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-ic_launcher.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/c-DicTocKPOP_Graphic_C.jpg?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 500px;"><br /><br />
-<strong>RESULTS ANALYSIS</strong> <br />
+<strong>RESULTS ANALYSIS</strong> <br /><br />
 처음 설치한 사용자 중 설치 상태를 유지한 사용자(20,268) 대상으로 진행 되었습니다. <br />
 현재 정보 : 4,644 명 유지 (%) • A 변수: 6,608명 유지 (+63.1% 증가) • B 변수: 5,120명 유지 (+25.5% 증가) • C 변수: 3,896명 유지 (-5.7% 증가)<br /><br /> 
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/2023723-abtest-kpoplyricsgame/ab-first-installed-user-not-deleted.png?raw=true" alt="" width="1000" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br />
