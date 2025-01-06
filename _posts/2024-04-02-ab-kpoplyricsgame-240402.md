@@ -4,9 +4,9 @@ title: "App Icon & Graphic Image"
 date: 2024-04-02 00:00:00
 image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_thumbnail/AB-appicon-pink.png?raw=true'
 description: KPOP DicToc A/B 사용자 경험과 참여도 개선
-category: 'A/B'
+category: 'A/B TEST'
 tags:
-- TEST
+- EXPERIMENTS
 twitter_text: v • App
 introduction: Kpop DicToc • App
 ---
