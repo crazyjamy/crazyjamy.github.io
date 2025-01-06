@@ -6,7 +6,7 @@ image: 'https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_th
 description: KPOP DicToc A/B 사용자 경험과 참여도 개선
 category: 'A/B TEST'
 tags:
-- EXPERIMENTS
+- Experiments
 twitter_text: v • App
 introduction: Kpop DicToc • App
 ---
