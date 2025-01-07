@@ -33,7 +33,7 @@ introduction: App
   </tr>
   <tr>
     <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-blue.gif?raw=true" alt="Image 5" width="300"></td>
-    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-red.gif?raw=true" alt="Image 6" width="300"></td>
+    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-yellow.gif?raw=true" alt="Image 6" width="300"></td>
   </tr>
 </table>
 <br /><br />
