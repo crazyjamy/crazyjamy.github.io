@@ -50,7 +50,7 @@ introduction: 1v, 2v • App
 <span style="color: #646464;">QR Code Generation</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/Prototype_QR_Scanner_generate_qr_code_vs2.gif?raw=true" alt="QR Code Generation" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br />
 <span style="color: #646464;">Generated QR Code List</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_generated_list.png?raw=true" alt="QR Code Generation" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_history_list.jpg?raw=true" alt="QR Code Generation" width="360" style="border: 1px solid #e1e1e1; border-radius: 10px;"><br /><br /><br />
 <span style="color: #646464;">Setting</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360"><br /><br /><br /><br /><br />
 <strong> URL </strong> <br />
