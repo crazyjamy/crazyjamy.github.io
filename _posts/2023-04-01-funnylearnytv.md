@@ -32,7 +32,7 @@ introduction: App
     <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-violet.gif?raw=true" alt="Image 4" width="300"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-violet.gif?raw=true" alt="Image 5" width="300"></td>
+    <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-red.gif?raw=true" alt="Image 5" width="300"></td>
     <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-yellow.gif?raw=true" alt="Image 6" width="300"></td>
   </tr>
 </table>
