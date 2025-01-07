@@ -55,7 +55,7 @@ introduction: 1v, 2v • App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/qrscanner/img_setting.png?raw=true" alt="Setting" width="360"><br /><br /><br /><br /><br />
 <strong> URL </strong> <br />
 <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" style="text-decoration: none;"> Download + </a> <br /><br /><br /><br />
-<strong> REFERENCE & RESEARCH NOTE </strong> <br /><br /><br />
+<strong> REFERENCE & RESEARCH NOTE </strong> <br />
 <a href="https://docs.google.com/spreadsheets/d/12QsEy9Q259WckKjOmFr9uuO6wFndcBunB7rJhQDl1ak/edit?usp=sharing" style="text-decoration: none;"> Research note about barcode +</a><br />
 <a href="https://namu.wiki/w/%EB%B0%94%EC%BD%94%EB%93%9C" style="text-decoration: none;">나무위키-바코드 +</a> <br />
 <a href="https://material.io/components/app-bars-bottom/" style="text-decoration: none;">머테리얼-가이드 +</a> <br />
