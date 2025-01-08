@@ -37,35 +37,37 @@ introduction: App
   </tr>
 </table>
 <br /><br />
-<span style="color: #646464;">TabBar - A </span><br /><br />
+<span style="color: #646464;">TabBar - A </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">TabBar - B </span><br /><br />
+<span style="color: #646464;">TabBar - B </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Like Video</span><br /><br />
+<span style="color: #646464;">Like Video</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_main_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Channel Detail</span><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_channeldetail_video_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Search Empty</span><br /><br />
+<span style="color: #646464;">Channel</span><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_channel_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<span style="color: #646464;">Player</span><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_player_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<span style="color: #646464;">Search Empty</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Like - Empty </span><br /><br />
+<span style="color: #646464;">Like - Empty </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Add Group</span><br /><br />
+<span style="color: #646464;">Add Group</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/AddGroup.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Group Setting</span><br /><br />
+<span style="color: #646464;">Group Setting</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/GroupSetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Mode Check</span><br /><br />
+<span style="color: #646464;">Mode Check</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_mode_check.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Password</span><br /><br />
+<span style="color: #646464;">Password</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_lock.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Loading</span><br /><br />
+<span style="color: #646464;">Loading</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_loading.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">End Watching</span><br /><br />
+<span style="color: #646464;">End Watching</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_end_watching.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Delete History</span><br /><br />
+<span style="color: #646464;">Delete History</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_streetlight.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Unlock Block Video</span><br /><br />
+<span style="color: #646464;">Unlock Block Video</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_spaceship.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Setting </span><br /><br />
+<span style="color: #646464;">Setting </span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Setting_Time.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong> TECHNOLOGIES & TOOLS</strong> <br />
 Sketch, Illustrator, AfterEffect<br /><br />
