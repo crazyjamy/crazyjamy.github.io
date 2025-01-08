@@ -15,7 +15,7 @@ introduction: App
 <strong> DESCRIPTION </strong> <br />
 온라인의 키즈 동영상들을 아이들이 더욱 안전하게 이용할 수 있는 키즈 전용 동영상 컨텐츠 무료 어플리케이션입니다.<br /><br /><br />
 <strong>DESIGN CONCEPT & SCENARIO</strong> <br />
-프로젝트 초기 단계에서 개발된 1차 디자인 컨셉과 사용자 시나리오를 통해 전체적인 앱 구조와 사용자 흐름을 시각화했습니다. 이 과정에서 디자인 방향성과 주요 인터랙션을 구체화하고, 이후 단계의 개선점을 도출하였습니다.
+프로젝트 초기 단계에서 개발된 1차 디자인 컨셉과 사용자 시나리오를 통해 전체적인 앱 구조와 사용자 흐름을 시각화했습니다. <br />이 과정에서 디자인 방향성과 주요 인터랙션을 구체화하고, 이후 단계의 개선점을 도출하였습니다.<br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/01_groupselect.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px 10px 0px 0px;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/02_search.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/03_likehistory.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
