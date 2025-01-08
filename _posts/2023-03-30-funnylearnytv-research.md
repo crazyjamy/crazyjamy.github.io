@@ -26,5 +26,5 @@ introduction: App
 <strong> TECHNOLOGIES & TOOLS</strong> <br />
 Sketch, Illustrator, AfterEffect<br /><br />
 <strong> RELATED PROJECTS </strong> <br />
-<a href="https://crazyjamy.github.io/funnylearnytv/">FunnyLearny TV Wireframe & Interaction+</a> 
+<a href="https://crazyjamy.github.io/funnylearnytv/">FunnyLearny TV Design Concept & Interaction +</a> 
 </div>
