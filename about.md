@@ -70,7 +70,7 @@ permalink: /about/
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span><br /> 
-<span style="margin-left: 240px;"> → 자녀의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행: </span><a href="../Eggstory/" target=""> Research Note & Design +</a> <br /> 
+<span style="margin-left: 240px;"> → 자녀의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행: </span><a href="../eggstory/" target=""> Research Note & Design +</a> <br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br /> 
