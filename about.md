@@ -56,8 +56,6 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 신곡 100위 음악 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2018 </span><span style="margin-left: 150px;">Barcode Scanner <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행: </span> <a href="../barcode_scanner/" target=""> Research Note & Interaction +</a> <br /> 
-<span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">JM Browser <a href="https://play.google.com/store/apps/details?id=io.jmobile.browser" target="_blank">Download ↗</a></span><br /> 
-<span style="margin-left: 240px;"> → 동영상 플레이어 및 다운로드 가능한 브라우저 앱 디자인 진행</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="color: #969696; margin-left: 270px;"> • </span> <span> UX 최적화 및 사용자 리서치를 통해 100만 다운로드와 평점 4.1 유지에 기여.</span><br /> 
