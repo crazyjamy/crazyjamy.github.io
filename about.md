@@ -80,7 +80,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행: </span> <a href="../babosarang-web/" target=""> Web + </a><a href="../babosarang-mobile/" target=""> App + </a></span><br />         
 <span style="margin-left: 240px;"> → 신년 다이어리 기획전 기획</span><br />         
 <span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span><br /> 
- <span style="color: #969696; margin-left: 270px;"> • </span> <span>하루 평균 8,000명의 방문자 유지, UI 개선 후 전환율 15% 증가./span><br /> 
+<span style="color: #969696; margin-left: 270px;"> • </span> <span>하루 평균 8,000명의 방문자 유지, UI 개선 후 전환율 15% 증가.</span><br /> 
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">BESOFT</span><br />      
 <span style="margin-left: 240px;"> → 은행 보안 키보드 및 웹 페이지 디자인 진행</span><br />      
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Stellar(스텔라) 360 VR </span><br />      
