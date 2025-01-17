@@ -63,7 +63,9 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
 <span style="color: #969696; margin-left: 270px;"> • </span> <span> UX 최적화 및 사용자 리서치를 통해 100만 다운로드와 평점 4.7 유지에 기여.</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">Egg Story</span><br /> 
-<span style="margin-left: 240px;"> → 자녀의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행: </span><a href="../eggstory/" target=""> Research Note & Design +</a> <br /> 
+<span style="margin-left: 240px;">→ 자녀의 성격 유형을 분석하여 개인의 성향을 깊이 이해할 수 있도록 돕는 성향 검사 게임 앱 디자인 진행: </span><a href="../eggstory/" target=""> Research Note & Design +</a> <br /> 
+<span style="margin-left: 240px;">→ 유니티 기반 인터랙티브 게임 앱 UI/UX 디자인</span><br />
+<span style="margin-left: 240px;">→ 앱 내 배경 UI 디자인 및 애니메이션 효과 설계로 앱의 몰입감과 사용자 만족도 향상.</span><br /> 
 <span style="color: #969696;"> 2017 </span><span style="margin-left: 150px;">HD Video Downloader <a href="https://play.google.com/store/apps/details?id=com.ne.hdv" target="_blank">Download ↗</a></span><br /> 
 <span style="margin-left: 240px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
 <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br /> 
@@ -79,7 +81,8 @@ permalink: /about/
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">Babosarang<br />      
 <span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행: </span> <a href="../babosarang-web/" target=""> Web + </a><a href="../babosarang-mobile/" target=""> App + </a></span><br />         
 <span style="margin-left: 240px;"> → 신년 다이어리 기획전 기획</span><br />         
-<span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span><br />      
+<span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span><br /> 
+ <span style="color: #969696; margin-left: 270px;"> • </span> <span>하루 평균 8,000명의 방문자 유지, UI 개선 후 전환율 15% 증가./span><br /> 
 <span style="color: #969696;"> 2016 </span><span style="margin-left: 150px;">BESOFT</span><br />      
 <span style="margin-left: 240px;"> → 은행 보안 키보드 및 웹 페이지 디자인 진행</span><br />      
 <span style="color: #969696;"> 2015 </span><span style="margin-left: 150px;">Stellar(스텔라) 360 VR </span><br />      
