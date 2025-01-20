@@ -117,5 +117,5 @@ permalink: /about/
 <span style="color: #969696;">2013. 08. 02 — 2013. 08. 10</span><span style="margin-left: 50px;"> Seoul, imazoo Gallery,</span><br />   
 <span style="margin-left: 280px;"> • 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">Gallery Url ↗</a></span><br />
 <br /><br />
- <a href="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_cv/BakHyeLin_Resume_2024.pdf?raw=true" download="BakHyeLin_Resume_2024.pdf">Click here to download the PDF</a>
+ <a href="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_cv/BakHyeLin_Resume_2025.pdf?raw=true" download="BakHyeLin_Resume_2025.pdf">Click here to download the PDF</a>
 </div>
