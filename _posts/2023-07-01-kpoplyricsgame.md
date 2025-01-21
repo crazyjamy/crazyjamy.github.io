@@ -13,7 +13,7 @@ introduction: 1v. App
 ---
 <style>
         .iframe-container {
-            width: 80%; /* div 너비 */
+            width: 100%; /* div 너비 */
             max-width: 560px; /* div 최대 너비 */
             margin: 0 auto; /* div 가운데 정렬 */
             text-align: center; /* 텍스트 중앙 정렬 */
