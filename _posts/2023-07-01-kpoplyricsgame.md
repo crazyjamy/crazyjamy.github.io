@@ -14,15 +14,13 @@ introduction: 1v. App
 <style>
         .iframe-container {
             width: 100%; /* div 너비 */
-            max-width: 560px; /* div 최대 너비 */
+            max-width: 100%; /* div 최대 너비 */
             margin: 0 auto; /* div 가운데 정렬 */
             text-align: center; /* 텍스트 중앙 정렬 */
         }
         iframe {
             width: 100%; /* iframe 너비를 부모 크기에 맞춤 */
             height: 315px; /* iframe 높이 */
-            border: 1px solid #e1e1e1; /* iframe 테두리 */
-            border-radius: 8px; /* 모서리 둥글게 */
         }
 </style>
 <div align="center" style="line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
