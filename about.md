@@ -14,7 +14,7 @@ permalink: /about/
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
 <span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span><br />
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
-<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px;">Babosarang <a href="http://www.babosarang.co.kr/" target="_blank">↗</a></span><br /> 
+<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px;">Babosarang</span><br /> 
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
 <span style="color: #969696;">2015.12 — 2016.06</span><span style="margin-left: 50px;">BESOFT</span><br />
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
