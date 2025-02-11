@@ -695,7 +695,7 @@ pre code::after{
   display:block;font-size:.875rem;color:#000;padding-bottom:.625rem
 }
 .contact-form button[type="submit"]{
-  display:block;padding:19px 39px 18px 39px;color:#fff;background:#26C6DA;font-size:1.125rem;width:100%;border:1px solid #126fb8;border-width:1px 1px 3px;margin-top:3.125rem;margin-bottom:.625rem;cursor:pointer;-webkit-transition:all .3s;transition:all .3s;outline:none;
+  display:block;padding:19px 39px 18px 39px;color:#fff;background:#26C6DA;font-size:1.125rem;width:100%;border:1px solid #26C6DA;border-width:1px;margin-top:3.125rem;margin-bottom:.625rem;cursor:pointer;-webkit-transition:all .3s;transition:all .3s;outline:none;border-radius: 10px;
 }
 .contact-form button[type="submit"]:hover{
   background:#26C6DA
