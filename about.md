@@ -10,23 +10,23 @@ permalink: /about/
 <span style="font-weight: bold; font-size: 38px; font-style: normal; font-weight: 300;">EXPERIENCE & EDUCATIONS</span><br /><br />
 <span style="color: #969696;">2024.06 — 2024.12</span><span style="margin-left: 50px; font-weight: 600;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span><br />
 <span style="margin-left: 240px;"> • DESIGNER</span><br />
-<span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span><br />   
+<span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px; font-weight: 600;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span><br />   
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
-<span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span><br />
+<span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px; font-weight: 600;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span><br />
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
-<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px;">Babosarang</span><br /> 
+<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px; font-weight: 600;">Babosarang</span><br /> 
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
-<span style="color: #969696;">2015.12 — 2016.06</span><span style="margin-left: 50px;">BESOFT</span><br />
+<span style="color: #969696;">2015.12 — 2016.06</span><span style="margin-left: 50px; font-weight: 600;">BESOFT</span><br />
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
-<span style="color: #969696;">2015.08 — 2015.11</span><span style="margin-left: 50px;">MOOOVR</span><br />
+<span style="color: #969696;">2015.08 — 2015.11</span><span style="margin-left: 50px; font-weight: 600;">MOOOVR</span><br />
 <span style="margin-left: 240px;"> • UI/UX DESIGNER, VISUAL EFFECTS ARTIST</span><br />
-<span style="color: #969696;">2015.01 — 2015.08</span><span style="margin-left: 50px;">SURF</span><br /> 
+<span style="color: #969696;">2015.01 — 2015.08</span><span style="margin-left: 50px; font-weight: 600;">SURF</span><br /> 
 <span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
-<span style="color: #969696;">2011.03 — 2015.03</span><span style="margin-left: 50px;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a></span><br />
+<span style="color: #969696;">2011.03 — 2015.03</span><span style="margin-left: 50px; font-weight: 600;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a></span><br />
 <span style="margin-left: 240px;"> • 조형예술학 졸업</span><br />
 </div>
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 20px;">PROJECT</span><br /><br />
+<span style="font-weight: bold; font-size: 38px; font-style: normal; font-weight: 300;">PROJECT</span><br /><br />
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션</span><br /> 
 <span style="margin-left: 240px;"> → 프로그램 디자인 유지보수 및 최적화 </span><br />
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트 <a href="https://www.jiransnc.com" target="_blank">Visit Website ↗</a> </span><br /> 
@@ -100,14 +100,14 @@ permalink: /about/
 <span style="margin-left: 240px;"> → 캐릭터 디자인 </span> <a href="../marshmello/" target=""> Character +</a><br />
 </div>
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 20px;"> AWARD</span> <br /> <br />
+<span style="font-weight: bold; font-size: 38px; font-style: normal; font-weight: 300;">AWARD</span> <br /> <br />
 <span style="color: #969696;">2013.11.28.</span><span style="margin-left: 110px;">창업 경진 대회</span> <br />
 <span style="margin-left: 240px;"> • 충북대학교, "우수상 "</span> <br />
 <span style="color: #969696;">2011. 10. 11.</span><span style="margin-left: 110px;">청렴공모전, 어플리케이션 부문</span> <br />
 <span style="margin-left: 240px;"> • 국민권익위원회, "우수상"</span> <br />
 </div>
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 20px;"> EXHIBITION</span> <br /> <br />
+<span style="font-weight: bold; font-size: 38px; font-style: normal; font-weight: 300;">EXHIBITION</span> <br /> <br />
 <span style="color: #969696;">2014. 07. 13 — 2014. 08. 06</span><span style="margin-left: 50px;"> New York, gallery MC,</span><br />
 <span style="margin-left: 280px;"> • I-Ya-Gi <a href="http://www.gallerymc.org/h/i-ya-gi-that-connote-you-and-me/" target="_blank">Art exhibit-related ↗</a></span><br />
 <span style="color: #969696;">2013. 12. 24 — 2013. 12. 29</span><span style="margin-left: 50px;"> Seoul, </span><br />
