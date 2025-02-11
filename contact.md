@@ -12,8 +12,7 @@ permalink: /contact/
   }
 </style>
 <div class="container" style="margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 24px; font-style: normal; font-weight: 600;">Contact</span><
-  <h2>Talk to me</h2>
+<span style="font-weight: bold; font-size: 24px; font-style: normal; font-weight: 600;">Contact</span>
 
   <div id="form" class="contact-form">
 
