@@ -30,12 +30,9 @@ introduction: 1v. App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/app-icon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br /><br /><br />
 <strong>Tab</strong> <br />
 <span>하단과 상단 탭은 사용자에게 좋은 인상을 주는 위트요소로 인터렉션 효과를 적용하였습니다.</span><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-top.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 700px;"><br /><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-top.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 700px;"><br /><br />
 <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-bottom.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 700px;"><br /><br /><br />
-<strong>Search Fail Motion</strong> <br />
-<span>DicToc Kpop의 상징적인 캐릭터를 활용하여 검색 실패했을 때의 표정을 극대화하여 사용자에게 재미를 더 했습니다.</span><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/search-fail.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong>Select Mode</strong> <br />
 <span>게임 선택 화면에서는 수준별 게임 진행 기록을 보여주며, 좋아하는 곡을 저장할 때 심플한 모션을 주었습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_ModeSelect.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
@@ -55,19 +52,27 @@ introduction: 1v. App
 <strong>Result Motion</strong> <br />
 <span>게임 결과 화면은 역동적으로 모션을 설계하여 사용자의 몰입감을 극대화 하려고 노력하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Result_Contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Check in Event</span><br />
+<strong>Check in Event</strong> <br />
+<span>출석체크 시 출석 완료 도장을 받게 되고 보물상자가 열리면서 사용자의 기대감을 극대화 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/checkin.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">App Updated News</span><br />
+<strong>App Update News</strong> <br />
+<span>사용자가 읽지 않고 지나칠 수 있는 업데이트 팝업을 종을 치는 모션을 추가하여 몰입감을 높였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Update.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Activity Empty</span><br />
+<strong>Empty Motion</strong> <br />
+<span>DicToc Kpop의 상징적인 캐릭터를 활용하여 사용자에게 재미를 더 했습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/search-fail.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Activity_Empty.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Setting</span><br />
+<strong>Setting</strong> <br />
+<span>사용자가 앱을 자신의 선호에 맞게 커스터마이징 할 수 있도록 설계하였습니다.</span><br /><br />      
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Delete Popup</span><br />
+<strong>Delete</strong> <br />
+<span>쓰레기를 버리는 연출로 데이터를 삭제하는 그 순간 경험을 극대화하려고 노력했습니다.</span><br /><br />      
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Bookmark_Delete.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">More Gems</span><br />
+<strong>More Gem</strong> <br />
+<span>앱내 광고를 시청하면 리워드 보상이 있음을 위트있게 표현하려고 하였습니다.</span><br /><br />     
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/moregem.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Rate App</span><br />
+<strong>Rate App</strong> <br />
+<span>거부감이 들 수 있는 리뷰 요청 팝업을 편지를 받는 모션을 추가하여 재미있게 표현하였습니다.</span><br /><br />      
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype-rate.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong> PROMOTION VIDEO</strong> <br />
 <div class="iframe-container">
