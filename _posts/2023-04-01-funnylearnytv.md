@@ -67,14 +67,16 @@ introduction: App
 <strong>Check Motion</strong> <br />
 <span>보호자가 승인한 영상만 재생되는 모션을 활용하여 자녀의 안전한 시청을 돕고, 직관적으로 이해할 수 있도록 했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_mode_check.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Loading</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_loading.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">End Watching</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_end_watching.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Delete History</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_streetlight.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Unlock Block Video</span><br />
+<strong>Delete & UnLock Video Motion</strong> <br />
+<span>캐릭터들이 우주선을 보며 놀라는 모습이과 가로등 밑에서 노는 모습을 통해 심심할 수 있는 팝업 화면에 재미를 더했습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_streetlight.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_spaceship.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<strong>Loading Motion</strong> <br />
+<span>지루할 수 있는 로딩화면을 캐릭터 모션을 추가하여 재미있게 표현 하였습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_loading.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<strong>End Watching Motion</strong> <br />
+<span>시청시간이 끝나면 자녀에게 작은 보상을 주어 약속을 다음에도 지킬수 있도록 하였습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_end_watching.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong> TECHNOLOGIES & TOOLS</strong> <br />
 Sketch, Illustrator, AfterEffect<br /><br />
 <strong> RELATED PROJECTS </strong> <br />
