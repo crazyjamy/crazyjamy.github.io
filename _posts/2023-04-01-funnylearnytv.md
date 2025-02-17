@@ -42,7 +42,7 @@ introduction: App
 <span>부모가 키즈 탭을 원하는 카테고리와 스타일에 맞게 자유롭게 커스터마이징할 수 있도록 했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>TabBar - B </strong> <br />
-<span>모드에 따라 상단 큐레이션 영역에는 부모가 승인된 영상과 채널만 표시되도록 설계 하였습니다.</span><br /><br />
+<span>모드에 따라 상단 큐레이션 영역에는 부모가 승인된 영상과 채널만 표시 되도록 설계 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Like Video Motion</strong> <br />
 <span>자녀가 좋아하는 영상 또는 채널을 기억하고 싶을 때 하트가 터지는 인터랙션을 연출하여,<br />좋아하는 영상을 기억하고 싶은 그 순간의 경험을 극대화 하고자 했습니다</span><br /><br />
@@ -56,7 +56,7 @@ introduction: App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Password Motion</strong> <br />
-<span>부호자 전용화면은 비밀번호를 설정하여 자녀의 안전한 시청 환경을 조성하도록 하였습니다.</span><br /><br />
+<span>보호자 전용 화면은 비밀번호를 설정하여 자녀의 안전한 시청 환경을 조성하도록 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_lock.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Setting</strong> <br />
 <span>자녀의 시청 시간과 시청 편수를 한눈에 확인할 수 있도록 구성했으며, <br />다양한 설정 옵션을 제공하여 안전한 시청 환경을 조성할 수 있도록 설계했습니다.</span><br /><br />
@@ -68,14 +68,14 @@ introduction: App
 <span>보호자가 승인한 영상만 재생되는 모션을 활용하여 자녀의 안전한 시청을 돕고, 직관적으로 이해할 수 있도록 했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_mode_check.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Delete & UnLock Video Motion</strong> <br />
-<span>캐릭터들이 우주선을 보며 놀라는 모습이과 가로등 밑에서 노는 모습을 통해 심심할 수 있는 팝업에 생동감과 다채로움을 더했씁니다.</span><br /><br />
+<span>캐릭터들이 우주선을 보며 놀라는 모습이과 가로등 밑에서 노는 모습을 통해 심심할 수 있는 팝업에 생동감과 다채로움을 더했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_streetlight.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_spaceship.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Loading Motion</strong> <br />
 <span>지루할 수 있는 로딩화면을 캐릭터 모션을 추가하여 재미있게 표현 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_loading.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>End Watching Motion</strong> <br />
-<span>시청시간이 끝나면 자녀에게 작은 보상을 주어 약속을 다음에도 지킬수 있도록 하였습니다.</span><br /><br />
+<span>시청 시간이 끝나면 자녀에게 작은 보상을 주어 약속을 다음에도 지킬 수 있도록 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_end_watching.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong> TECHNOLOGIES & TOOLS</strong> <br />
 Sketch, Illustrator, AfterEffect<br /><br />
