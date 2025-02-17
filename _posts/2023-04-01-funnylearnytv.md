@@ -37,7 +37,7 @@ introduction: App
     <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-yellow.gif?raw=true" alt="Image 6" width="300"></td>
   </tr>
 </table>
-<br /><br />
+<br /><br /><br />
 <strong>TabBar - A </strong> <br />
 <span>부모가 키즈 탭을 원하는 카테고리와 스타일에 맞게 자유롭게 커스터마이징할 수 있도록 했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
@@ -48,20 +48,25 @@ introduction: App
 <span>자녀가 좋아하는 영상 또는 채널을 기억하고 싶을 때 하트가 터지는 인터랙션을 연출하여,<br />좋아하는 영상을 기억하고 싶은 그 순간의 경험을 극대화 하고자 했습니다</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_main_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_channel_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Player</span><br />
+<strong>Player</strong> <br />
+<span>자녀가 직접 플레이어를 조작할 수 있도록 버튼을 크고 둥근 형태로 배치했으며,<br /> 부모의 설정에 따라 좌측에서 영상 선택이 불가능하도록 설계했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_player_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Search Empty</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Like - Empty </span><br />
+<strong>Empty Motion</strong> <br />
+<span>자칫 그냥 지나칠 수 있는 빈페이지에는 각 캐릭터들이 기차를 타며 꽃을 구경하는 모션을 활용해 재미를 더했습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_train_2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Add Group</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/AddGroup.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Group Setting</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/GroupSetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Mode Check</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_mode_check.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Password</span><br />
+<strong>Password Motion</strong> <br />
+<span>부호자 전용화면은 비밀번호를 설정하여 자녀의 안전한 시청 환경을 조성하도록 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_lock.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<strong>Setting</strong> <br />
+<span>자녀의 시청 시간과 시청 편수를 한눈에 확인할 수 있도록 구성했으며, <br />다양한 설정 옵션을 제공하여 안전한 시청 환경을 조성할 수 있도록 설계했습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Setting_Time.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<strong>Group Setting</strong> <br />
+<span>콘텐츠 직접 승인, 자유시청, 연령별 컨텐츠 모음 등 다양한 시청 옵션을 선택할 수 있도록 설계하였습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/GroupSetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<strong>Check Motion</strong> <br />
+<span>보호자가 승인한 영상만 재생되는 모션을 활용하여 자녀의 안전한 시청을 돕고, 직관적으로 이해할 수 있도록 했습니다.</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_mode_check.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <span style="color: #646464;">Loading</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_loading.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <span style="color: #646464;">End Watching</span><br />
@@ -70,8 +75,6 @@ introduction: App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_streetlight.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <span style="color: #646464;">Unlock Block Video</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_spaceship.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
-<span style="color: #646464;">Setting </span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Setting_Time.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong> TECHNOLOGIES & TOOLS</strong> <br />
 Sketch, Illustrator, AfterEffect<br /><br />
 <strong> RELATED PROJECTS </strong> <br />
