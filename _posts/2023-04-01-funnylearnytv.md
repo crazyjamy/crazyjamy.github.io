@@ -21,8 +21,8 @@ introduction: App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/03_likehistory.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/04_setting.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;" width="1000"> <br /> <br /> <br />
-<strong> DESIGN & ITERATION</strong> <br /><br />
-<span style="color: #646464;">Character</span><br />
+<strong>CHARACTER</strong> <br /><br />
+<span>아이들이 좋아할 친큰한 캐릭터 일러스트는 앱이 제공하는 서비스의 따뜻하고 배려깊은 지향점을 강조하려고 하였습니다.</span><br />
 <table>
   <tr>
     <td><img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/cha-blue.gif?raw=true" alt="Image 1" width="300"></td>
@@ -68,7 +68,7 @@ introduction: App
 <span>보호자가 승인한 영상만 재생되는 모션을 활용하여 자녀의 안전한 시청을 돕고, 직관적으로 이해할 수 있도록 했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_mode_check.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Delete & UnLock Video Motion</strong> <br />
-<span>캐릭터들이 우주선을 보며 놀라는 모습이과 가로등 밑에서 노는 모습을 통해 심심할 수 있는 팝업 화면에 재미를 더했습니다.</span><br /><br />
+<span>캐릭터들이 우주선을 보며 놀라는 모습이과 가로등 밑에서 노는 모습을 통해 심심할 수 있는 팝업에 생동감과 다채로움을 더했씁니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_streetlight.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_spaceship.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Loading Motion</strong> <br />
