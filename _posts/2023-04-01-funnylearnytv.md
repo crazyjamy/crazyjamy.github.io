@@ -59,7 +59,7 @@ introduction: App
 <span>보호자 전용 화면은 비밀번호를 설정하여 자녀의 안전한 시청 환경을 조성하도록 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/prototype_lock.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Setting</strong> <br />
-<span>자녀의 시청 시간과 시청 편수를 한눈에 확인할 수 있도록 구성했으며, <br />다양한 설정 옵션을 제공하여 안전한 시청 환경을 조성할 수 있도록 설계했습니다.</span><br /><br />
+<span>자녀의 시청 시간과 시청 편수를 한 눈에 확인할 수 있도록 구성했으며, <br />다양한 설정 옵션을 제공하여 안전한 시청 환경을 조성할 수 있도록 설계했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Setting_Time.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Group Setting</strong> <br />
 <span>콘텐츠 직접 승인, 자유시청, 연령별 컨텐츠 모음 등 다양한 시청 옵션을 선택할 수 있도록 설계하였습니다.</span><br /><br />
