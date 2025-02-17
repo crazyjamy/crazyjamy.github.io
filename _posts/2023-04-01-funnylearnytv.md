@@ -39,14 +39,14 @@ introduction: App
 </table>
 <br /><br />
 <strong>TabBar - A </strong> <br />
-<span>부모가 키즈 탭을 원하는 카테고리와 스타일에 맞게 자유롭게 커스터마이징할 수 있도록 했습니다.</span><br />
+<span>부모가 키즈 탭을 원하는 카테고리와 스타일에 맞게 자유롭게 커스터마이징할 수 있도록 했습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-1.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>TabBar - B </strong> <br />
-<span>모드에 따라 상단 큐레이션 영역에는 부모가 승인된 영상과 채널만 표시되도록 설계 하였습니다.</span><br />
+<span>모드에 따라 상단 큐레이션 영역에는 부모가 승인된 영상과 채널만 표시되도록 설계 하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/tab-menu-2.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <strong>Like Video Motion</strong> <br />
-<span>자녀가 좋아하는 영상 또는 채널을 기억하고 싶을 때 하트가 터지는 인터랙션을 연출하여,<br />좋아하는 영상을 기억하고 싶은 그 순간의 경험을 극대화 하고자 했습니다</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_main_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
+<span>자녀가 좋아하는 영상 또는 채널을 기억하고 싶을 때 하트가 터지는 인터랙션을 연출하여,<br />좋아하는 영상을 기억하고 싶은 그 순간의 경험을 극대화 하고자 했습니다</span><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_main_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_channel_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
 <span style="color: #646464;">Player</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/Prototype_player_heart.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 720px;"><br /><br /><br />
