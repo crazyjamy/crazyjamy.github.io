@@ -46,7 +46,7 @@ introduction: 1v. App
 <span>상단의 트로피와 하단의 풍선으로 대회를 행사 처럼 보이게끔 연출하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong>Contest Motion</strong> <br />
-<span>상단의 트로피와 하단의 풍선으로 대회를 행사 처럼 보이게끔 연출하였습니다.</span><br /><br />
+<span>대회 진행 시에는 점수와 시간을 눈에 띄게금 표시하여 사용자의 긴장감을 높였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest-flower.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Popup_MatchOrder.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong>Result Motion</strong> <br />
