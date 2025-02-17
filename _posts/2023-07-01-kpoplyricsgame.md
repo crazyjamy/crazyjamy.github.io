@@ -45,13 +45,15 @@ introduction: 1v. App
 <strong>Wrong Match Motion</strong> <br />
 <span>글자 카드를 잘 못 맞추었을 때는 다시 음악을 틀어주어 다시 도전할 수 있게끔 조성하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/%20failgame.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Popup Results</span><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Popup_MatchOrder.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Contest</span><br />
+<strong>Contest Mode</strong> <br />
+<span>상단의 트로피와 하단의 풍선으로 대회를 행사 처럼 보이게끔 연출하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Contest Mode</span><br />
+<strong>Contest Motion</strong> <br />
+<span>상단의 트로피와 하단의 풍선으로 대회를 행사 처럼 보이게끔 연출하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest-flower.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<span style="color: #646464;">Contest Results</span><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Popup_MatchOrder.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
+<strong>Result Motion</strong> <br />
+<span>게임 결과 화면은 역동적으로 모션을 설계하여 사용자의 몰입감을 극대화 하려고 노력하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Result_Contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <span style="color: #646464;">Check in Event</span><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/checkin.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
