@@ -21,7 +21,7 @@ introduction: App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/03_likehistory.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/04_setting.png?raw=true" alt="" style="border: 1px solid #e1e1e1;" width="1000">
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kidstv/05_groupsetting.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 0px 0px 10px 10px;" width="1000"> <br /> <br /> <br />
-<strong>CHARACTER</strong> <br /><br />
+<strong>CHARACTER</strong> <br />
 <span>아이들이 좋아할 친큰한 캐릭터 일러스트는 앱이 제공하는 서비스의 따뜻하고 배려깊은 지향점을 강조하려고 하였습니다.</span><br />
 <table>
   <tr>
