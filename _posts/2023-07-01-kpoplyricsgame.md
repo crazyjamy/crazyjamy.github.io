@@ -66,7 +66,7 @@ introduction: 1v. App
 <span>사용자가 앱을 자신의 선호에 맞게 커스터마이징 할 수 있도록 설계하였습니다.</span><br /><br />      
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Setting.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong>Delete</strong> <br />
-<span>쓰레기를 버리는 연출로 데이터를 삭제하는 그 순간 경험을 극대화하려고 노력했습니다.</span><br /><br />      
+<span>쓰레기를 버리는 연출로 데이터를 삭제하는 그 순간 경험을 극대화 시켰습니다.</span><br /><br />      
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Bookmark_Delete.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong>More Gem</strong> <br />
 <span>앱내 광고를 시청하면 리워드 보상이 있음을 위트있게 표현하려고 하였습니다.</span><br /><br />     
