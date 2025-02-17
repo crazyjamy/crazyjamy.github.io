@@ -30,7 +30,7 @@ introduction: 1v. App
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/app-icon.png?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 240px;"><br /><br /><br />
 <strong>Tab</strong> <br />
 <span>하단과 상단 탭은 사용자에게 좋은 인상을 주는 위트요소로 인터렉션 효과를 적용하였습니다.</span><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-top.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 700px;"><br /><br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-top.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 700px;"><br />
 <br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/tabbar-bottom.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px;width: 700px;"><br /><br /><br />
 <strong>Select Mode</strong> <br />
@@ -48,8 +48,8 @@ introduction: 1v. App
 <strong>Contest Motion</strong> <br />
 <span>대회 진행 시에는 점수와 시간을 눈에 띄게금 표시하여 사용자의 긴장감을 높였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/contest-flower.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
-<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Popup_MatchOrder.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong>Result Motion</strong> <br />
+<img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Popup_MatchOrder.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br />
 <span>게임 결과 화면은 역동적으로 모션을 설계하여 사용자의 몰입감을 극대화 하려고 노력하였습니다.</span><br /><br />
 <img src="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_images/_post/kpoplyricsgame/Prototype_Result_Contest.gif?raw=true" alt="" style="border: 1px solid #e1e1e1; border-radius: 10px; width: 360px;"><br /><br /><br />
 <strong>Check in Event</strong> <br />
