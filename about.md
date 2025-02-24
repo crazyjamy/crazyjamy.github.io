@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 <div style="margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-    <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">EXPERIENCE & EDUCATIONS</h2>
+    <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px; margin-right: 20px;">EXPERIENCE & EDUCATIONS</h2>
     <div>
         <span style="color: #969696;">2024.06 — 2024.12</span>
         <span style="margin-left: 50px; font-weight: 600;">지란지교에스앤씨</span>
@@ -72,9 +72,9 @@ permalink: /about/
         <span style="margin-left: 240px;"> → 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)</span><br /> 
         <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행, 각 디자인 성과 분석:</span> 
         <a href="../kpopdictoc/" target=""> 2nd Version + </a><br /> 
-        <span style="color: #969696; margin-left: 270px;"> • 그래픽 이미지 및 앱 아이콘 리디자인으로 63% 전환율 향상 <a href="../ab-kpoplyricsgame-230724/" target="">Experiment results +</a></span><br /> 
-        <span style="color: #969696; margin-left: 270px;"> •  그래픽 이미지 및 앱 UI 리디자인으로 38% 전환율 향상 <a href="../ab-kpoplyricsgame-240402/" target="">Experiment results +</a></span><br /> 
-        <span style="color: #969696; margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 50만 다운로드와 평점 4.3 유지에 기여.</span><br /> 
+        <span style="margin-left: 270px;"> • 그래픽 이미지 및 앱 아이콘 리디자인으로 63% 전환율 향상 <a href="../ab-kpoplyricsgame-230724/" target="">Experiment results +</a></span><br /> 
+        <span style="margin-left: 270px;"> •  그래픽 이미지 및 앱 UI 리디자인으로 38% 전환율 향상 <a href="../ab-kpoplyricsgame-240402/" target="">Experiment results +</a></span><br /> 
+        <span style="margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 50만 다운로드와 평점 4.3 유지에 기여.</span><br /> 
     </div>
     <div>
         <span style="color: #969696;"> 2023 </span>
@@ -117,13 +117,13 @@ permalink: /about/
         <span style="color: #969696;"> 2017 </span>
         <span style="margin-left: 150px;">INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank">Download ↗</a></span><br /> 
         <span style="margin-left: 240px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
-    <span style="color: #969696; margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 100만 다운로드와 평점 4.1 유지에 기여.</span><br /> 
+    <span style="margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 100만 다운로드와 평점 4.1 유지에 기여.</span><br /> 
     </div>
     <div>
         <span style="color: #969696;"> 2017 </span>
         <span style="margin-left: 150px;">Video Stream <a href="https://play.google.com/store/apps/details?id=io.jmobile.video.browser" target="_blank">Download ↗</a></span><br /> 
         <span style="margin-left: 240px;"> → 전세계 인기 동영상 콘텐츠를 맞춤형으로 즐길 수 있는 앱 디자인 진행</span><br /> 
-        <span style="color: #969696; margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 100만 다운로드와 평점 4.7 유지에 기여.</span><br /> 
+        <span style="margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 100만 다운로드와 평점 4.7 유지에 기여.</span><br /> 
     </div>
     <div>
         <span style="color: #969696;"> 2017 </span>
@@ -138,9 +138,9 @@ permalink: /about/
         <span style="margin-left: 240px;"> → 동영상 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
         <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br /> 
         <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행</span><br /> 
-        <span style="color: #969696; margin-left: 270px;"> • 그래픽 이미지 및 앱 아이콘 리디자인으로 18% 전환율 향상. <a href="../ab-hdvd-220921/" target=""> Experiment results +</a></span><br /> 
-        <span style="color: #969696; margin-left: 270px;"> • 그래픽 이미지 및 앱 UI 리디자인으로 48.3% 전환율 향상. <a href="../ab-hdvd-211105/" target=""> Experiment results +</a></span><br /> 
-        <span style="color: #969696; margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 1억 다운로드 달성.</span><br /> 
+        <span style="margin-left: 270px;"> • 그래픽 이미지 및 앱 아이콘 리디자인으로 18% 전환율 향상. <a href="../ab-hdvd-220921/" target=""> Experiment results +</a></span><br /> 
+        <span style="margin-left: 270px;"> • 그래픽 이미지 및 앱 UI 리디자인으로 48.3% 전환율 향상. <a href="../ab-hdvd-211105/" target=""> Experiment results +</a></span><br /> 
+        <span style="margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 1억 다운로드 달성.</span><br /> 
     </div>
     <div>
         <span style="color: #969696;"> 2016 </span>
@@ -240,5 +240,3 @@ permalink: /about/
         span { display: block; margin-left: 0 !important; }
     }
 </style>
-
-
