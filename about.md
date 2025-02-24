@@ -60,7 +60,7 @@ permalink: /about/
     <div>
     <span style="color: #969696;">2024</span>
     <span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트</span>
-        <a href="https://www.jiransnc.com" target="_blank">Visit Website ↗</a><br /> 
+        <a href="https://www.jiransnc.com" target="_blank" class="button">Visit Website ↗</a><br /> 
     <span style="margin-left: 240px;"> → 디자인 및 최적화 </span><br /> 
     </div>
     <div>
@@ -111,7 +111,7 @@ permalink: /about/
     </div>
     <div>
         <span style="color: #969696;"> 2018 </span>
-        <span style="margin-left: 150px;">Barcode Scanner <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" target="_blank">Download ↗ class="button"</a></span><br /> 
+        <span style="margin-left: 150px;">Barcode Scanner <a href="https://play.google.com/store/apps/details?id=io.jmobile.jmscanner" target="_blank" class="button">Download ↗ </a></span><br /> 
         <span style="margin-left: 240px;">→ 바코드 스캔과 제작할 수 있는 앱 디자인 진행: </span> <a href="../barcode_scanner/" target="" class="button"> Research Note & Interaction +</a> <br /> 
     </div>
     <div>
