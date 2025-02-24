@@ -115,7 +115,7 @@ permalink: /about/
     <div>
         <span style="color: #969696;"> 2017 </span>
         <span style="margin-left: 150px; font-weight: 600;">INSTANT <a href="https://play.google.com/store/apps/details?id=io.jmobile.instant" target="_blank" class="button">Download ↗</a></span><br /> 
-        <span style="margin-left: 240px; font-weight: 600;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
+        <span style="margin-left: 240px;"> → 인스타그램 컨텐츠 다운로더 앱 디자인 진행</span><br /> 
     <span style="margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 100만 다운로드와 평점 4.1 유지에 기여.</span><br /> 
     </div>
     <div>
