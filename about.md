@@ -51,9 +51,7 @@ permalink: /about/
         <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
         <span style="margin-left: 240px;">• 조형예술학 졸업</span>
     </div>
-</div>
-<div style="margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-    <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">Projects</h2>
+<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">Projects</h2>
     <div>
         <span style="color: #969696;">2024</span>
         <span style="margin-left: 150px;">VADA 취약점 자동진단 솔루션</span><br>
@@ -200,9 +198,7 @@ permalink: /about/
         <span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span> <br />
         <span style="margin-left: 240px;"> → 캐릭터 디자인 </span> <a href="../marshmello/" target=""> Character +</a><br />
     </div>
-</div>
-<div style="margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-    <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">AWARD</h2>
+<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">AWARD</h2>
     <div>
         <span style="color: #969696;">2013.11.28.</span>
         <span style="margin-left: 110px;">창업 경진 대회</span> <br />
@@ -213,8 +209,6 @@ permalink: /about/
         <span style="margin-left: 110px;">청렴공모전, 어플리케이션 부문</span> <br />
         <span style="margin-left: 240px;"> • 국민권익위원회, "우수상"</span> <br />
     </div>
-</div>
-<div style="margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">>EXHIBITION</h2>
     <div>
         <span style="color: #969696;">2014. 07. 13 — 2014. 08. 06</span>
@@ -236,10 +230,9 @@ permalink: /about/
         <span style="margin-left: 50px;"> Seoul, imazoo Gallery,</span><br />   
         <span style="margin-left: 280px;"> • 시퀀스전 <a href="http://www.imazoo.com/index.htm" target="_blank">Gallery Url ↗</a></span>
     </div>
-</div>
-
-<div>
- <a href="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_cv/BakHyeLin_Resume_2025.pdf?raw=true" download="BakHyeLin_Resume_2025.pdf">Click here to download the PDF</a>
+    <div>
+     <a href="https://github.com/crazyjamy/crazyjamy.github.io/blob/master/_cv/BakHyeLin_Resume_2025.pdf?raw=true" download="BakHyeLin_Resume_2025.pdf">Click here to download the PDF</a>
+    </div>
 </div>
 <style>
     @media (max-width: 768px) {
