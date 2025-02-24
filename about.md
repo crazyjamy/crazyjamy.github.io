@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 <div style="margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-    <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px; margin-right: 20px;padding: 0 !important;">EXPERIENCE & EDUCATIONS</h2>
+    <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px; margin-right: 20px; padding: 0 !important;">EXPERIENCE & EDUCATIONS</h2>
     <div>
         <span style="color: #969696;">2024.06 — 2024.12</span>
         <span style="margin-left: 50px; font-weight: 600;">지란지교에스앤씨</span>
@@ -51,7 +51,7 @@ permalink: /about/
         <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
         <span style="margin-left: 240px;">• 조형예술학 졸업</span>
     </div>
-<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">Projects</h2>
+<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px; padding: 0 !important;">Projects</h2>
     <div>
         <span style="color: #969696;">2024</span>
         <span style="margin-left: 150px;">VADA 취약점 자동진단 솔루션</span><br>
