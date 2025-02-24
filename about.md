@@ -49,7 +49,7 @@ permalink: /about/
         <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
         <span style="margin-left: 240px;">• 조형예술학 졸업</span>
     </div>
-<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px; padding: 0 !important;">Projects</h2>
+<h2 style="font-weight: 600; font-size: 24px; margin-top: 60px; margin-bottom: 30px; padding: 0 !important;">Projects</h2>
     <div>
         <span style="color: #969696;">2024</span>
         <span style="margin-left: 150px; font-weight: 600;">VADA 취약점 자동진단 솔루션</span><br>
@@ -198,7 +198,7 @@ permalink: /about/
         <span style="margin-left: 240px;"> → 위치 기반 서비스를 기반으로 선호 브랜드에 대한 정보, 인근 지역의 매장, 쇼핑마켓에 대한 정보 제공 앱 디자인 진행</span> <br />
         <span style="margin-left: 240px;"> → 캐릭터 디자인 </span> <a href="../marshmello/" target="" class="button"> Character +</a><br />
     </div>
-<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;padding: 0 !important;">AWARD</h2>
+<h2 style="font-weight: 600; font-size: 24px;margin-top: 60px; margin-bottom: 30px;padding: 0 !important;">AWARD</h2>
     <div>
         <span style="color: #969696;">2013.11.28.</span>
         <span style="margin-left: 110px; font-weight: 600;">창업 경진 대회</span> <br />
@@ -209,7 +209,7 @@ permalink: /about/
         <span style="margin-left: 110px; font-weight: 600;">청렴공모전, 어플리케이션 부문</span> <br />
         <span style="margin-left: 240px;"> • 국민권익위원회, "우수상"</span> <br />
     </div>
-<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px; padding: 0 !important;">EXHIBITION</h2>
+<h2 style="font-weight: 600; font-size: 24px; margin-top: 60px; margin-bottom: 30px; padding: 0 !important;">EXHIBITION</h2>
     <div>
         <span style="color: #969696;">2014. 07. 13 — 2014. 08. 06</span>
         <span style="margin-left: 50px; font-weight: 600;"> New York, gallery MC,</span><br />
