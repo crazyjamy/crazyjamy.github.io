@@ -236,7 +236,7 @@ permalink: /about/
 </div>
 <style>
     @media (max-width: 768px) {
-        div { margin-left: 20px; }
+        div { margin-left: 0px; }
         span { display: block; margin-left: 0 !important; }
     }
 .button {
