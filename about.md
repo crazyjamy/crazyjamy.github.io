@@ -241,17 +241,17 @@ permalink: /about/
     }
 .button {
     display: inline-block;
-    padding: 8px 12px;
+    padding: 0px 10px;
     margin: 5px 0;
     background-color: #E0F7FA; /* 버튼 배경색 */
     color: #26C6DA; /* 텍스트 색상 */
     text-decoration: none; /* 밑줄 제거 */
     border-radius: 10px; /* 버튼 모서리 둥글게 */
-    font-weight: bold;
+    font-weight: regular;
     font-size: 0.7em;
     transition: background 0.3s ease;
 }
 .button:hover {
-    background-color: #0056b3; /* 마우스 호버 시 색상 변경 */
+    background-color: #C7F6FC; /* 마우스 호버 시 색상 변경 */
 }
 </style>
