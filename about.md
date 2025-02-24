@@ -157,10 +157,10 @@ permalink: /about/
     <div>
         <span style="color: #969696;"> 2016 </span>
         <span style="margin-left: 150px;">Babosarang</span><br />      
-        <span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행: <a href="../babosarang-web/" target="" class="button"> Web + </a><a href="../babosarang-mobile/" target=""> App + </a></span><br />         
+        <span style="margin-left: 240px;"> → 디자인 문구 쇼핑몰 메인 웹/모바일 디자인 진행: <a href="../babosarang-web/" target="" class="button"> Web + </a><a href="../babosarang-mobile/" target="" class="button"> App + </a></span><br />         
         <span style="margin-left: 240px;"> → 신년 다이어리 기획전 기획</span><br />         
         <span style="margin-left: 240px;"> → 캐릭터 문구 기획전 기획</span><br /> 
-        <span style="color: #969696; margin-left: 270px;"> • 하루 평균 8,000명의 방문자 유지, UI 개선 후 전환율 15% 증가.</span><br /> 
+        <span style="margin-left: 270px;"> • 하루 평균 8,000명의 방문자 유지, UI 개선 후 전환율 15% 증가.</span><br /> 
     </div>
     <div>
         <span style="color: #969696;"> 2016 </span>
@@ -224,7 +224,7 @@ permalink: /about/
     <div>
         <span style="color: #969696;">2013. 10. 10 — 2013. 11. 15</span>
         <span style="margin-left: 50px;"> Seoul, 72시간 도시 생생 프로젝트, </span><br />
-        <span style="margin-left: 280px;"> • 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank">Press ↗</a></span><br />   
+        <span style="margin-left: 280px;"> • 모즐디 <a href="https://www.lafent.com/inews/news_view.html?news_id=110411" target="_blank" class="button">Press ↗</a></span><br />   
     </div>
     <div>
         <span style="color: #969696;">2013. 08. 02 — 2013. 08. 10</span>
