@@ -35,14 +35,12 @@ permalink: /about/
     </div>
     <div>
         <span style="color: #969696;">2015.08 — 2015.11</span>
-        <span style="margin-left: 50px; font-weight: 600;">MOOOVR</span>
-        <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
+        <span style="margin-left: 50px; font-weight: 600;">MOOOVR</span> <br>
         <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
     </div>
    <div>
         <span style="color: #969696;">2015.01 — 2015.08</span>
-        <span style="margin-left: 50px; font-weight: 600;">SURF</span>
-        <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
+        <span style="margin-left: 50px; font-weight: 600;">SURF</span><br>
         <span style="margin-left: 240px;">• UI/UX DESIGNER/span>
     </div>
     <div>
