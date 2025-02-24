@@ -21,17 +21,17 @@ permalink: /about/
     </div>
      <div>
         <span style="color: #969696;">2017.05 — 2017.12</span>
-        <span style="margin-left: 50px; font-weight: 600;">지란지교소프트</span>
+        <span style="margin-left: 50px; font-weight: 600;">지란지교소프트</span><br>
         <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
     </div>
      <div>
         <span style="color: #969696;">2016.06 — 2017.04</span>
-        <span style="margin-left: 50px; font-weight: 600;">Babosarang</span>
+        <span style="margin-left: 50px; font-weight: 600;">Babosarang</span><br>
         <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
     </div>
      <div>
         <span style="color: #969696;">2015.12 — 2016.06</span>
-        <span style="margin-left: 50px; font-weight: 600;">BESOFT</span>
+        <span style="margin-left: 50px; font-weight: 600;">BESOFT</span><br>
         <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
     </div>
     <div>
@@ -60,6 +60,11 @@ permalink: /about/
         <span style="color: #969696;">2024</span>
         <span style="margin-left: 150px;">VADA 취약점 자동진단 솔루션</span><br>
         <span style="margin-left: 240px;">→ 프로그램 디자인 유지보수 및 최적화</span>
+    </div>
+    <div>
+    <span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트</span>
+        <a href="https://www.jiransnc.com" target="_blank">Visit Website ↗</a><br /> 
+    <span style="margin-left: 240px;"> → 디자인 및 최적화 </span><br /> 
     </div>
     <div>
         <span style="color: #969696;">2023</span>
