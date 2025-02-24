@@ -151,7 +151,7 @@ permalink: /about/
     </div>
     <div>
         <span style="color: #969696;"> 2016 </span>
-        <span style="margin-left: 150px;">KKaKKungNoriter<a href="http://kkakkungnoriter.com/" target="_blank" class="button"> Visit Website ↗</a></span><br /> 
+        <span style="margin-left: 150px;">KKaKKungNoriter <a href="http://kkakkungnoriter.com/" target="_blank" class="button"> Visit Website ↗</a></span><br /> 
         <span style="margin-left: 240px;">→ 아동 용품 쇼핑몰 웹/앱 디자인 진행</span><br /> 
     </div>
     <div>
