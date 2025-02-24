@@ -5,26 +5,78 @@ description: Some description.
 permalink: /about/
 ---
 
-
-<div style="margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
-<span style="font-weight: bold; font-size: 24px; font-style: normal; font-weight: 600;">EXPERIENCE & EDUCATIONS</span><br /><br />
-<span style="color: #969696;">2024.06 — 2024.12</span><span style="margin-left: 50px; font-weight: 600;">지란지교에스앤씨 <a href="https://www.jiransnc.com" target="_blank">↗</a></span><br />
-<span style="margin-left: 240px;"> • DESIGNER</span><br />
-<span style="color: #969696;">2018.01 — 2024.06</span><span style="margin-left: 50px; font-weight: 600;">teammobile.io <a href="https://www.teammobile.io/" target="_blank">↗</a></span><br />   
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
-<span style="color: #969696;">2017.05 — 2017.12</span><span style="margin-left: 50px; font-weight: 600;">지란지교 <a href="https://www.jiran.com/" target="_blank">↗</a></span><br />
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
-<span style="color: #969696;">2016.06 — 2017.04</span><span style="margin-left: 50px; font-weight: 600;">Babosarang</span><br /> 
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
-<span style="color: #969696;">2015.12 — 2016.06</span><span style="margin-left: 50px; font-weight: 600;">BESOFT</span><br />
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br /> 
-<span style="color: #969696;">2015.08 — 2015.11</span><span style="margin-left: 50px; font-weight: 600;">MOOOVR</span><br />
-<span style="margin-left: 240px;"> • UI/UX DESIGNER, VISUAL EFFECTS ARTIST</span><br />
-<span style="color: #969696;">2015.01 — 2015.08</span><span style="margin-left: 50px; font-weight: 600;">SURF</span><br /> 
-<span style="margin-left: 240px;"> • UI/UX DESIGNER</span><br />
-<span style="color: #969696;">2011.03 — 2015.03</span><span style="margin-left: 50px; font-weight: 600;">충북대학교 <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a></span><br />
-<span style="margin-left: 240px;"> • 조형예술학 졸업</span><br />
+<div style="margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
+    <h2 style="font-weight: 600; font-size: 24px;">EXPERIENCE & EDUCATIONS</h2>
+    <div>
+        <span style="color: #969696;">2024.06 — 2024.12</span>
+        <span style="margin-left: 50px; font-weight: 600;">지란지교에스앤씨</span>
+        <a href="https://www.jiransnc.com" target="_blank">↗</a><br>
+        <span style="margin-left: 240px;">• DESIGNER</span>
+    </div>
+    <div>
+        <span style="color: #969696;">2018.01 — 2024.06</span>
+        <span style="margin-left: 50px; font-weight: 600;">teammobile.io</span>
+        <a href="https://www.teammobile.io/" target="_blank">↗</a><br>
+        <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
+    </div>
+     <div>
+        <span style="color: #969696;">2017.05 — 2017.12</span>
+        <span style="margin-left: 50px; font-weight: 600;">지란지교소프트</span>
+        <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
+    </div>
+     <div>
+        <span style="color: #969696;">2016.06 — 2017.04</span>
+        <span style="margin-left: 50px; font-weight: 600;">Babosarang</span>
+        <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
+    </div>
+     <div>
+        <span style="color: #969696;">2015.12 — 2016.06</span>
+        <span style="margin-left: 50px; font-weight: 600;">BESOFT</span>
+        <span style="margin-left: 240px;">• UI/UX DESIGNER</span>
+    </div>
+    <div>
+        <span style="color: #969696;">2015.08 — 2015.11</span>
+        <span style="margin-left: 50px; font-weight: 600;">MOOOVR</span>
+        <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
+        <span style="margin-left: 240px;">• UI/UX DESIGNER/span>
+    </div>
+   <div>
+        <span style="color: #969696;">2015.01 — 2015.08</span>
+        <span style="margin-left: 50px; font-weight: 600;">SURF</span>
+        <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
+        <span style="margin-left: 240px;">• UI/UX DESIGNER/span>
+    </div>
+    <div>
+        <span style="color: #969696;">2011.03 — 2015.03</span>
+        <span style="margin-left: 50px; font-weight: 600;">충북대학교</span>
+        <a href="https://www.cbnu.ac.kr/www/index.do" target="_blank">↗</a><br>
+        <span style="margin-left: 240px;">• 조형예술학 졸업</span>
+    </div>
 </div>
+
+<div style="margin-top: 30px; margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
+    <h2 style="font-weight: 600; font-size: 24px;">PROJECT</h2>
+    <div>
+        <span style="color: #969696;">2024</span>
+        <span style="margin-left: 150px;">VADA 취약점 자동진단 솔루션</span><br>
+        <span style="margin-left: 240px;">→ 프로그램 디자인 유지보수 및 최적화</span>
+    </div>
+    <div>
+        <span style="color: #969696;">2023</span>
+        <span style="margin-left: 150px;">DicToc KPOP</span>
+        <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">Download ↗</a><br>
+        <span style="margin-left: 240px;">→ KPOP 가사 배우는 게임 앱 디자인 진행</span>
+    </div>
+</div>
+
+<style>
+    @media (max-width: 768px) {
+        div { margin-left: 20px; }
+        span { display: block; margin-left: 0 !important; }
+    }
+</style>
+
+
 <div style="margin-top: 30px; margin-left: 65px;line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
 <span style="font-weight: bold; font-size: 24px; font-style: normal; font-weight: 600;">PROJECT</span><br /><br />
 <span style="color: #969696;"> 2024 </span><span style="margin-left: 150px;"> VADA 취약점 자동진단 솔루션</span><br /> 
