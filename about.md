@@ -209,7 +209,7 @@ permalink: /about/
         <span style="margin-left: 110px;">청렴공모전, 어플리케이션 부문</span> <br />
         <span style="margin-left: 240px;"> • 국민권익위원회, "우수상"</span> <br />
     </div>
-<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">>EXHIBITION</h2>
+<h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px;">EXHIBITION</h2>
     <div>
         <span style="color: #969696;">2014. 07. 13 — 2014. 08. 06</span>
         <span style="margin-left: 50px;"> New York, gallery MC,</span><br />
