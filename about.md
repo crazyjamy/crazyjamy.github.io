@@ -243,11 +243,12 @@ permalink: /about/
     display: inline-block;
     padding: 8px 12px;
     margin: 5px 0;
-    background-color: #007bff; /* 버튼 배경색 */
-    color: #fff; /* 텍스트 색상 */
+    background-color: #E0F7FA; /* 버튼 배경색 */
+    color: #26C6DA; /* 텍스트 색상 */
     text-decoration: none; /* 밑줄 제거 */
-    border-radius: 5px; /* 버튼 모서리 둥글게 */
+    border-radius: 10px; /* 버튼 모서리 둥글게 */
     font-weight: bold;
+    font-size: 0.7em;
     transition: background 0.3s ease;
 }
 .button:hover {
