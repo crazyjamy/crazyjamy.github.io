@@ -65,15 +65,15 @@ permalink: /about/
     <div>
         <span style="color: #969696;">2023</span>
         <span style="margin-left: 150px;">DicToc KPOP</span>
-        <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank">Download ↗</a><br>
+        <a href="https://play.google.com/store/search?q=dictoc&c=apps" target="_blank" class="button">Download ↗</a><br>
         <span style="margin-left: 240px;">→ KPOP 가사 배우는 게임 앱 디자인 진행</span> 
-        <a href="../kpoplyricsgame/" target=""> 1st Version & Interaction + </a> <br /> 
+        <a href="../kpoplyricsgame/" target="" class="button">1st Version & Interaction +</a> <br /> 
         <span style="margin-left: 240px;"> → 구글 애즈워즈 캠페인 운영 및 관리</span><br />  
         <span style="margin-left: 240px;"> → 언어 특성을 고려한 UI 디자인 적용(6개 언어로 제작)</span><br /> 
         <span style="margin-left: 240px;"> → A/B 테스트 설계 및 실행, 각 디자인 성과 분석:</span> 
-        <a href="../kpopdictoc/" target=""> 2nd Version + </a><br /> 
-        <span style="margin-left: 270px;"> • 그래픽 이미지 및 앱 아이콘 리디자인으로 63% 전환율 향상 <a href="../ab-kpoplyricsgame-230724/" target="">Experiment results +</a></span><br /> 
-        <span style="margin-left: 270px;"> •  그래픽 이미지 및 앱 UI 리디자인으로 38% 전환율 향상 <a href="../ab-kpoplyricsgame-240402/" target="">Experiment results +</a></span><br /> 
+        <a href="../kpopdictoc/" target="" class="button">2nd Version +</a><br /> 
+        <span style="margin-left: 270px;"> • 그래픽 이미지 및 앱 아이콘 리디자인으로 63% 전환율 향상 <a href="../ab-kpoplyricsgame-230724/" target="" class="button">Experiment results +</a></span><br /> 
+        <span style="margin-left: 270px;"> • 그래픽 이미지 및 앱 UI 리디자인으로 38% 전환율 향상 <a href="../ab-kpoplyricsgame-240402/" target="" class="button">Experiment results +</a></span><br /> 
         <span style="margin-left: 270px;"> • UX 최적화 및 사용자 리서치를 통해 50만 다운로드와 평점 4.3 유지에 기여.</span><br /> 
     </div>
     <div>
@@ -239,4 +239,18 @@ permalink: /about/
         div { margin-left: 20px; }
         span { display: block; margin-left: 0 !important; }
     }
+.button {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 5px 0;
+    background-color: #007bff; /* 버튼 배경색 */
+    color: #fff; /* 텍스트 색상 */
+    text-decoration: none; /* 밑줄 제거 */
+    border-radius: 5px; /* 버튼 모서리 둥글게 */
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+.button:hover {
+    background-color: #0056b3; /* 마우스 호버 시 색상 변경 */
+}
 </style>
