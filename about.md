@@ -58,6 +58,7 @@ permalink: /about/
         <span style="margin-left: 240px;">→ 프로그램 디자인 유지보수 및 최적화</span>
     </div>
     <div>
+    <span style="color: #969696;">2024</span>
     <span style="margin-left: 150px;"> 지란지교에스앤씨 웹사이트</span>
         <a href="https://www.jiransnc.com" target="_blank">Visit Website ↗</a><br /> 
     <span style="margin-left: 240px;"> → 디자인 및 최적화 </span><br /> 
