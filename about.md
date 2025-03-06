@@ -79,7 +79,7 @@ permalink: /about/
         <span style="color: #969696;"> 2023 </span>
         <span style="margin-left: 150px; font-weight: 600;"> Funny Learny TV <br /> </span>
         <span style="margin-left: 240px;"> → 어린이용 동영상 관리 앱 디자인 진행: 
-        <a href="../funnylearnytv-research/" target=""> Reseach note + </a>•<a href="../funnylearnytv/" target="" class="button"> Interaction +</a></span><br /> 
+        <a href="../funnylearnytv-research/" target="" class="button"> Reseach note + </a>•<a href="../funnylearnytv/" target="" class="button"> Interaction +</a></span><br /> 
     </div>
     <div>
         <span style="color: #969696;"> 2021 </span>
