@@ -4,11 +4,6 @@ title: About
 description: Some description.
 permalink: /about/
 ---
-layout: page
-title: About
-description: Some description.
-permalink: /about/
----
 <div style="margin-left: 65px; line-height: 2; font-family: -apple-system, BlinkMacSystemFont, Lato, Roboto, Segoe UI, Helvetica Neue, Helvetica, Verdana, Arial, sans-serif;">
     <h2 style="font-weight: 600; font-size: 24px; margin-bottom: 30px; margin-right: 20px; padding: 0 !important;">EXPERIENCE & EDUCATIONS</h2>
         <div>
